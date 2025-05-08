@@ -1,0 +1,533 @@
+0
+Sub-question 1: "检查各国10年期国债收益率的涨幅数据是否一致。"
+Sub-question 2 (Parent node: Sub-question 1): "确定哪个国家的收益率数据显著异常。"
+Sub-question 3 (Parent node: Sub-question 2): "比较该国的收益率数据与其它国家的数据。"
+Sub-question 4 (Parent node: Sub-question 2): "核实该国的收益率与历史数据的一致性。"
+Sub-question 5 (Parent node: Sub-question 3): "确认该国收益率的准确性后，提供纠正数据。"
+
+
+
+1
+Sub-question 1: "什么是2023年二季度的财政支出占GDP比重数据？"
+Sub-question 2 (Parent node: Sub-question 1): "财政支出占GDP的比重如何与财政收入占比和财政收支差额相互关系？"
+Sub-question 3 (Parent node: Sub-question 1): "政府财政收支占GDP的比重在2023年一季度和二季度之间有什么变化？"
+Sub-question 4 (Parent node: Sub-question 3): "这些变化对政府财政政策可能产生什么影响？"
+Sub-question 5 (Parent node: Sub-question 3): "如何解读2023年二季度财政支出占GDP比重为115%的含义？"
+
+
+
+2
+Sub-question 1: "What are the reported values for PPI and core PPI for each month?"
+Sub-question 2 (Parent node: Sub-question 1): "What are the expected trends for PPI and core PPI over the given months?"
+Sub-question 3 (Parent node: Sub-question 1): "Are there any inconsistencies in the reported monthly values for PPI and core PPI?"
+Sub-question 4 (Parent node: Sub-question 2): "Do the month-over-month percentage changes align with the reported values of PPI and core PPI?"
+Sub-question 5 (Parent node: Sub-question 3): "Which specific data point shows an obvious error based on the analysis?"
+
+
+
+3
+Sub-question 1: "What is the GDP of the first industry in the second quarter of 2023?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total GDP for the second quarter of 2023?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the formula to calculate the percentage of the first industry's GDP in relation to the total GDP?"
+Sub-question 4 (Parent node: Sub-question 3): "How do we apply the formula using the values obtained in Sub-question 1 and Sub-question 2?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final percentage of the first industry's GDP in the total GDP for the second quarter of 2023?"
+
+
+
+4
+Sub-question 1: "2023年10月全国CPI同比上升的百分比是多少？"
+Sub-question 2 (Parent node: Sub-question 1): "上月CPI同比增速是多少？"
+Sub-question 3 (Parent node: Sub-question 1): "10月份的CPI同比增速是否由正增长转为负增长？"
+Sub-question 4 (Parent node: Sub-question 3): "CPI同比增速是否与上月数据一致？"
+Sub-question 5 (Parent node: Sub-question 1): "CPI同比上升的方向和幅度是否一致？"
+
+
+
+5
+Sub-question 1: "截止到2023年第44周末，国内进口油菜籽库存总量是多少？"
+Sub-question 2 (Parent node: Sub-question 1): "截止到2023年第44周末，上周的进口油菜籽库存量是多少？"
+Sub-question 3 (Parent node: Sub-question 1): "国内进口油菜籽库存较上一周减少了多少？"
+Sub-question 4 (Parent node: Sub-question 3): "减少的量是由什么计算得出的？"
+
+
+
+6
+Sub-question 1: "Which commodities have reported a price increase according to the data?"
+Sub-question 2 (Parent node: Sub-question 1): "Which commodities have reported a price decrease according to the data?"
+Sub-question 3 (Parent node: Sub-question 1): "Are there any contradictions in the reported price changes for the same commodities?"
+Sub-question 4 (Parent node: Sub-question 3): "What are the correct price changes for the commodities in question?"
+
+
+
+7
+Sub-question 1: "检查最新价格与涨幅%是否一致计算"
+Sub-question 2 (Parent node: Sub-question 1): "验证涨跌数值是否正确"
+Sub-question 3 (Parent node: Sub-question 1): "验证成交量和成交额是否合理"
+Sub-question 4 (Parent node: Sub-question 2): "检查最高价与今开和最低价的关系"
+Sub-question 5 (Parent node: Sub-question 3): "确认换手率与成交量和总股本的一致性"
+
+
+
+8
+Sub-question 1: "最新价、涨幅%、涨跌是否符合成交量的变化？"
+Sub-question 2 (Parent node: Sub-question 1): "成交额是否与成交量和最新价相符？"
+Sub-question 3 (Parent node: Sub-question 1): "最高价、最低价、开盘价是否在合理范围内？"
+Sub-question 4 (Parent node: Sub-question 2): "涨幅%是否合理反映了最新价的变动？"
+Sub-question 5 (Parent node: Sub-question 3): "是否存在明显的数据输入错误？"
+
+
+
+9
+Sub-question 1: "在11月6日至11月10日期间，哪个市场指数的表现为正或负？"
+Sub-question 2 (Parent node: Sub-question 1): "在食品饮料板块中，哪个子行业的涨幅和跌幅表现最明显？"
+Sub-question 3 (Parent node: Sub-question 2): "在白酒和非乳饮料子行业中，哪只股票的跌幅最大？"
+Sub-question 4 (Parent node: Sub-question 3): "上述最大跌幅的股票的具体跌幅是多少？"
+Sub-question 5 (Parent node: Sub-question 1): "在这5个交易日中，其他酒类的表现如何？"
+
+
+
+10
+Sub-question 1: "What is the total value of financial projects in August 2023?"  
+Sub-question 2 (Parent node: Sub-question 1): "What was the total value of financial projects in July 2023?"  
+Sub-question 3 (Parent node: Sub-question 1): "What is the formula for calculating the growth rate?"  
+Sub-question 4 (Parent node: Sub-question 2): "How do you calculate the growth rate using the total values from August and July?"  
+Sub-question 5 (Parent node: Sub-question 3): "What is the calculated growth rate for August 2023 compared to July 2023?"  
+
+
+
+11
+Sub-question 1: "What is the total amount of consumer credit in the U.S. for August 2023?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the amount of revolving consumer credit in the U.S. for August 2023?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the amount of non-revolving consumer credit in the U.S. for August 2023?"
+Sub-question 4 (Parent node: Sub-question 3): "How can you calculate the non-revolving consumer credit using the total consumer credit and revolving consumer credit amounts?"
+
+
+
+12
+Sub-question 1: "各个月份的失业率数据是否在合理范围内？"
+Sub-question 2 (Parent node: Sub-question 1): "哪个月份的失业率数据与其他月份的数据相比差异较大？"
+Sub-question 3 (Parent node: Sub-question 2): "该数据是否超出历史失业率的正常波动范围？"
+Sub-question 4 (Parent node: Sub-question 3): "该数据是否需要被更正？"
+Sub-question 5 (Parent node: Sub-question 4): "更正后的失业率数据应是多少？"
+
+
+
+13
+Sub-question 1: "货币供应量M0、M1和M2的数值是否符合实际情况？"
+Sub-question 2 (Parent node: Sub-question 1): "从数据中识别出哪个货币供应量数据存在明显错误？"
+Sub-question 3 (Parent node: Sub-question 2): "核实该错误数据的正确值应该是什么？"
+Sub-question 4 (Parent node: Sub-question 1): "同期存款利率和贷款利率的数据是否存在错误？"
+Sub-question 5 (Parent node: Sub-question 4): "如果存款或贷款利率错误，其正确数值应是什么？"
+
+
+
+14
+Sub-question 1: "What is the total asset value of stock-type ETFs?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the asset value of theme index ETFs?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the ratio of theme index ETFs' asset value to the total asset value of stock-type ETFs?"
+Sub-question 4 (Parent node: Sub-question 3): "How do you express this ratio as a percentage?"
+
+
+
+15
+Sub-question 1: "What is the period for the cash flow data provided for 江苏银行?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the formula to calculate the期末现金及现金等价物余额?"
+Sub-question 3 (Parent node: Sub-question 2): "Does the difference between期初现金及现金等价物余额 and 现金及现金等价物净增加额 equal to期末现金及现金等价物余额?"
+Sub-question 4 (Parent node: Sub-question 3): "What are the actual values of期初现金及现金等价物余额, 现金及现金等价物净增加额, and期末现金及现金等价物余额?"
+Sub-question 5 (Parent node: Sub-question 4): "Is there a discrepancy among the cash flow data values that indicates an error?"
+
+
+
+16
+Sub-question 1: "What is the net value of the fund on November 10th, 2023?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the net value of the fund on November 9th, 2023?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the difference in net value between November 10th and November 9th?"
+Sub-question 4 (Parent node: Sub-question 3): "How to calculate the increase in net value as a percentage?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the increase in net value in terms of amount?"
+
+
+
+17
+Sub-question 1: "什么是单位净值的日增长率的计算公式？"
+Sub-question 2 (Parent node: Sub-question 1): "2023年11月9日的单位净值和11月10日的单位净值分别是多少？"
+Sub-question 3 (Parent node: Sub-question 1): "如何根据11月9日和11月10日的单位净值计算日增长率？"
+Sub-question 4 (Parent node: Sub-question 3): "计算得出的日增长率保留几位小数？"
+Sub-question 5 (Parent node: Sub-question 4): "最终的单位净值日增长率是多少？"
+
+
+
+18
+Sub-question 1: "是否有期货价格的数据？"
+Sub-question 2 (Parent node: Sub-question 1): "是否有利率的数据？"
+Sub-question 3 (Parent node: Sub-question 2): "是否有期限的数据？"
+Sub-question 4 (Parent node: Sub-question 3): "是否可以将期货价格、利率和期限代入计算公式？"
+Sub-question 5 (Parent node: Sub-question 4): "计算结果是否得到现货价格？"
+
+
+
+19
+Sub-question 1: "什么是机会成本的计算公式？"
+Sub-question 2 (Parent node: Sub-question 1): "如何计算当日收盘价与基准价格的差额？"
+Sub-question 3 (Parent node: Sub-question 1): "如何确定未实现投资比例？"
+Sub-question 4 (Parent node: Sub-question 2): "如何将差额代入机会成本公式？"
+Sub-question 5 (Parent node: Sub-question 4): "如何计算最终的机会成本并保留两位小数？"
+
+
+
+20
+Sub-question 1: "什么是昨日收盘价？"
+Sub-question 2 (Parent node: Sub-question 1): "什么是基准价格？"
+Sub-question 3 (Parent node: Sub-question 1): "什么是实际投资执行比例？"
+Sub-question 4 (Parent node: Sub-question 2): "如何计算延迟成本？"
+Sub-question 5 (Parent node: Sub-question 4): "延迟成本的结果是多少？"
+
+
+
+21
+Sub-question 1: "What is the bond's coupon payment based on the face value and coupon rate?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the new market interest rate?"
+Sub-question 3 (Parent node: Sub-question 2): "How do you calculate the market price of the bond using the coupon payment and the new market interest rate?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the final market price of the bond rounded to two decimal places?"
+
+
+
+22
+Sub-question 1: "计算债券的票面利率"
+Sub-question 2 (Parent node: Sub-question 1): "代入债券的面值和市场利率，计算债券的现值"
+Sub-question 3 (Parent node: Sub-question 2): "计算债券在第3年时的到期偿还现值"
+Sub-question 4 (Parent node: Sub-question 2): "将现值和到期偿还现值相加，得出债券的理论价格"
+
+
+
+23
+Sub-question 1: "什么是债券的票面利率？"
+Sub-question 2 (Parent node: Sub-question 1): "什么是债券的面值？"
+Sub-question 3 (Parent node: Sub-question 1): "如何确定市场利率？"
+Sub-question 4 (Parent node: Sub-question 2): "如何计算债券的价值？"
+Sub-question 5 (Parent node: Sub-question 4): "如何保留债券价值的两位小数？"
+
+
+
+24
+Sub-question 1: "上证指数在上周五的涨跌情况如何？"
+Sub-question 2 (Parent node: Sub-question 1): "上证指数的具体上涨幅度是多少？"
+Sub-question 3 (Parent node: Sub-question 1): "上证指数收盘点位是多少？"
+Sub-question 4 (Parent node: Sub-question 2): "与前一交易日相比，上证指数上涨的绝对点数是多少？"
+
+
+
+25
+Sub-question 1: "是否有关于第三产业固定资产投资额的相关数据？"
+Sub-question 2 (Parent node: Sub-question 1): "是否可以根据第一产业和第二产业的投资额推算出第三产业的固定资产投资额？"
+Sub-question 3 (Parent node: Sub-question 2): "如果可以推算，第三产业固定资产投资额的计算公式是什么？"
+Sub-question 4 (Parent node: Sub-question 3): "根据已知数据计算出第三产业的固定资产投资额是多少？"
+Sub-question 5 (Parent node: Sub-question 4): "计算结果是否符合预期？"
+
+
+
+26
+Sub-question 1: "What is the total value of exports in October 2023?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total value of imports in October 2023?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the formula for calculating trade surplus?"
+Sub-question 4 (Parent node: Sub-question 3): "How do you apply the trade surplus formula using the export and import values?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final trade surplus value for October 2023?"
+
+
+
+27
+Sub-question 1: "什么是2023年9月份的社会消费品零售总额及其同比增长率？"
+Sub-question 2 (Parent node: Sub-question 1): "如何根据9月份的数据计算8月份的社会消费品零售总额？"
+Sub-question 3 (Parent node: Sub-question 2): "2023年9月份的社会消费品零售总额增长了多少？"
+Sub-question 4 (Parent node: Sub-question 2): "我们需要使用什么公式来计算8月份的社会消费品零售总额？"
+Sub-question 5 (Parent node: Sub-question 4): "根据公式计算的结果是什么？"
+
+
+
+28
+Sub-question 1: "What is the amount of新增人民币贷款 in 2023年9月?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the同比增长 rate of新增人民币贷款 in 2023年9月?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the环比增长 rate of新增人民币贷款 in 2023年9月?"
+Sub-question 4 (Parent node: Sub-question 2): "How can the同比增长 rate help calculate the新增人民币贷款 for previous months?"
+Sub-question 5 (Parent node: Sub-question 3): "How can the环比增长 rate help calculate the新增人民币贷款 for the previous month?"
+
+
+
+29
+Sub-question 1: "是否知道2023年7月日本机械订单的相关数据或信息？"
+Sub-question 2 (Parent node: Sub-question 1): "如果没有直接数据，是否可以通过 8 月的订单额及同比、环比数据推算出 7 月的订单额？"
+Sub-question 3 (Parent node: Sub-question 2): "如果可以推算，是否掌握相关的同比和环比计算公式？"
+Sub-question 4 (Parent node: Sub-question 3): "能够用这些公式计算出7月份的机械订单额吗？"
+Sub-question 5 (Parent node: Sub-question 4): "计算结果是否符合已知条件？"
+
+
+
+30
+Sub-question 1: "是否有2022年3月韩国狭义M1的数据？"
+Sub-question 2 (Parent node: Sub-question 1): "2022年2月和3月的狭义M1是否可以用来计算同比增长率？"
+Sub-question 3 (Parent node: Sub-question 2): "如何计算狭义M1的同比增长率？"
+Sub-question 4 (Parent node: Sub-question 3): "2022年3月的狭义M1同比增长率的值是多少？"
+Sub-question 5 (Parent node: Sub-question 1): "是否有2021年3月的狭义M1数据以进行同比比较？"
+
+
+
+31
+Sub-question 1: "What is the value of the CPI in September 2023?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the calculation needed to find the CPI in August 2023?"
+Sub-question 3 (Parent node: Sub-question 2): "How do we apply the year-on-year growth rate to the September CPI to find the August CPI?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the formula to adjust for the growth rate?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final value of the CPI in August 2023 after calculations?"
+
+
+
+32
+Sub-question 1: "计算2023年一季度的财政盈余/赤字。"
+Sub-question 2 (Parent node: Sub-question 1): "计算2023年二季度的财政盈余/赤字的基础数据。"
+Sub-question 3 (Parent node: Sub-question 2): "确定2023年二季度的财政收入和支出。"
+Sub-question 4 (Parent node: Sub-question 3): "计算2023年二季度的财政盈余/赤字。"
+Sub-question 5 (Parent node: Sub-question 4): "比较2023年一季度和二季度的财政盈余/赤字。"
+
+
+
+33
+Sub-question 1: "What is the total amount of US current account income for Q2 2023?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total amount of US current account expenditure for Q2 2023?"
+Sub-question 3 (Parent node: Sub-question 1): "What are the components that make up the US current account income?"
+Sub-question 4 (Parent node: Sub-question 2): "What are the components that make up the US current account expenditure?"
+Sub-question 5 (Parent node: Sub-question 1): "How do you calculate the current account balance using the income and expenditure?"
+
+
+
+34
+Sub-question 1: "是否有前一交易日的融资余额数据？"
+Sub-question 2 (Parent node: Sub-question 1): "前一交易日的融资余额报多少？"
+Sub-question 3 (Parent node: Sub-question 1): "是否有融资余额增加的计算需要的数据？" 
+Sub-question 4 (Parent node: Sub-question 2): "融资余额较前一交易日的增加额是多少？" 
+Sub-question 5 (Parent node: Sub-question 3): "是否可以计算融资余额的增加额？"
+
+
+
+35
+Sub-question 1: "What is the previous closing value of the沪深300指数?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the current value of the沪深300指数 on November 10?"
+Sub-question 3 (Parent node: Sub-question 2): "How do you calculate the涨跌幅 of the沪深300指数?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the result of the涨跌幅 calculation?"
+Sub-question 5 (Parent node: Sub-question 4): "Which option corresponds to the calculated涨跌幅?"
+
+
+
+36
+Sub-question 1: "成交量和成交额是否足够计算换手率？"
+Sub-question 2 (Parent node: Sub-question 1): "换手率的计算公式是什么？"
+Sub-question 3 (Parent node: Sub-question 1): "市场总股本是否已知？"
+Sub-question 4 (Parent node: Sub-question 2): "是否可以用成交量和市场总股本计算换手率？"
+Sub-question 5 (Parent node: Sub-question 3): "如果市场总股本已知，如何计算换手率？"
+
+
+
+37
+Sub-question 1: "是否可以计算库消比？"
+Sub-question 2 (Parent node: Sub-question 1): "是否拥有年末库存数据?"
+Sub-question 3 (Parent node: Sub-question 1): "是否拥有粗粮产量和消费数据？"
+Sub-question 4 (Parent node: Sub-question 2): "年末库存数据是什么？"
+Sub-question 5 (Parent node: Sub-question 3): "消费数据如何计算？"
+
+
+
+38
+Sub-question 1: "What is the steel price index in China on November 5, 2023?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the international steel price index on the same date?"
+Sub-question 3 (Parent node: Sub-question 1): "How do you calculate the percentage change in the Chinese steel price index?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the formula to calculate the percentage change?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the result of the percentage change calculation?"
+
+
+
+39
+Sub-question 1: "What are the given oil prices for Sinta, Dubai, and Brent crude oil on November 9, 2023?"
+Sub-question 2 (Parent node: Sub-question 1): "How do we calculate the average price of the three types of crude oil?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the calculated average price of the three types of crude oil?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the price change percentage compared to a previous date?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final average price change percentage for the three types of crude oil?"
+
+
+
+40
+Sub-question 1: "What is the cost of pig iron in 2019?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the cost of scrap steel?"
+Sub-question 3 (Parent node: Sub-question 1): "How do you apply the crude steel cost formula using the values of pig iron and scrap steel?"
+Sub-question 4 (Parent node: Sub-question 3): "What are the required calculations to determine the final crude steel cost?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final calculated cost of crude steel?"
+
+
+
+41
+Sub-question 1: "是否有归属于母公司股东的净利润数据？"
+Sub-question 2 (Parent node: Sub-question 1): "是否有总股本数据可用？"
+Sub-question 3 (Parent node: Sub-question 1): "是否需要计算基本每股收益？"
+Sub-question 4 (Parent node: Sub-question 2): "计算基本每股收益的公式是什么？"
+Sub-question 5 (Parent node: Sub-question 4): "计算结果是多少？"
+
+
+
+42
+Sub-question 1: "是否具备计算毛利率所需的营业收入和成本数据？"
+Sub-question 2 (Parent node: Sub-question 1): "如果有成本数据，毛利是否可以通过营业收入和成本计算得出？"
+Sub-question 3 (Parent node: Sub-question 2): "是否能从给定数据中得出毛利值？"
+Sub-question 4 (Parent node: Sub-question 3): "是否可以根据毛利和营业收入计算毛利率？"
+Sub-question 5 (Parent node: Sub-question 4): "计算得到的毛利率是否有效？"
+
+
+
+43
+Sub-question 1: "是否有足够的数据来计算净利率？"
+Sub-question 2 (Parent node: Sub-question 1): "净利润与营业收入是否已知？"
+Sub-question 3 (Parent node: Sub-question 1): "净利率的计算公式是什么？"
+Sub-question 4 (Parent node: Sub-question 2): "已知净利润17.37亿元，营业收入219.79亿元，净利率能否计算？"
+Sub-question 5 (Parent node: Sub-question 4): "净利率的计算结果是多少？"
+
+
+
+44
+Sub-question 1: "What is the total debt of 京东方A in 2023 Q3?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total equity of 京东方A?"
+Sub-question 3 (Parent node: Sub-question 2): "How is total equity calculated based on total debt and other financial data?"
+Sub-question 4 (Parent node: Sub-question 3): "What formula is used to calculate the产权比率 (debt-to-equity ratio)?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final value of 产权比率 once the values for total debt and total equity are known?"
+
+
+
+45
+Sub-question 1: "获取2023年11月10日一级市场债券的总发行数量"
+Sub-question 2 (Parent node: Sub-question 1): "获取各类利率债的发行数量"
+Sub-question 3 (Parent node: Sub-question 1): "获取各类信用债的发行数量"
+Sub-question 4 (Parent node: Sub-question 2): "获取国债的发行数量"
+Sub-question 5 (Parent node: Sub-question 3): "获取金融机构债的发行数量"
+
+
+
+46
+Sub-question 1: "总成交金额是否等于利率债与信用债成交金额之和？"
+Sub-question 2 (Parent node: Sub-question 1): "如果总成交金额不等于利率债与信用债成交金额之和，哪个部分数据存在错误？"
+Sub-question 3 (Parent node: Sub-question 2): "利率债成交金额是否正确？"
+Sub-question 4 (Parent node: Sub-question 2): "信用债成交金额是否正确？"
+Sub-question 5 (Parent node: Sub-question 1): "是否有其他未列出的债券类型及其成交金额？"
+
+
+
+47
+Sub-question 1: "检查最新价格和涨跌幅是否一致"
+Sub-question 2 (Parent node: Sub-question 1): "检查成交量和成交额是否合理"
+Sub-question 3 (Parent node: Sub-question 1): "检查最高、最低和今开的价格是否合理"
+Sub-question 4 (Parent node: Sub-question 2): "核对成交量与成交额之间的关系"
+Sub-question 5 (Parent node: Sub-question 3): "核对最高、最低与今开的价格之间的关系"
+
+
+
+48
+Sub-question 1: "全国专利商标质押融资额是多少？"  
+Sub-question 2 (Parent node: Sub-question 1): "融资金额1000万元以下的普惠性质押项目占多少比例？"  
+Sub-question 3 (Parent node: Sub-question 2): "融资金额1000万元以下的普惠性质押项目融资额是多少？"  
+Sub-question 4 (Parent node: Sub-question 3): "惠及中小企业的数量是多少？"  
+Sub-question 5 (Parent node: Sub-question 3): "融资金额1000万元以下的普惠性质押项目的同比增长率是多少？"  
+
+
+
+49
+Sub-question 1: "计算新能源汽车的产销总量和市场占有率"
+Sub-question 2 (Parent node: Sub-question 1): "计算总产销量中的非新能源汽车的数量"
+Sub-question 3 (Parent node: Sub-question 2): "计算非新能源汽车的市场占有率"
+Sub-question 4 (Parent node: Sub-question 1): "确认产销量是否符合中汽协数据的要求"
+Sub-question 5 (Parent node: Sub-question 3): "对市场占有率进行分析和解释"
+
+
+
+50
+Sub-question 1: "What is the foreign exchange reserve scale of China at the end of October 2023?"
+Sub-question 2 (Parent node: Sub-question 1): "What was the foreign exchange reserve scale of China at the end of September 2023?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the decline in the foreign exchange reserve scale from September to October 2023?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the percentage decline in the foreign exchange reserve scale?"
+Sub-question 5 (Parent node: Sub-question 3): "What was the total foreign exchange reserve scale before the decline?"
+
+
+
+51
+Sub-question 1: "What is the latest value of the 中证1000指数?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the value of the 中证1000指数 from the previous closing?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the change in value of the 中证1000指数?"
+Sub-question 4 (Parent node: Sub-question 1): "What is the percentage increase in the 中证1000指数?"
+Sub-question 5 (Parent node: Sub-question 4): "Based on the percentage increase, what is the overall upward movement of the 中证1000指数?"
+
+
+
+52
+Sub-question 1: "What is the closing price of 黄大豆1号期货 on 2023-11-10?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the closing price of 黄大豆1号期货 on 2023-11-09?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the difference between the closing prices of 2023-11-10 and 2023-11-09?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the percentage change based on the closing price from 2023-11-09 to 2023-11-10?"
+
+
+
+53
+Sub-question 1: "是否所有期权的报价格式正确？"
+Sub-question 2 (Parent node: Sub-question 1): "50ETF期权的近90日分位数是否合理？"
+Sub-question 3 (Parent node: Sub-question 1): "沪市300ETF期权的近90日分位数是否合理？"
+Sub-question 4 (Parent node: Sub-question 1): "深市300ETF期权的近90日分位数是否合理？"
+Sub-question 5 (Parent node: Sub-question 2): "是否需要比对不同期权的数据以确认一致性？"
+
+
+
+54
+Sub-question 1: "验证美元指数是否正确。"
+Sub-question 2 (Parent node: Sub-question 1): "检查非美货币对美元的涨跌幅是否合理。"
+Sub-question 3 (Parent node: Sub-question 2): "对比欧元兑美元的汇率变化是否符合整体趋势。"
+Sub-question 4 (Parent node: Sub-question 2): "对比英镑、澳元、日元和加元的汇率变化是否符合整体趋势。"
+Sub-question 5 (Parent node: Sub-question 1): "检查离岸人民币对美元的涨跌幅是否合理。"
+
+
+
+55
+Sub-question 1: "What is the relationship between the latest price and yesterday's closing price?"
+Sub-question 2 (Parent node: Sub-question 1): "Does the calculated price change (涨跌) correspond with the latest price and yesterday's closing price?"
+Sub-question 3 (Parent node: Sub-question 1): "Is the percentage change (涨幅%) correctly calculated based on the latest price and yesterday's closing price?"
+Sub-question 4 (Parent node: Sub-question 2): "Are the highest price and lowest price consistent with the latest price and today's opening price?"
+Sub-question 5 (Parent node: Sub-question 3): "Is the turnover rate (换手%) reasonable based on the price changes and volume of trades?"
+
+
+
+56
+Sub-question 1: "Is the '最新' price (34.01) consistent with the '涨幅%' (9.99) and '涨跌' (3.09) values?"  
+Sub-question 2 (Parent node: Sub-question 1): "Is the '成交量（股）' (74227945) and '成交额（元）' (2472820896) logically consistent?"  
+Sub-question 3 (Parent node: Sub-question 1): "Does the '流通市值' (5388200000) and '总市值' (5388204300) make sense in relation to the industry?"  
+Sub-question 4 (Parent node: Sub-question 2): "What is the calculation for '成交额（元）' based on '成交量（股）'?"  
+Sub-question 5 (Parent node: Sub-question 3): "Are the market values appropriate for the '通用设备' industry?"  
+
+
+
+57
+Sub-question 1: "检查最新价是否正确与其他数据一致。"
+Sub-question 2 (Parent node: Sub-question 1): "验证涨幅%是否正确计算。"
+Sub-question 3 (Parent node: Sub-question 1): "验证涨跌是否与最新价和前一日收盘价一致。"
+Sub-question 4 (Parent node: Sub-question 2): "确认前一日收盘价以验证涨幅%计算的准确性。"
+Sub-question 5 (Parent node: Sub-question 3): "核实换手%是否与成交量和流通股数相关联。"
+
+
+
+
+58
+Sub-question 1: "锂电池环节的净利润占比在2022年同期是多少？"
+Sub-question 2 (Parent node: Sub-question 1): "前三季度锂电池环节的净利润占比在2023年达到多少？"
+Sub-question 3 (Parent node: Sub-question 1): "锂电池环节占比的变化是否符合逻辑？"
+Sub-question 4 (Parent node: Sub-question 3): "该数据与上游和中游的利润变化是否一致？"
+Sub-question 5 (Parent node: Sub-question 2): "数据中提到的净利润占比是否反映真实市场情况？"
+
+
+
+59
+Sub-question 1: "2023年前三季度建材上市公司总营收和归母净利润是否准确？"
+Sub-question 2 (Parent node: Sub-question 1): "2023年Q3单季度建材上市公司总营收和归母净利润是否准确？"
+Sub-question 3 (Parent node: Sub-question 1): "2023年前三季度的同比增减幅度是否正确？"
+Sub-question 4 (Parent node: Sub-question 2): "2023年Q3单季度的同比增减幅度是否正确？"
+Sub-question 5 (Parent node: Sub-question 1): "建材行业整体景气度及供需情况的描述是否与数据相符？"
+
+
+

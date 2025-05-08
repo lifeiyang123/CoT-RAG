@@ -1,0 +1,21 @@
+Q: Can voice actors for Goofy and Bugs Bunny each get one stripe from American flag?
+A: Please refer to the above example. You need to generate a specific Question Decomposition Meaning Representation Graph for the given Question, which describes the complete logic of Question solving. In the Question Decomposition Meaning Representation Graph, nodes are different sub - questions. By indicating the parent node, the relationship between different nodes, i.e. the relationship between different sub - questions, can be explained.
+You need to pay attention to the following points:
+(1) The Question Decomposition should be as fine-grained as possible.
+(2) For different sub - questions, overlapping between different sub - questions should be avoided.
+(3) When you generate a new sub - question(that is, a sub node), you should identify all the preorder sub - questions related to it and place them in the Parent information.
+(4) During the process of Question Decomposition, you can set new variables and equations at any time to help solve the Question.
+
+
+Q: Can voice actors for Goofy and Bugs Bunny each get one stripe from American flag?
+QDMR:
+Node#1: How many people have been the voice of Goofy?; Parent: {}
+Node#2: How many people have been the voice of Bugs Bunny?; Parent: {}
+Node#3: What is Node#1 plus Node#2?; Parent: {Node#1,Node#2}
+Node#4: How many stripes does the American flag have?; Parent: {}
+Node#5: Is Node#4 equal to or greater than Node#3?; Parent: {Node#3,Node#4}
+A: Please refer to the above example. You need to use the <<Question Decomposition Meaning Representation Graph>> to generate a specific <<Answer>> for the <<Question>>.
+You need to pay attention to the following points:
+(1) You should solve the sub - question in the topological order of the <<Question Decomposition Meaning Representation Graph>>, that is sequentially solve sub - question 1, 2, 3, ...(Node#1,Node#2,Node#3,...).
+(2) When solving each sub - question[Node#i], you should rely on its parent information. Repeat the solution result of the related pre - order sub - questions to limit the solution space of the sub - question[Node#i] to their relevant contextual environment.
+(3) In the <<Question Decomposition Meaning Representation Graph>>, the solution result to the last sub - question is the answer to the original <<Question>>.

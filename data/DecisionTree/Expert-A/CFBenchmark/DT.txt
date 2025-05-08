@@ -1,0 +1,672 @@
+0
+Sub-question 1: "内容的整体语气是积极还是消极？"
+Sub-question 2 (Parent node: Sub-question 1): "是否包含对未来的乐观期待？"
+Sub-question 3 (Parent node: Sub-question 1): "内容中是否存在消极的不确定性？"
+Sub-question 4 (Parent node: Sub-question 2): "使用的语言是否暗示希望或潜力？"
+Sub-question 5 (Parent node: Sub-question 3): "是否提到任何积极的可能性或机会？"
+
+
+
+1
+Sub-question 1: "内容传达了盈利的状态吗？"
+Sub-question 2 (Parent node: Sub-question 1): "内容是否传达了积极的等待心态？"
+Sub-question 3 (Parent node: Sub-question 1): "内容是否隐含了消极的情绪或焦虑？"
+Sub-question 4 (Parent node: Sub-question 2): "这种等待是否表现出乐观的情感？"
+
+
+
+2
+Sub-question 1: "这段内容表达了什么样的心态？"
+Sub-question 2 (Parent node: Sub-question 1): "这种心态是否积极？"
+Sub-question 3 (Parent node: Sub-question 1): "这种心态是否消极？"
+Sub-question 4 (Parent node: Sub-question 2): "积极的表达是否涉及对事物的乐观态度？"
+Sub-question 5 (Parent node: Sub-question 3): "消极的表达是否反映出不满或悲观情绪？"
+
+
+
+3
+Sub-question 1: "这句话的主要内容是什么？"
+Sub-question 2 (Parent node: Sub-question 1): "这句话传达的情绪是积极的还是消极的？"
+Sub-question 3 (Parent node: Sub-question 2): "是否有明显的幸福或满足感表达？"
+Sub-question 4 (Parent node: Sub-question 2): "是否存在不满或负面情绪的暗示？"
+Sub-question 5 (Parent node: Sub-question 2): "这句话的语境和背景是什么？"
+
+
+
+4
+Sub-question 1: "这段内容表达了哪个情绪？"
+Sub-question 2 (Parent node: Sub-question 1): "内容中是否包含消极的字眼或情绪？"
+Sub-question 3 (Parent node: Sub-question 1): "内容中是否包含积极的字眼或情绪？"
+Sub-question 4 (Parent node: Sub-question 1): "内容是否是中性的，没有明显情绪倾向？"
+
+
+
+5
+Sub-question 1: "内容中传达的观点是什么？"
+Sub-question 2 (Parent node: Sub-question 1): "该观点是否倾向于负面情绪？"
+Sub-question 3 (Parent node: Sub-question 1): "该观点是否倾向于正面情绪？"
+Sub-question 4 (Parent node: Sub-question 2): "是否强调了下跌的必然性？"
+Sub-question 5 (Parent node: Sub-question 3): "是否包含对未来的乐观展望？"
+
+
+
+6
+Sub-question 1: "该内容是否提到股民的利益或关切？"
+Sub-question 2 (Parent node: Sub-question 1): "该内容是否承认业绩存在虚假成份？"
+Sub-question 3 (Parent node: Sub-question 1): "该内容是否要求股民见谅？"
+Sub-question 4 (Parent node: Sub-question 2): "该内容对未来业绩的态度是积极还是消极？"
+Sub-question 5 (Parent node: Sub-question 3): "该内容的整体语气是如何影响情绪的判断？"
+
+
+
+7
+Sub-question 1: "这句话传达了什么样的情绪？"
+Sub-question 2 (Parent node: Sub-question 1): "是否存在对未来的积极期待？"
+Sub-question 3 (Parent node: Sub-question 1): "是否表达了对当前市场的悲观态度？"
+Sub-question 4 (Parent node: Sub-question 2): "这句话提到的特定行动（买低价医药股）是否代表一种乐观的投资策略？"
+Sub-question 5 (Parent node: Sub-question 3): "这句话是否暗示了经济状况的困境？"
+
+
+
+8
+Sub-question 1: "该内容传达的主要情绪是什么？"
+Sub-question 2 (Parent node: Sub-question 1): "该情绪是如何影响内容的整体意图的？"
+Sub-question 3 (Parent node: Sub-question 1): "是否存在消极情绪的表征？"
+Sub-question 4 (Parent node: Sub-question 2): "情绪影响了哪些方面的判断或决定？"
+Sub-question 5 (Parent node: Sub-question 3): "内容中是否有对负面事件的具体描述？"
+
+
+
+9
+Sub-question 1: "该内容表达了对损失的情感反应吗？"
+Sub-question 2 (Parent node: Sub-question 1): "这种情感反应是积极还是消极的？"
+Sub-question 3 (Parent node: Sub-question 1): "内容中是否包含比喻或诗意的表达？"
+Sub-question 4 (Parent node: Sub-question 3): "这种比喻或诗意表达是否暗示了失望的情绪？"
+Sub-question 5 (Parent node: Sub-question 2): "整体情绪是否可以归类为中性或负面？"
+
+
+
+10
+Sub-question 1: "当前文中提到的市场表现整体是积极还是消极？"
+Sub-question 2 (Parent node: Sub-question 1): "在积极和消极的判断中，是否存在中性情况？"
+Sub-question 3 (Parent node: Sub-question 1): "具体分析哪些板块表现较好？"
+Sub-question 4 (Parent node: Sub-question 3): "哪些板块出现了下滑？"
+Sub-question 5 (Parent node: Sub-question 2): "整体情绪判断是否受到特定行业表现的影响？"
+
+
+
+11
+Sub-question 1: "内容表达的是一种对市场生存的看法吗？"
+Sub-question 2 (Parent node: Sub-question 1): "这种看法是否带有消极的情绪？"
+Sub-question 3 (Parent node: Sub-question 1): "这种看法是否暗示了恐惧或焦虑的情绪？"
+Sub-question 4 (Parent node: Sub-question 2): "消极情绪是否源于对自身能力的不信任？"
+Sub-question 5 (Parent node: Sub-question 3): "内容是否表明一种对外部环境的无奈感？"
+
+
+
+12
+Sub-question 1: "这段内容的主题是什么？"
+Sub-question 2 (Parent node: Sub-question 1): "内容中是否提到持股时间和股市行情？"
+Sub-question 3 (Parent node: Sub-question 2): "这段内容传达的是对未来的期待还是失望？"
+Sub-question 4 (Parent node: Sub-question 3): "这段内容整体是积极的态度还是否定的态度？"
+Sub-question 5 (Parent node: Sub-question 4): "最终的情绪判断是哪个类别？"
+
+
+
+13
+Sub-question 1: "目前公司生产状况如何？"
+Sub-question 2 (Parent node: Sub-question 1): "订单和客户需求的情况如何？"
+Sub-question 3 (Parent node: Sub-question 1): "现货市场的行情如何？"
+Sub-question 4 (Parent node: Sub-question 2): "库存状态对生产和销售有何影响？"
+Sub-question 5 (Parent node: Sub-question 3): "市场行情的变化是否反映出积极的趋势？"
+
+
+
+14
+Sub-question 1: "这段内容是否表达了对比亚迪的积极评价？"
+Sub-question 2 (Parent node: Sub-question 1): "这段内容是否暗示比亚迪优于特斯拉？"
+Sub-question 3 (Parent node: Sub-question 1): "这段内容是否包含对投资者的建议？"
+Sub-question 4 (Parent node: Sub-question 2): "比亚迪与特斯拉之间的比较是否涉及到潜在的收益或风险？"
+Sub-question 5 (Parent node: Sub-question 3): "这段内容是否有强化投资者的信心？"
+
+
+
+15
+Sub-question 1: "印度与特斯拉达成协议的消息是否传达了积极的经济合作意图？"
+Sub-question 2 (Parent node: Sub-question 1): "印度政府降低电动汽车进口关税是否有利于特斯拉进入市场？"
+Sub-question 3 (Parent node: Sub-question 1): "特斯拉在印度建立工厂的计划是否会促进当地经济发展？"
+Sub-question 4 (Parent node: Sub-question 2): "降低关税是否会改善印度的电动汽车市场环境？"
+Sub-question 5 (Parent node: Sub-question 3): "特斯拉的投资是否将提高印度在电动汽车领域的竞争力？"
+
+
+
+16
+Sub-question 1: "该内容提到的股市表现是积极还是消极？"
+Sub-question 2 (Parent node: Sub-question 1): "股市表现是否有显著增长？"
+Sub-question 3 (Parent node: Sub-question 2): "所提及的个股是否普遍上涨？"
+Sub-question 4 (Parent node: Sub-question 3): "整体市场情绪对投资者的影响是积极的还是消极的？"
+Sub-question 5 (Parent node: Sub-question 4): "该内容最终传达的情绪类别是什么？"
+
+
+
+17
+Sub-question 1: "拼多多财报发布后的市场反应是什么？"
+Sub-question 2 (Parent node: Sub-question 1): "市场对拼多多业绩表现的评价是什么？"
+Sub-question 3 (Parent node: Sub-question 1): "拼多多的股价在美股市场上的变化如何？"
+Sub-question 4 (Parent node: Sub-question 2): "市场对拼多多业绩的情绪是积极还是消极？"
+Sub-question 5 (Parent node: Sub-question 3): "拼多多市值的变化情况如何？"
+
+
+
+18
+Sub-question 1: "内容中是否包含正面或积极的信息？"
+Sub-question 2 (Parent node: Sub-question 1): "内容是否提到股票上涨或利好消息？"
+Sub-question 3 (Parent node: Sub-question 1): "内容中是否存在负面或消极的信息？"
+Sub-question 4 (Parent node: Sub-question 2): "提到的股市表现是否影响整体情绪？"
+Sub-question 5 (Parent node: Sub-question 3): "提到的情况是否会导致情绪的反转？"
+
+
+
+19
+Sub-question 1: "该内容中提到的合作是否具有积极影响？"  
+Sub-question 2 (Parent node: Sub-question 1): "这项合作是否能提升智能化程度和竞争力？"  
+Sub-question 3 (Parent node: Sub-question 2): "提升的智能化程度是否会导致销量和利润增加？"  
+Sub-question 4 (Parent node: Sub-question 1): "内容中是否存在消极或警示的因素？"  
+Sub-question 5 (Parent node: Sub-question 4): "这些消极因素是否影响整体情绪判断？"  
+
+
+
+20
+Sub-question 1: "内容是否提到公司业绩的提升或良好表现？"
+Sub-question 2 (Parent node: Sub-question 1): "内容中是否包含积极的财务数据或增长百分比？"
+Sub-question 3 (Parent node: Sub-question 1): "内容是否提到公司的战略推进和未来展望？"
+Sub-question 4 (Parent node: Sub-question 2): "这些财务数据的增长幅度如何？"
+Sub-question 5 (Parent node: Sub-question 3): "内容中是否有对公司未来发展的积极预测？"
+
+
+
+21
+Sub-question 1: "该内容是否传达了公司积极发展的信息？"
+Sub-question 2 (Parent node: Sub-question 1): "该信息中是否提到战略规划或增长预期？"
+Sub-question 3 (Parent node: Sub-question 1): "该内容是否反映了产品和销售的提升？"
+Sub-question 4 (Parent node: Sub-question 2): "战略规划是否明确了具体的增长目标？"
+Sub-question 5 (Parent node: Sub-question 3): "销售增长的百分比是否显著？"
+
+
+
+22
+Sub-question 1: "吉祥航空的成长性是否表现出积极的市场前景？"
+Sub-question 2 (Parent node: Sub-question 1): "公司收入和运力的关系是否支持这一积极前景？"
+Sub-question 3 (Parent node: Sub-question 2): "吉祥航空的飞机数量增长是否显著高于行业平均水平？"
+Sub-question 4 (Parent node: Sub-question 1): "公司的盈利能力是否强且有提升的潜力？"
+Sub-question 5 (Parent node: Sub-question 1): "整体市场份额是否有望提高？"
+
+
+
+23
+Sub-question 1: "该内容涉及到哪家公司的股市表现？"
+Sub-question 2 (Parent node: Sub-question 1): "该公司的股市表现是积极的还是消极的？"
+Sub-question 3 (Parent node: Sub-question 2): "内容中提到的股市指标或数据是否显示增长趋势？"
+Sub-question 4 (Parent node: Sub-question 2): "内容中是否存在对公司的负面评价或风险提示？"
+Sub-question 5 (Parent node: Sub-question 3): "基于以上分析，整体情绪应该归类为哪种情绪？"
+
+
+
+24
+Sub-question 1: "今日早盘是否有主力资金流入各行业？"
+Sub-question 2 (Parent node: Sub-question 1): "主力资金流入的行业有哪些？"
+Sub-question 3 (Parent node: Sub-question 1): "主力资金流出的行业有哪些？"
+Sub-question 4 (Parent node: Sub-question 2): "流入的行业中是否有积极的个股表现？"
+Sub-question 5 (Parent node: Sub-question 3): "流出的行业中是否有显著的负面表现？"
+
+
+
+25
+Sub-question 1: "北证50指数开盘情况如何？"
+Sub-question 2 (Parent node: Sub-question 1): "个股表现如何？"
+Sub-question 3 (Parent node: Sub-question 1): "宏观消息对市场有何影响？"
+Sub-question 4 (Parent node: Sub-question 2): "有多少只个股跌幅超过10%？"
+Sub-question 5 (Parent node: Sub-question 3): "停牌公告和减持公告对市场情绪有何影响？"
+
+
+
+26
+Sub-question 1: "该公告涉及哪一类型的事件？"
+Sub-question 2 (Parent node: Sub-question 1): "该事件对公司运营产生了怎样的影响？"
+Sub-question 3 (Parent node: Sub-question 1): "公告中是否提到与生产相关的时间安排？"
+Sub-question 4 (Parent node: Sub-question 2): "此次停车检修是例行的还是特殊的？"
+Sub-question 5 (Parent node: Sub-question 3): "公告中是否透露了复产的具体时间或可能的影响？"
+
+
+
+27
+Sub-question 1: "公司在收购花园药业后是否经历盈利能力下滑？"
+Sub-question 2 (Parent node: Sub-question 1): "盈利能力下滑的原因是什么？"
+Sub-question 3 (Parent node: Sub-question 2): "是否存在其他费用负担加重的因素？"
+Sub-question 4 (Parent node: Sub-question 2): "投资项目的折旧是否对盈利能力产生了影响？"
+Sub-question 5 (Parent node: Sub-question 3): "公司的综合费用率在2021-2023年间是否有上升趋势？"
+
+
+
+28
+Sub-question 1: "美国银行业在招揽AI人才方面的表现如何？"
+Sub-question 2 (Parent node: Sub-question 1): "高盛在这场人才争夺战中的表现如何？"
+Sub-question 3 (Parent node: Sub-question 2): "高盛流失的AI人才数量与其它竞争对手相比如何？"
+Sub-question 4 (Parent node: Sub-question 3): "流失的AI人才去向是哪几家银行？"
+Sub-question 5 (Parent node: Sub-question 4): "这一人才流失现象传达了怎样的情绪？"
+
+
+
+29
+Sub-question 1: "这段内容的主要话题是什么？"
+Sub-question 2 (Parent node: Sub-question 1): "内容中提到的监管行动对市场的影响如何？"
+Sub-question 3 (Parent node: Sub-question 1): "内容中提到的北交所的情绪倾向是什么？"
+Sub-question 4 (Parent node: Sub-question 2): "监管行动被描述为对炒家的影响是正面还是负面？"
+Sub-question 5 (Parent node: Sub-question 3): "整体上，这段内容传递的情绪如何分类？"
+
+
+
+30
+Sub-question 1: "内容传达的整体情绪是什么？"
+Sub-question 2 (Parent node: Sub-question 1): "是否存在对股市的负面情绪？"
+Sub-question 3 (Parent node: Sub-question 1): "是否提及了具体的亏损数据和股价变化？"
+Sub-question 4 (Parent node: Sub-question 2): "对投资者的影响是否是消极的？"
+Sub-question 5 (Parent node: Sub-question 3): "这段内容是否表达了对未来情况的悲观预期？"
+
+
+
+31
+Sub-question 1: "该消息传达的是关于光伏玻璃行业的整体状况吗？"
+Sub-question 2 (Parent node: Sub-question 1): "行业的供需情况是否处于不平衡状态？"
+Sub-question 3 (Parent node: Sub-question 1): "公司的成本控制和毛利率是否低于预期？"
+Sub-question 4 (Parent node: Sub-question 2): "这种供需不平衡对公司的影响是正面还是负面？"
+Sub-question 5 (Parent node: Sub-question 3): "公司的产线开线情况是否影响了整体业务表现？"
+
+
+
+32
+Sub-question 1: "这条公告的主题是什么？"
+Sub-question 2 (Parent node: Sub-question 1): "公告中提到的决策是积极的还是消极的？"
+Sub-question 3 (Parent node: Sub-question 1): "公告中涉及的人员及任职情况是什么？"
+Sub-question 4 (Parent node: Sub-question 2): "这个决策对公司的未来有何影响？"
+Sub-question 5 (Parent node: Sub-question 3): "财务总监的任命是否符合公司发展的需要？"
+
+
+
+33
+Sub-question 1: "内容中是否提到公司面临搬迁？"  
+Sub-question 2 (Parent node: Sub-question 1): "搬迁会对公司的生产和客户供应产生什么影响？"  
+Sub-question 3 (Parent node: Sub-question 1): "内容中是否有提到停产的时间和安排？"  
+Sub-question 4 (Parent node: Sub-question 2): "尽管面临搬迁，是否有措施确保客户需求稳定供应？"  
+Sub-question 5 (Parent node: Sub-question 3): "整体内容传达的情绪是积极、消极还是中性？"  
+
+
+
+34
+Sub-question 1: "散户对明天的情绪是什么？"
+Sub-question 2 (Parent node: Sub-question 1): "目前的市场趋势如何？"
+Sub-question 3 (Parent node: Sub-question 1): "未来的市场情绪会如何变化？"
+Sub-question 4 (Parent node: Sub-question 2): "市场低开后会有怎样的反应？"
+Sub-question 5 (Parent node: Sub-question 3): "情绪好转的因素有哪些？"
+
+
+
+35
+Sub-question 1: "当前风电行业的成本因素对企业业绩的影响如何？"
+Sub-question 2 (Parent node: Sub-question 1): "佑威新材的业绩是否有上升趋势？"
+Sub-question 3 (Parent node: Sub-question 2): "佑威新材的毛利率是否保持稳定？"
+Sub-question 4 (Parent node: Sub-question 1): "市场人士对佑威新材未来表现的看法如何？"
+
+
+
+36
+Sub-question 1: "内容提到的事件是否涉及市场波动？"
+Sub-question 2 (Parent node: Sub-question 1): "这种市场波动是积极的还是消极的？"
+Sub-question 3 (Parent node: Sub-question 2): "内容中是否提到投资者对未来趋势的信心？"
+Sub-question 4 (Parent node: Sub-question 2): "内容中是否表达出失望或担忧的情绪？"
+Sub-question 5 (Parent node: Sub-question 1): "内容是否提到新的投资机会或方向？"
+
+
+
+37
+Sub-question 1: "这段内容主要描述了哪个国家的领导人之间的会议？"
+Sub-question 2 (Parent node: Sub-question 1): "会议的主要讨论主题是什么？"
+Sub-question 3 (Parent node: Sub-question 2): "讨论的经济合作具体包括哪些项目或计划？"
+Sub-question 4 (Parent node: Sub-question 2): "这个项目的预期目标是什么？"
+Sub-question 5 (Parent node: Sub-question 4): "该项目所传达的情绪是积极、消极还是中性？"
+
+
+
+38
+Sub-question 1: "该内容是否提到经济预测或市场趋势？"
+Sub-question 2 (Parent node: Sub-question 1): "内容中是否出现正面的市场表现预期？"
+Sub-question 3 (Parent node: Sub-question 1): "内容中是否提到企业应对经济挑战的能力？"
+Sub-question 4 (Parent node: Sub-question 2): "该市场表现预期是否导致乐观情绪的增强？"
+Sub-question 5 (Parent node: Sub-question 3): "企业应对能力的表述是否给人积极的信号？"
+
+
+
+39
+Sub-question 1: "原煤生产增速是否加快？"
+Sub-question 2 (Parent node: Sub-question 1): "进口煤炭的增长速度是否较快？"
+Sub-question 3 (Parent node: Sub-question 1): "10月份的原煤生产数据是否有积极的同比增长？"
+Sub-question 4 (Parent node: Sub-question 2): "进口煤炭的同比增长是否显示出增长的趋势？"
+Sub-question 5 (Parent node: Sub-question 3): "整体数据是否传达出积极的经济情绪？"
+
+
+
+40
+Sub-question 1: "该数据是否显示出消费者在购买行为上的积极趋势？"  
+Sub-question 2 (Parent node: Sub-question 1): "线上销售额是否创下新纪录？"  
+Sub-question 3 (Parent node: Sub-question 1): "是否有多种商品受到消费者青睐？"  
+Sub-question 4 (Parent node: Sub-question 2): "创纪录的销售额是否与大幅折扣有关？"  
+Sub-question 5 (Parent node: Sub-question 3): "消费者的采购行为是否发生在圣诞前的特定时间？"
+
+
+
+41
+Sub-question 1: "美联储是否在近期内采取降息的可能性？"
+Sub-question 2 (Parent node: Sub-question 1): "当前市场对美联储降息的预期如何变化？"
+Sub-question 3 (Parent node: Sub-question 1): "美联储加息的背景对市场情绪有何影响？"
+Sub-question 4 (Parent node: Sub-question 2): "通过哪些数据可以支撑市场对于降息的预期？"
+Sub-question 5 (Parent node: Sub-question 3): "市场对加息的情绪是积极、消极还是中性？"
+
+
+
+42
+Sub-question 1: "该内容传达了什么样的经济预测？"
+Sub-question 2 (Parent node: Sub-question 1): "预测是否包含负面指标（如负增长或失业率上升）？"
+Sub-question 3 (Parent node: Sub-question 2): "这些负面指标在情感上能够被视为消极吗？"
+Sub-question 4 (Parent node: Sub-question 1): "该内容中是否包含积极或中性的信息？"
+Sub-question 5 (Parent node: Sub-question 4): "如果包含，积极或中性信息的程度如何影响总体情绪判断？"
+
+
+
+43
+Sub-question 1: "该内容讨论的主题是什么？"
+Sub-question 2 (Parent node: Sub-question 1): "该主题传达的情绪是积极、消极还是中性？"
+Sub-question 3 (Parent node: Sub-question 1): "该内容涉及的主要行动者是谁？"
+Sub-question 4 (Parent node: Sub-question 2): "内容中是否存在冲突或抵制的情况？"
+Sub-question 5 (Parent node: Sub-question 2): "内容中是否提到任何改善或积极进展的措施？"
+
+
+
+44
+Sub-question 1: "该报告中提到的制造业PMI初值变动情况是什么？"
+Sub-question 2 (Parent node: Sub-question 1): "该变动对市场预期的影响是什么？"
+Sub-question 3 (Parent node: Sub-question 1): "报告中提到的制造业产出指数的变化情况是什么？"
+Sub-question 4 (Parent node: Sub-question 2): "该报告整体反映了制造业的健康状况吗？"
+Sub-question 5 (Parent node: Sub-question 3): "制造业的健康状况能否影响整体经济情绪？"
+
+
+
+45
+Sub-question 1: "德国2023年第三季度GDP同比下降的幅度是多少？"
+Sub-question 2 (Parent node: Sub-question 1): "这个GDP数据是否与初值一致？"
+Sub-question 3 (Parent node: Sub-question 1): "在第二季度的GDP表现如何？"
+Sub-question 4 (Parent node: Sub-question 3): "连续两个季度出现下滑是否代表经济趋势的恶化？"
+Sub-question 5 (Parent node: Sub-question 4): "这一数据传达的情绪应当如何判断？"
+
+
+
+46
+Sub-question 1: "美国财政部长耶伦的声明涉及哪些经济因素？"
+Sub-question 2 (Parent node: Sub-question 1): "食品和房租成本的变化如何影响选民的经济看法？"
+Sub-question 3 (Parent node: Sub-question 1): "选民对经济前景的看法总体是积极还是消极？"
+Sub-question 4 (Parent node: Sub-question 2): "这些经济因素在疫情前后的变化程度如何？"
+Sub-question 5 (Parent node: Sub-question 3): "该声明传递的情绪类型是什么？"
+
+
+
+47
+Sub-question 1: "甲骨文公司公布的财报表现如何？"  
+Sub-question 2 (Parent node: Sub-question 1): "该公司股价的变化是什么？"  
+Sub-question 3 (Parent node: Sub-question 1): "影响营收表现的主要因素有哪些？"  
+Sub-question 4 (Parent node: Sub-question 2): "股价变化是否反映了市场对公司表现的情绪？"  
+Sub-question 5 (Parent node: Sub-question 3): "影响云产品需求的经济环境因素是什么？"  
+
+
+
+48
+Sub-question 1: "美国7月份的长期资本净流入和国际资本净流入的变化情况是什么？"
+Sub-question 2 (Parent node: Sub-question 1): "这些变化对市场情绪有何影响？"
+Sub-question 3 (Parent node: Sub-question 2): "市场对于美国未来的看法是否发生了变化？"
+Sub-question 4 (Parent node: Sub-question 3): "投资者是否选择了大规模投资美国？"
+Sub-question 5 (Parent node: Sub-question 4): "由这些情况可以判断情绪是什么类型？"
+
+
+
+49
+Sub-question 1: "国际食糖市场的价格变化趋势是什么？"
+Sub-question 2 (Parent node: Sub-question 1): "这一价格变化是上涨还是下跌？"
+Sub-question 3 (Parent node: Sub-question 1): "当前的价格水平与过去相比有什么变化？"
+Sub-question 4 (Parent node: Sub-question 2): "这一上涨趋势传达了什么情绪？"
+Sub-question 5 (Parent node: Sub-question 3): "这一价格水平对市场参与者的影响如何？"
+
+
+
+50
+Sub-question 1: "印度作为全球最大的大米出口国的行为对市场有什么影响？"
+Sub-question 2 (Parent node: Sub-question 1): "这种行为会导致大米价格变化吗？"
+Sub-question 3 (Parent node: Sub-question 2): "大米价格变化的程度会如何？"
+Sub-question 4 (Parent node: Sub-question 1): "这种限制行为传达了怎样的情绪？"
+Sub-question 5 (Parent node: Sub-question 4): "这种情绪是积极、消极还是中性？"
+
+
+
+51
+Sub-question 1: "这段内容在描述哪些具体事件？"
+Sub-question 2 (Parent node: Sub-question 1): "这些事件是否传达出积极的情绪？"
+Sub-question 3 (Parent node: Sub-question 1): "这些事件是否传达出消极的情绪？"
+Sub-question 4 (Parent node: Sub-question 2): "这些事件是否与财富或成功相关？"
+Sub-question 5 (Parent node: Sub-question 3): "这些事件是否引起了悲伤或失落的情绪？"
+
+
+
+52
+Sub-question 1: "2023年全球铂金市场的总需求预测是什么？"
+Sub-question 2 (Parent node: Sub-question 1): "预测的总需求与上一年相比的增长百分比是多少？"
+Sub-question 3 (Parent node: Sub-question 1): "2023年铂金市场的供应量预测是什么？"
+Sub-question 4 (Parent node: Sub-question 3): "供应量的变化相对于上一年是多少？"
+Sub-question 5 (Parent node: Sub-question 1): "供需之间的缺口是多少，以及这对市场意味着什么？"
+
+
+
+53
+Sub-question 1: "这个内容是关于什么主题的？"
+Sub-question 2 (Parent node: Sub-question 1): "这个主题的主要事件是什么？"
+Sub-question 3 (Parent node: Sub-question 1): "这个事件的结果是什么？"
+Sub-question 4 (Parent node: Sub-question 2): "这些结果传达了什么样的情绪？"
+Sub-question 5 (Parent node: Sub-question 4): "这些情绪属于哪一类（积极、消极、中性）？"
+
+
+
+54
+Sub-question 1: "日本央行的政策转变是否会对市场情绪产生影响？"
+Sub-question 2 (Parent node: Sub-question 1): "这种影响是积极的还是消极的？"
+Sub-question 3 (Parent node: Sub-question 2): "投资者对房地产投资信托基金(J-REIT)的看法是怎样的？"
+Sub-question 4 (Parent node: Sub-question 2): "市场对日本央行转变政策的反应是什么？"
+Sub-question 5 (Parent node: Sub-question 1): "当前的经济环境对这一政策转变的影响是什么？"
+
+
+
+55
+Sub-question 1: "VR行业整体呈现什么样的趋势？"
+Sub-question 2 (Parent node: Sub-question 1): "这种趋势对厂商和市场有什么影响？"
+Sub-question 3 (Parent node: Sub-question 2): "导致这种趋势的主要原因是什么？"
+Sub-question 4 (Parent node: Sub-question 3): "经济形势如何影响消费者的购买决策？"
+Sub-question 5 (Parent node: Sub-question 1): "整体情绪应如何判断？"
+
+
+
+56
+Sub-question 1: "当前保险行业的经济状况如何？"
+Sub-question 2 (Parent node: Sub-question 1): "是否存在负面因素影响保险行业？"
+Sub-question 3 (Parent node: Sub-question 2): "宏观经济预期变化是否对保险股产生影响？"
+Sub-question 4 (Parent node: Sub-question 2): "监管政策收紧对负债端复苏影响的担忧是否存在？"
+Sub-question 5 (Parent node: Sub-question 1): "整体情绪在保险行业中是积极还是消极？"
+
+
+
+57
+Sub-question 1: "钢企的亏损状态是否影响钢价表现？"
+Sub-question 2 (Parent node: Sub-question 1): "11月淡季的到来是否加剧了供需失衡？"
+Sub-question 3 (Parent node: Sub-question 2): "地产需求没有改善是否对钢价造成进一步压制？"
+Sub-question 4 (Parent node: Sub-question 3): "原材料成本高位维持是否对钢价形成支撑？"
+Sub-question 5 (Parent node: Sub-question 4): "综合各因素分析，此内容传达的情绪是什么？"
+
+
+
+58
+Sub-question 1: "教育股整体开盘表现如何？"
+Sub-question 2 (Parent node: Sub-question 1): "主要教育股的跌幅是否超过4%？"
+Sub-question 3 (Parent node: Sub-question 1): "教育ETF的表现如何？"
+Sub-question 4 (Parent node: Sub-question 2): "重仓股的下跌是否对整体情绪产生影响？"
+Sub-question 5 (Parent node: Sub-question 3): "这些表现是否传达出积极、消极或中性的情绪？"
+
+
+
+59
+Sub-question 1: "当前航空机场指数的累计跌幅是多少？"
+Sub-question 2 (Parent node: Sub-question 1): "有哪些成份股的跌幅超过10%？"
+Sub-question 3 (Parent node: Sub-question 2): "这些跌幅是否表明市场对航空行业的情绪偏向消极？"
+Sub-question 4 (Parent node: Sub-question 3): "整体情绪是否受到航空机场指数的影响？"
+Sub-question 5 (Parent node: Sub-question 4): "因此该内容传达的情绪属于哪一类？"
+
+
+
+60
+Sub-question 1: "国内SaaS企业是否面临困境？"
+Sub-question 2 (Parent node: Sub-question 1): "具体困境表现为哪些经济指标？"
+Sub-question 3 (Parent node: Sub-question 1): "为何国内SaaS企业的产品缺乏创新？"
+Sub-question 4 (Parent node: Sub-question 2): "增收不增利的原因是什么？"
+Sub-question 5 (Parent node: Sub-question 3): "同质化严重对企业的影响是什么？"
+
+
+
+61
+Sub-question 1: "天然橡胶的主要消费领域有哪些？"
+Sub-question 2 (Parent node: Sub-question 1): "轮胎行业在天然橡胶消费中占比如何？"
+Sub-question 3 (Parent node: Sub-question 1): "除了轮胎行业，还有哪些重要的消费领域？"
+Sub-question 4 (Parent node: Sub-question 2): "轮胎行业的运行状况如何影响天然橡胶行业？"
+Sub-question 5 (Parent node: Sub-question 3): "乳胶制品、胶鞋等在消费中的重要性如何？"
+
+
+
+62
+Sub-question 1: "北交所机械上市公司的分布情况如何？"
+Sub-question 2 (Parent node: Sub-question 1): "各省、自治区和直辖市中有哪些地区拥有机械上市公司？"
+Sub-question 3 (Parent node: Sub-question 2): "浙江和江苏各自的机械上市公司数量是多少？"
+Sub-question 4 (Parent node: Sub-question 3): "江苏境内北交所机械上市公司的市值总额是多少？"
+Sub-question 5 (Parent node: Sub-question 1): "这一数据传达的情绪是什么？"
+
+
+
+63
+Sub-question 1: "该内容涉及的行业是什么？"
+Sub-question 2 (Parent node: Sub-question 1): "内容中提到的主要参与者有哪些？"
+Sub-question 3 (Parent node: Sub-question 2): "这些参与者的市场定位如何？"
+Sub-question 4 (Parent node: Sub-question 2): "该内容传达的情绪是什么？"
+Sub-question 5 (Parent node: Sub-question 4): "这个情绪在内容中是如何表现的？"
+
+
+
+64
+Sub-question 1: "中国港口建设行业的发展可以分为几个阶段？"
+Sub-question 2 (Parent node: Sub-question 1): "这些阶段分别是什么，描述哪些特点？"
+Sub-question 3 (Parent node: Sub-question 1): "这些阶段中是否存在技术或理念上的显著变化？"
+Sub-question 4 (Parent node: Sub-question 3): "这些变化在情绪上可以被归类为积极、消极还是中性？"
+Sub-question 5 (Parent node: Sub-question 4): "总结整个行业发展的情绪倾向是什么？"
+
+
+
+65
+Sub-question 1: "OLED技术的特点是什么？"
+Sub-question 2 (Parent node: Sub-question 1): "OLED在市场上的应用领域有哪些？"
+Sub-question 3 (Parent node: Sub-question 2): "当前小尺寸终端市场的需求状况如何？"
+Sub-question 4 (Parent node: Sub-question 2): "OLED在中大尺寸应用领域的发展前景如何？"
+Sub-question 5 (Parent node: Sub-question 3): "这些市场趋势传达了怎样的情绪？"
+
+
+
+66
+Sub-question 1: "中国的人口和市场特点是否能带动调味品行业的增长？"
+Sub-question 2 (Parent node: Sub-question 1): "消费复苏和餐饮行业发展是否对调味品行业规模有正面影响？"
+Sub-question 3 (Parent node: Sub-question 1): "消费需求的多样化是否促进调味品行业的扩展？"
+Sub-question 4 (Parent node: Sub-question 2): "调味品行业有哪些具体企业值得关注？"
+Sub-question 5 (Parent node: Sub-question 1): "这个行业的前景是否总体上是积极的？"
+
+
+
+67
+Sub-question 1: "芳纶的性能如何？"
+Sub-question 2 (Parent node: Sub-question 1): "芳纶的应用领域有哪些？"
+Sub-question 3 (Parent node: Sub-question 1): "芳纶在新兴领域的需求如何？"
+Sub-question 4 (Parent node: Sub-question 2): "芳纶在特定领域的需求增长预期是什么？"
+Sub-question 5 (Parent node: Sub-question 3): "哪些行业的新规或发展推动了芳纶需求的增长？"
+
+
+
+68
+Sub-question 1: "《意见》对人形机器人发展的定位及其重要性是什么？"
+Sub-question 2 (Parent node: Sub-question 1): "《意见》发布后对市场的影响如何？"
+Sub-question 3 (Parent node: Sub-question 2): "市场反应的数据和趋势是什么？"
+Sub-question 4 (Parent node: Sub-question 1): "《意见》中提到的科技竞争及经济发展新引擎的概念涉及哪些内容？"
+Sub-question 5 (Parent node: Sub-question 1): "《意见》如何强调投入与合作的重要性？"
+
+
+
+69
+Sub-question 1: "上市航司的三季报是否表现出盈利情况？"
+Sub-question 2 (Parent node: Sub-question 1): "该盈利是否与旅游需求的回升有关？"
+Sub-question 3 (Parent node: Sub-question 2): "在暑期和黄金周等旺季，旅客量是否有显著增长？"
+Sub-question 4 (Parent node: Sub-question 2): "整体行业在三季度末的经营成果是否显示出恢复和盈利？"
+Sub-question 5 (Parent node: Sub-question 4): "整体情绪是否可以归类为积极、消极或中性？"
+
+
+
+70
+Sub-question 1: "内容中提到的文化产业营业收入增速如何？"
+Sub-question 2 (Parent node: Sub-question 1): "这些增速与以往数据相比有哪些变化？"
+Sub-question 3 (Parent node: Sub-question 1): "内容中是否提到经济恢复向好的信息？"
+Sub-question 4 (Parent node: Sub-question 3): "经济恢复向好的信息对文化产业的影响是什么？"
+Sub-question 5 (Parent node: Sub-question 4): "整体上，这些信息传达的情绪是什么？"
+
+
+
+71
+Sub-question 1: "媒体报道是否提到非国有房企融资支持的必要性？"
+Sub-question 2 (Parent node: Sub-question 1): "融资端对象扩容与任务量化是否被认为是破局的关键？"
+Sub-question 3 (Parent node: Sub-question 1): "地产金融政策是否有可能进入融资端加力阶段？"
+Sub-question 4 (Parent node: Sub-question 2): "上市银行地产资产质量的预期是否企稳？"
+Sub-question 5 (Parent node: Sub-question 4): "非国有房企增信措施是否有望有效落地？"
+
+
+
+72
+Sub-question 1: "内容传达的主要趋势是什么？"
+Sub-question 2 (Parent node: Sub-question 1): "该趋势对企业的影响有哪些？"
+Sub-question 3 (Parent node: Sub-question 2): "中小企业在此趋势中面临哪些具体问题？"
+Sub-question 4 (Parent node: Sub-question 2): "企业对此趋势采取了哪些应对措施？"
+Sub-question 5 (Parent node: Sub-question 3): "这种影响传达的情绪是积极、消极还是中性？"
+
+
+
+73
+Sub-question 1: "军工板块的市场表现如何？"
+Sub-question 2 (Parent node: Sub-question 1): "行业因素是否出现积极变化？"
+Sub-question 3 (Parent node: Sub-question 1): "市场竞争的关键要素是什么？"
+Sub-question 4 (Parent node: Sub-question 2): "这些变化会如何影响行业集中度？"
+Sub-question 5 (Parent node: Sub-question 4): "当前的投资机会是否被看好？"
+
+
+
+74
+Sub-question 1: "当前游戏市场的整体表现是否向好？"
+Sub-question 2 (Parent node: Sub-question 1): "新游戏的上线速度和市场表现是否有所提升？"
+Sub-question 3 (Parent node: Sub-question 1): "行业内各公司的业绩预期是否积极？"
+Sub-question 4 (Parent node: Sub-question 3): "版号发放是否为公司新品持续上线提供了支持？"
+Sub-question 5 (Parent node: Sub-question 2): "玩家的消费意愿是否在增强？"
+
+
+

@@ -1,0 +1,612 @@
+0
+Sub-question 1: "18华泰G2的净利润是多少？"
+Sub-question 2 (Parent node: Sub-question 1): "去年同期18华泰G2的净利润是多少？"
+Sub-question 3 (Parent node: Sub-question 1): "18华泰G2的净利润同比增长率是多少？"
+Sub-question 4 (Parent node: Sub-question 3): "根据净利润同比增长率计算18华泰G2的净利润增长额是多少？"
+Sub-question 5 (Parent node: Sub-question 4): "18华泰G2的净利润较去年同期同比增长多少？"
+
+
+
+1
+Sub-question 1: "什么是净资产收益率ROE(加权)的定义？"
+Sub-question 2 (Parent node: Sub-question 1): "17兴业皖新REIT1B的每股收益EPS是什么？"
+Sub-question 3 (Parent node: Sub-question 2): "根据数据计算17兴业皖新REIT1B的净资产收益率ROE(加权)。"
+Sub-question 4 (Parent node: Sub-question 3): "17兴业皖新REIT1B的ROE(加权)是否在选项中？"
+Sub-question 5 (Parent node: Sub-question 4): "给出17兴业皖新REIT1B的净资产收益率ROE(加权)的正确选项。"
+
+
+
+2
+Sub-question 1: "What is the list of all bonds and their final coupon rates from the provided data?"
+Sub-question 2 (Parent node: Sub-question 1): "Which bond corresponds to '23青岛债58'?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the final coupon rate for '23青岛债58'?"
+
+
+
+3
+Sub-question 1: "沪公募的转股金额是多少？"
+Sub-question 2 (Parent node: Sub-question 1): "沪公募的到期只数是多少？"
+Sub-question 3 (Parent node: Sub-question 1): "沪公募的回售金额和只数是多少？"
+Sub-question 4 (Parent node: Sub-question 1): "沪公募的赎回金额和只数是多少？"
+Sub-question 5 (Parent node: Sub-question 1): "沪公募的总公募数据与其他市场相比如何？"
+
+
+
+4
+Sub-question 1: "What is the total amount of pledge-style repurchase transactions for the month?"  
+Sub-question 2 (Parent node: Sub-question 1): "What is the amount of pledge-style repurchase transactions for government bonds?"  
+Sub-question 3 (Parent node: Sub-question 1): "What is the amount of pledge-style repurchase transactions for local government bonds?"  
+Sub-question 4 (Parent node: Sub-question 1): "What is the amount of pledge-style repurchase transactions for policy bank bonds?"  
+Sub-question 5 (Parent node: Sub-question 1): "What is the total amount of pledge-style repurchase transactions for commercial bank bonds?"  
+
+
+
+5
+Sub-question 1: "What are the relevant categories of personal consumption expenditures in the provided GDP data?"  
+Sub-question 2 (Parent node: Sub-question 1): "What is the specific personal consumption expenditure category focused on for June 2023?"  
+Sub-question 3 (Parent node: Sub-question 2): "What are the GDP data values for personal consumption expenditures in June 2023?"  
+Sub-question 4 (Parent node: Sub-question 3): "What is the ring ratio value for the selected category of personal consumption expenses in June 2023?"  
+Sub-question 5 (Parent node: Sub-question 4): "What is the final answer for the personal consumption expenditure ring ratio for June 2023?"  
+
+
+
+6
+Sub-question 1: "What is the GDP total for China in 2021?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the GDP growth rate for China in 2021?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the GDP total for China in 2022?"
+Sub-question 4 (Parent node: Sub-question 2): "What was China's economic trend in 2021 based on the GDP growth rate?"
+
+
+
+7
+Sub-question 1: "计算2023年9月的财政盈余/赤字数值"
+Sub-question 2 (Parent node: Sub-question 1): "计算2022年9月的财政盈余/赤字数值"
+Sub-question 3 (Parent node: Sub-question 2): "计算2023年9月与2022年9月财政盈余/赤字的差额"
+Sub-question 4 (Parent node: Sub-question 3): "分析该差额与去年同期的下降百分比"
+Sub-question 5 (Parent node: Sub-question 4): "确定最终的财政盈余/赤字下降量的正确选项"
+
+
+
+8
+Sub-question 1: "What are the futures prices for焦煤 and焦炭 on 2023年11月02日?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the price difference (价差) between焦煤 and焦炭 on 2023年11月02日?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the price ratio (比价) between焦煤 and焦炭 on 2023年11月02日?"
+Sub-question 4 (Parent node: Sub-question 2): "How is the price difference (价差) calculated based on the futures prices of焦煤 and焦炭?"
+Sub-question 5 (Parent node: Sub-question 3): "How is the price ratio (比价) calculated based on the futures prices of焦煤 and焦炭?"
+
+
+
+9
+Sub-question 1: "What was the latex production volume in 2021?"
+Sub-question 2 (Parent node: Sub-question 1): "What was the latex production volume in 2022?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the percentage change in latex production from 2021 to 2022?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the interpretation of the percentage change calculated in sub-question 3?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the significance of the percentage change in relation to the overall latex production trend?"
+
+
+
+10
+Sub-question 1: "What is the total funding net inflow for A-shares on November 2, 2023?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the funding net inflow for the main board on November 2, 2023?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the funding net inflow for the ChiNext (创业板) on November 2, 2023?"
+Sub-question 4 (Parent node: Sub-question 1): "What is the funding net inflow for the CSI 300 (沪深300) on November 2, 2023?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the previous day's (November 1, 2023) funding net inflow for the ChiNext (创业板) for comparison?"
+
+
+
+11
+Sub-question 1: "What is the total amount of social consumer goods retail in September 2023?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total amount of consumer goods retail excluding automobiles in September 2023?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the percentage growth of consumer goods retail excluding automobiles in September 2023?"
+Sub-question 4 (Parent node: Sub-question 1): "What are the total consumer goods retail amounts for the period from January to September 2023?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the percentage growth of consumer goods retail excluding automobiles for the period from January to September 2023?"
+
+
+
+12
+Sub-question 1: "国有控股企业的利润总额是多少？"
+Sub-question 2 (Parent node: Sub-question 1): "国有控股企业的利润总额同比增长率是多少？"
+Sub-question 3 (Parent node: Sub-question 1): "整体利润总额是多少？"
+Sub-question 4 (Parent node: Sub-question 3): "整体利润总额同比增长率是多少？"
+Sub-question 5 (Parent node: Sub-question 2): "国有控股企业的利润总额同比下降了多少？"
+
+
+
+13
+Sub-question 1: "What is the total number of investment products listed in the provided information?"
+Sub-question 2 (Parent node: Sub-question 1): "Which product's details do I need to focus on to find the product share?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the specific data corresponding to the product '华泰紫金鼎锦上添花'?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the product share value for '华泰紫金鼎锦上添花'?"
+Sub-question 5 (Parent node: Sub-question 4): "Is the derived product share value consistent with the provided information?"
+
+
+
+14
+Sub-question 1: "获取所有行业的投资市值合计数据"
+Sub-question 2 (Parent node: Sub-question 1): "识别与房地产相关的行业"
+Sub-question 3 (Parent node: Sub-question 1): "计算房地产投资的市值"
+Sub-question 4 (Parent node: Sub-question 2): "汇总房地产投资的市值"
+Sub-question 5 (Parent node: Sub-question 3): "确认最终房地产投资市值的正确选项"
+
+
+
+15
+Sub-question 1: "What is the fund name being inquired about?"
+Sub-question 2 (Parent node: Sub-question 1): "What specific fee rates are available for the identified fund?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the management fee rate for the identified fund?"
+Sub-question 4 (Parent node: Sub-question 3): "Is the management fee rate consistent with the typical rates for similar funds?"
+Sub-question 5 (Parent node: Sub-question 3): "What are the implications of the management fee rate for an investor?"
+
+
+
+16
+Sub-question 1: "华宝服务优选混合的基金类型是什么？"
+Sub-question 2 (Parent node: Sub-question 1): "华宝服务优选混合的东财基金一级分类是什么？"
+Sub-question 3 (Parent node: Sub-question 2): "华宝服务优选混合的东财基金二级分类是什么？"
+Sub-question 4 (Parent node: Sub-question 3): "华宝服务优选混合在东财基金二级分类中属于什么类型？"
+
+
+
+17
+Sub-question 1: "主题指数ETF的份额合计是多少？"
+Sub-question 2 (Parent node: Sub-question 1): "主题指数ETF的份额占比是多少？"
+Sub-question 3 (Parent node: Sub-question 2): "如何计算主题指数ETF的份额占比？"
+Sub-question 4 (Parent node: Sub-question 3): "主题指数ETF的份额占比与市场其他类别ETF的份额占比的关系是什么？"
+Sub-question 5 (Parent node: Sub-question 1): "主题指数ETF的资产净值合计是多少？"
+
+
+
+18
+Sub-question 1: "养老目标日期FOF基金的数量合计是多少？"
+Sub-question 2 (Parent node: Sub-question 1): "养老目标日期FOF基金的数量占比是多少？"
+Sub-question 3 (Parent node: Sub-question 1): "FOF市场中养老目标基金的总数量是多少？"
+Sub-question 4 (Parent node: Sub-question 3): "养老目标基金在FOF市场中占比是多少？"
+Sub-question 5 (Parent node: Sub-question 2): "养老目标日期FOF基金的市场表现如何？"
+
+
+
+19
+Sub-question 1: "What is the total scale of fixed income assets for all managers?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the scale of fixed income assets specifically for '人寿养老'?"
+Sub-question 3 (Parent node: Sub-question 2): "What data is provided for '人寿养老' regarding fixed income assets?"
+Sub-question 4 (Parent node: Sub-question 3): "How can I calculate the total scale of fixed income assets using the provided data?"
+Sub-question 5 (Parent node: Sub-question 1): "Are there any additional considerations or context needed to understand the fixed income asset scale?"
+
+
+
+20
+Sub-question 1: "What is the保有规模 (holding scale) of 浙江同花顺基金销售有限公司 for the current period (本期)?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the保有规模 (holding scale) of 浙江同花顺基金销售有限公司 for the previous period (上期)?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the change in 保有规模 (holding scale) of 浙江同花顺基金销售有限公司 between the current period and the previous period (变动)?"
+Sub-question 4 (Parent node: Sub-question 3): "Is the calculated change in 规模 (scale) consistent with the provided变动 (change) value?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final answer regarding the change in 保有规模 for 浙江同花顺基金销售有限公司?"
+
+
+
+21
+Sub-question 1: "What is the total scale of all types of funds in 2023 Q3?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the specific scale of the money market fund in 2023 Q3?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the scale of the bond fund in 2023 Q3?"
+Sub-question 4 (Parent node: Sub-question 1): "What is the scale of the mixed fund in 2023 Q3?"
+Sub-question 5 (Parent node: Sub-question 1): "What is the scale of the stock fund in 2023 Q3?"
+
+
+
+22
+Sub-question 1: "What is the financial data related to 东风科技 in the 2023 mid-year report?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total asset turnover ratio for 东风科技?"
+Sub-question 3 (Parent node: Sub-question 1): "What are the relevant financial indicators for comparison?"
+Sub-question 4 (Parent node: Sub-question 2): "How does the total asset turnover ratio of 东风科技 compare to other companies listed?"
+Sub-question 5 (Parent node: Sub-question 2): "What is the significance of the total asset turnover ratio in financial analysis?"
+
+
+
+23
+Sub-question 1: "西安饮食的当日净流入额是多少？"
+Sub-question 2 (Parent node: Sub-question 1): "西安饮食的超大单流入额是多少？"
+Sub-question 3 (Parent node: Sub-question 1): "西安饮食的超大单流出额是多少？"
+Sub-question 4 (Parent node: Sub-question 2): "西安饮食的小单流入额和小单流出额各是多少？" 
+Sub-question 5 (Parent node: Sub-question 3): "这些流入流出额如何相互影响西安饮食的当日净流入额？"
+
+
+
+24
+Sub-question 1: "今天南方传媒的证券代码是什么？"
+Sub-question 2 (Parent node: Sub-question 1): "今天南方传媒的涨跌幅是多少？"
+Sub-question 3 (Parent node: Sub-question 1): "今天南方传媒的成交额是多少？"
+Sub-question 4 (Parent node: Sub-question 2): "涨跌幅的单位是什么？"
+Sub-question 5 (Parent node: Sub-question 3): "成交量和换手率分别是多少？"
+
+
+
+25
+Sub-question 1: "今日的新经典证券交易数据包含哪些关键信息？"
+Sub-question 2 (Parent node: Sub-question 1): "今日的新经典成交量是多少？"
+Sub-question 3 (Parent node: Sub-question 1): "今日的新经典成交额是多少？"
+Sub-question 4 (Parent node: Sub-question 2): "今日的新经典的涨跌幅是多少？"
+Sub-question 5 (Parent node: Sub-question 3): "今日的新经典的换手率是多少？"
+
+
+
+26
+Sub-question 1: "超图软件2023年三季报中基金的持仓家数是多少？"
+Sub-question 2 (Parent node: Sub-question 1): "超图软件2023年三季报中基金的持仓股数是多少？"
+Sub-question 3 (Parent node: Sub-question 1): "超图软件2023年三季报中其他机构的持仓股数是多少？"
+Sub-question 4 (Parent node: Sub-question 2): "超图软件2023年三季报中总机构持仓股数是多少？"
+Sub-question 5 (Parent node: Sub-question 4): "超图软件2023年三季报中占流通股比例和占总股本比例各自是多少？"
+
+
+
+27
+Sub-question 1: "2023年三季度的财务报表有哪些主要指标？"
+Sub-question 2 (Parent node: Sub-question 1): "归属于母公司股东的净利润这一指标在2023年三季度的数值是多少？"
+Sub-question 3 (Parent node: Sub-question 1): "与2022年和2021年的归属于母公司股东的净利润相比，2023年三季度的净利润变动如何？"
+Sub-question 4 (Parent node: Sub-question 2): "归属于母公司股东的净利润的计算公式是什么？"
+Sub-question 5 (Parent node: Sub-question 3): "归属于母公司股东的净利润是否受到其他财务指标的影响？"
+
+
+
+28
+Sub-question 1: "Which institutions are listed in the provided data?"
+Sub-question 2 (Parent node: Sub-question 1): "What are the占流通股比例 for each institution?"
+Sub-question 3 (Parent node: Sub-question 2): "Which institution has the highest占流通股比例?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the占流通股比例 of the institution with the highest percentage?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the name of the institution with the highest占流通股比例?"
+
+
+
+29
+Sub-question 1: "什么是2025年每股收益的预测值？"
+Sub-question 2 (Parent node: Sub-question 1): "2025年每股收益的预测值与2024年和2023年相比如何变化？"
+Sub-question 3 (Parent node: Sub-question 1): "2025年的每股收益预测值怎么算出？"
+Sub-question 4 (Parent node: Sub-question 2): "这些每股收益的预测值对公司未来的盈利能力有何影响？"
+Sub-question 5 (Parent node: Sub-question 1): "如何解读这些盈利预测数据对投资决策的影响？"
+
+
+
+30
+Sub-question 1: "中信证券的最新交易日期是什么？"
+Sub-question 2 (Parent node: Sub-question 1): "中信证券的收盘价是多少？"
+Sub-question 3 (Parent node: Sub-question 2): "中信证券的涨跌幅是多少？"
+Sub-question 4 (Parent node: Sub-question 3): "中信证券的涨跌幅是否符合数据表中的数值？"
+
+
+
+31
+Sub-question 1: "2022年第三季度的营业收入是多少？"
+Sub-question 2 (Parent node: Sub-question 1): "2023年第三季度的营业收入是多少？"
+Sub-question 3 (Parent node: Sub-question 2): "2023年第三季度的营业收入较2022年第三季度增长了多少？"
+Sub-question 4 (Parent node: Sub-question 3): "营业收入的同比增长率是多少？"
+Sub-question 5 (Parent node: Sub-question 4): "选择正确的同比增长率选项。"
+
+
+
+32
+Sub-question 1: "什么是金融业的净流入金额？"
+Sub-question 2 (Parent node: Sub-question 1): "金融业的净流入金额是正值还是负值？"
+Sub-question 3 (Parent node: Sub-question 1): "当前金融业的资金流入比率是多少？"
+Sub-question 4 (Parent node: Sub-question 2): "如果金融业的净流入金额是负值，那么负值的具体金额是多少？"
+Sub-question 5 (Parent node: Sub-question 3): "资金流入比率的变化趋势对于金融业的影响是什么？"
+
+
+
+33
+Sub-question 1: "在上证A股中，批发和零售业的股票总数是多少？"
+Sub-question 2 (Parent node: Sub-question 1): "在上证A股中，批发和零售业的亏损股票数是多少？"
+Sub-question 3 (Parent node: Sub-question 1): "在其他A股中，批发和零售业的股票总数是多少？"
+Sub-question 4 (Parent node: Sub-question 2): "在上证A股中，批发和零售业的亏损程度是什么？"
+Sub-question 5 (Parent node: Sub-question 4): "根据亏损股票数和亏损程度，批发和零售业在上证A股中亏损了多少？"
+
+
+
+34
+Sub-question 1: "What is the total export value of焦炭 in September 2023?"
+Sub-question 2 (Parent node: Sub-question 1): "What was the change in export value of焦炭 from August 2023 to September 2023?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the percentage change in the export value of焦炭 from August 2023 to September 2023?"
+Sub-question 4 (Parent node: Sub-question 2): "What are the implications of the export value change for the焦炭 market?"
+Sub-question 5 (Parent node: Sub-question 3): "How does the percentage change in September compare to previous months?"
+
+
+
+35
+Sub-question 1: "最新一个交易日的日期是什么？"
+Sub-question 2 (Parent node: Sub-question 1): "最新一个交易日布伦特石油的期货结算价是多少？"
+Sub-question 3 (Parent node: Sub-question 1): "最新一个交易日布伦特石油的涨跌幅是多少？"
+
+
+
+36
+Sub-question 1: "什么是美元兑人民币的最新价？"
+Sub-question 2 (Parent node: Sub-question 1): "美元兑人民币的中间价是多少？"
+Sub-question 3 (Parent node: Sub-question 2): "中间价是根据什么数据得出的？"
+Sub-question 4 (Parent node: Sub-question 3): "中间价和最新价之间有什么关系？"
+Sub-question 5 (Parent node: Sub-question 4): "如何判断中间价的变化趋势？"
+
+
+
+37
+Sub-question 1: "什么是加权平均价？"
+Sub-question 2 (Parent node: Sub-question 1): "如何计算期限为2Y的加权平均价？"
+Sub-question 3 (Parent node: Sub-question 2): "在计算中需要考虑哪些期限的成交量和加权平均价？"
+Sub-question 4 (Parent node: Sub-question 3): "如何得到2Y的加权平均利率？"
+Sub-question 5 (Parent node: Sub-question 4): "计算结果的意义是什么？"
+
+
+
+38
+Sub-question 1: "香港恒生指数的涨幅是多少？"
+Sub-question 2 (Parent node: Sub-question 1): "香港恒生指数的涨幅对应的点数是多少？"
+Sub-question 3: "恒生科技指数的涨幅是多少？"
+Sub-question 4 (Parent node: Sub-question 3): "恒生科技指数的涨幅对应的点数是多少？"
+
+
+
+39
+Sub-question 1: "道琼斯工业平均指数的涨幅是多少？"
+Sub-question 2 (Parent node: Sub-question 1): "标准普尔500种股票指数的涨幅是多少？"
+Sub-question 3 (Parent node: Sub-question 1): "纳斯达克综合指数的涨幅是多少？"
+Sub-question 4 (Parent node: Sub-question 2): "这三个指数的涨幅是否都是正数？"
+Sub-question 5 (Parent node: Sub-question 3): "根据涨幅数据，哪个指数的涨幅最大？"
+
+
+
+40
+Sub-question 1: "苹果在11月2日的涨幅超过多少个百分点？"
+Sub-question 2 (Parent node: Sub-question 1): "小鹏汽车在11月2日的涨幅超过多少个百分点？"
+Sub-question 3 (Parent node: Sub-question 1): "特斯拉在11月2日的涨幅超过多少个百分点？"
+Sub-question 4 (Parent node: Sub-question 1): "阿里巴巴在11月2日的涨幅超过多少个百分点？"
+
+
+
+41
+Sub-question 1: "什么是贵州茅台53度茅台酒的当前出厂价格？"
+Sub-question 2 (Parent node: Sub-question 1): "贵州茅台决定在何时调整出厂价格？"
+Sub-question 3 (Parent node: Sub-question 2): "调整后的贵州茅台53度茅台酒出厂价格是多少？"
+Sub-question 4 (Parent node: Sub-question 3): "此次出厂价格的平均上调幅度是多少？"
+Sub-question 5 (Parent node: Sub-question 4): "此次价格调整对市场的可能影响是什么？"
+
+
+
+42
+Sub-question 1: "高新发展自2023年10月19日至11月2日累计上涨多少百分点？"
+Sub-question 2 (Parent node: Sub-question 1): "当前公司股票静态市盈率为多少？"
+
+
+
+43
+Sub-question 1: "2023年10月万科实现合同销售面积是多少万平方米？"
+Sub-question 2 (Parent node: Sub-question 1): "2023年10月万科实现合同销售金额是多少亿元？"
+Sub-question 3 (Parent node: Sub-question 1): "2023年1~10月万科累计实现合同销售面积是多少万平方米？"
+Sub-question 4 (Parent node: Sub-question 3): "2023年1~10月万科累计实现合同销售金额是多少亿元？"
+
+
+
+44
+Sub-question 1: "赛力斯在10月份的新能源汽车销量是多少辆？"
+Sub-question 2 (Parent node: Sub-question 1): "该销量相比去年同月增长了多少百分比？"
+Sub-question 3 (Parent node: Sub-question 1): "赛力斯的新能源汽车销量与之前几个月相比有什么变化？"
+Sub-question 4 (Parent node: Sub-question 2): "这种增长趋势是否符合市场预期？"
+Sub-question 5 (Parent node: Sub-question 3): "这些销量对赛力斯的整体业绩有何影响？"
+
+
+
+45
+Sub-question 1: "2023年前三季度晶科能源的光伏组件出货量是多少？"
+Sub-question 2 (Parent node: Sub-question 1): "2023年前三季度晶澳科技的光伏组件出货量是多少？"
+Sub-question 3 (Parent node: Sub-question 1): "2022年前三季度晶科能源的光伏组件出货量是多少？"
+Sub-question 4 (Parent node: Sub-question 1): "2022年前三季度晶澳科技的光伏组件出货量是多少？"
+Sub-question 5 (Parent node: Sub-question 1): "2023年前三季度各大光伏企业出货量的排名及数据是什么？"
+
+
+
+46
+Sub-question 1: "2023年贵州茅台的EPS预测值是多少？"
+Sub-question 2 (Parent node: Sub-question 1): "2023年贵州茅台EPS的同比增长率是多少？"
+Sub-question 3 (Parent node: Sub-question 1): "2024年贵州茅台的EPS预测值是多少？"
+Sub-question 4 (Parent node: Sub-question 1): "2025年贵州茅台的EPS预测值是多少？"
+Sub-question 5 (Parent node: Sub-question 2): "2023年贵州茅台的EPS预测值与2022年的EPS相比的实际增长百分比是多少？"
+
+
+
+47
+Sub-question 1: "什么是药明康德2023年调整前的公司收入预测？"  
+Sub-question 2 (Parent node: Sub-question 1): "什么是药明康德2023年调整后的公司收入预测？"  
+Sub-question 3 (Parent node: Sub-question 2): "2023年药明康德的收入预测同比增长率是多少？"  
+Sub-question 4 (Parent node: Sub-question 3): "中泰证券对药明康德2023年收入预测的调整原因是什么？"  
+Sub-question 5 (Parent node: Sub-question 4): "中泰证券对药明康德的评级是什么？"  
+
+
+
+48
+Sub-question 1: "What is the recommended percentage for the pharmaceutical industry in November's stock recommendations?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the recommended percentage for the electronics industry in November's stock recommendations?"
+Sub-question 3 (Parent node: Sub-question 1): "How does the recommended percentage for the pharmaceutical industry compare to last month?"
+Sub-question 4 (Parent node: Sub-question 2): "How does the recommended percentage for the electronics industry compare to last month?"
+Sub-question 5 (Parent node: Sub-question 1): "What are the recommended percentages for other industries?"
+
+
+
+49
+Sub-question 1: "海通证券的回购金额上限是多少亿元？"
+Sub-question 2 (Parent node: Sub-question 1): "国金证券的回购金额上限是多少亿元？"
+Sub-question 3 (Parent node: Sub-question 1): "东方财富的回购金额上限是多少亿元？"
+Sub-question 4 (Parent node: Sub-question 1): "东方证券的回购金额上限是多少亿元？"
+
+
+
+50
+Sub-question 1: "截至2023年10月22日，全部ETF资产净值的数额是多少？"
+Sub-question 2 (Parent node: Sub-question 1): "该数额是否接近2万亿元？"
+Sub-question 3 (Parent node: Sub-question 1): "这个数额相比之前的水平有什么变化？"
+Sub-question 4 (Parent node: Sub-question 2): "如果接近，具体差距是多少？"
+Sub-question 5 (Parent node: Sub-question 3): "这些变化的原因是什么？"
+
+
+
+51
+Sub-question 1: "上交所融资余额是多少亿元？"
+Sub-question 2 (Parent node: Sub-question 1): "深交所融资余额是多少亿元？"
+Sub-question 3 (Parent node: Sub-question 1): "两市合计融资余额是多少亿元？"
+Sub-question 4 (Parent node: Sub-question 3): "两市融资交易额是多少亿元？"
+Sub-question 5 (Parent node: Sub-question 4): "融资买入额和融资偿还额分别是多少亿元？"
+
+
+
+52
+Sub-question 1: "What is the source of the information regarding the PMI index for October?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the value of the manufacturing PMI index for October?"
+Sub-question 3 (Parent node: Sub-question 2): "How much did the PMI index change compared to the previous month?"
+Sub-question 4 (Parent node: Sub-question 2): "In which zone does the PMI index for October fall (expansion or contraction)?"
+Sub-question 5 (Parent node: Sub-question 4): "What does the PMI index value indicate about the manufacturing sector's economic conditions?"
+
+
+
+53
+Sub-question 1: "今年前9个月，中国服务贸易的服务进出口总额是多少亿元？"
+Sub-question 2 (Parent node: Sub-question 1): "服务出口总额是多少亿元？"
+Sub-question 3 (Parent node: Sub-question 1): "服务进口总额是多少亿元？"
+Sub-question 4 (Parent node: Sub-question 1): "服务贸易的逆差是多少亿元？"
+Sub-question 5 (Parent node: Sub-question 4): "服务贸易的逆差是如何计算的？"
+
+
+
+54
+Sub-question 1: "2023年前三季度文化企业实现的总营业收入是多少亿元？"
+Sub-question 2 (Parent node: Sub-question 1): "文化制造业实现的营业收入是多少亿元？"
+Sub-question 3 (Parent node: Sub-question 1): "文化批发和零售业实现的营业收入是多少亿元？"
+Sub-question 4 (Parent node: Sub-question 1): "文化服务业实现的营业收入是多少亿元？"
+
+
+
+55
+Sub-question 1: "美联储在11月2日的利率决策是什么？"
+Sub-question 2 (Parent node: Sub-question 1): "此决策对人民币汇率产生了什么影响？"
+Sub-question 3 (Parent node: Sub-question 2): "境外离岸市场人民币兑美元汇率在11月2日是多少？"
+Sub-question 4 (Parent node: Sub-question 2): "境内在岸市场人民币兑美元汇率在11月2日是多少？"
+Sub-question 5 (Parent node: Sub-question 3): "境外离岸市场人民币兑美元汇率与前一个交易日的变化是什么？"
+
+
+
+56
+Sub-question 1: "科沃斯第三季度归母净利润是多少亿元？"
+Sub-question 2 (Parent node: Sub-question 1): "科沃斯第三季度归母净利润同比变化是多少？"
+Sub-question 3: "石头科技第三季度归母净利润是多少亿元？"
+Sub-question 4 (Parent node: Sub-question 3): "石头科技第三季度归母净利润同比变化是多少？"
+
+
+
+57
+Sub-question 1: "什么是港股国企指数的定义和背景信息？"
+Sub-question 2 (Parent node: Sub-question 1): "在2023年11月3日，港股三大指数分别上涨了多少？"
+Sub-question 3 (Parent node: Sub-question 2): "国企指数在三大指数中具体的上涨幅度是多少？"
+Sub-question 4 (Parent node: Sub-question 2): "恒生指数和科技指数在同一天分别上涨了多少？"
+Sub-question 5 (Parent node: Sub-question 3): "国企指数上涨的主要原因是什么？"
+
+
+
+58
+Sub-question 1: "泰丰股份在2023年的收益是多少？"
+Sub-question 2 (Parent node: Sub-question 1): "泰丰股份在2023年截至6月30日的净利润是多少？"
+Sub-question 3 (Parent node: Sub-question 1): "泰丰股份在2022年截至6月30日的收益是多少？"
+Sub-question 4 (Parent node: Sub-question 2): "泰丰股份在2022年截至6月30日的净利润是多少？"
+Sub-question 5 (Parent node: Sub-question 2): "泰丰股份在2023年实现收益的同比增长率是多少？"
+
+
+
+59
+Sub-question 1: "全球食品价格指数在10月的环比变化是多少百分点？"
+Sub-question 2 (Parent node: Sub-question 1): "10月食糖类价格的环比变化是多少百分点？"
+Sub-question 3 (Parent node: Sub-question 1): "除了食糖类，还有哪些其他食品类别在10月的价格发生了变化？"
+Sub-question 4 (Parent node: Sub-question 2): "食糖类价格的环比变化是否高于其他食品类别的价格变化？"
+Sub-question 5 (Parent node: Sub-question 3): "这些食品类别的价格变化分别是多少百分点？"
+
+
+
+60
+Sub-question 1: "什么是芝加哥期货交易所玉米和小麦的12月合约期价的涨幅？"  
+Sub-question 2 (Parent node: Sub-question 1): "玉米的12月合约期价在11月3日是多少？"  
+Sub-question 3 (Parent node: Sub-question 1): "小麦的12月合约期价在11月3日是多少？"  
+Sub-question 4 (Parent node: Sub-question 2): "玉米的前一交易日期价是多少？"  
+Sub-question 5 (Parent node: Sub-question 3): "小麦的前一交易日期价是多少？"  
+
+
+
+61
+Sub-question 1: "2023年前三季度百纳千成的营业总收入是多少万元？"
+Sub-question 2 (Parent node: Sub-question 1): "2023年前三季度百纳千成的归母净利润是多少万元？"
+Sub-question 3 (Parent node: Sub-question 1): "在股价异动期间，百纳千成股价与创业板综指的累计偏离度是多少？"
+Sub-question 4 (Parent node: Sub-question 1): "在股价异动期间，百纳千成股价与文化传媒板块的累计偏离度是多少？"
+
+
+
+
+62
+Sub-question 1: "What was the global AI software market size in 2022?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the projected global AI software market size in 2027?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the compound annual growth rate (CAGR) for the global AI software market from 2022 to 2027?"
+Sub-question 4 (Parent node: Sub-question 2): "What factors contribute to the increase in the global AI software market size?"
+Sub-question 5 (Parent node: Sub-question 3): "How is CAGR calculated based on market size in different years?"
+
+
+
+63
+Sub-question 1: "海能达2023年盈利预测的调整前值是多少亿元？"
+Sub-question 2 (Parent node: Sub-question 1): "海能达2023年盈利预测的调整后值是多少亿元？"
+Sub-question 3 (Parent node: Sub-question 2): "根据调整前后值，变化幅度是多少亿元？"
+Sub-question 4 (Parent node: Sub-question 1): "天风证券对2024年和2025年的归母净利润预测分别是多少亿元？"
+Sub-question 5 (Parent node: Sub-question 4): "23-25年PE对应的值分别是多少倍？"
+
+
+
+64
+Sub-question 1: "国海证券定增的发行价格是多少？"
+Sub-question 2 (Parent node: Sub-question 1): "国海证券定增的发行股数是多少？"
+Sub-question 3 (Parent node: Sub-question 1): "国海证券此次定增的募集资金总额是多少？"
+Sub-question 4 (Parent node: Sub-question 3): "3家券商将合计买入国海证券多少亿元？"
+Sub-question 5 (Parent node: Sub-question 4): "这3家券商各自的出资金额是多少？"
+
+
+
+65
+Sub-question 1: "十大牛散在三季度末合计持有的A股市值是多少亿元？"
+Sub-question 2 (Parent node: Sub-question 1): "葛卫东家族持股市值是多少亿元？"
+Sub-question 3 (Parent node: Sub-question 1): "陈发树持股市值是多少亿元？"
+Sub-question 4 (Parent node: Sub-question 1): "“章盟主”家族持股市值是多少亿元？"
+Sub-question 5 (Parent node: Sub-question 1): "十大牛散持有的A股公司数量变化是多少？"
+
+
+
+66
+Sub-question 1: "10月居民消费价格指数（CPI）预测中值是多少？"
+Sub-question 2 (Parent node: Sub-question 1): "参与机构对10月CPI预测的最高和最低值分别是多少？"
+Sub-question 3: "10月新增人民币贷款的预测中值是多少？"
+Sub-question 4 (Parent node: Sub-question 3): "参与机构对10月新增人民币贷款的最高和最低预测值分别是多少？"
+Sub-question 5: "10月社融规模的预测中值是多少？"
+
+
+
+67
+Sub-question 1: "科创100指数成分股的平均市值是多少亿元？"
+Sub-question 2 (Parent node: Sub-question 1): "科创100指数前五大行业的权重分别是多少？"
+Sub-question 3 (Parent node: Sub-question 2): "科创100指数中最大的权重行业是什么？"
+Sub-question 4 (Parent node: Sub-question 2): "科创100指数中第二大权重行业是什么？"
+Sub-question 5 (Parent node: Sub-question 2): "科创100指数中第三大、第四大和第五大权重行业分别是什么？"
+
+
+
+68
+Sub-question 1: "截至11月3日，沪股通持有的科创板股市值合计是多少亿元？"
+Sub-question 2 (Parent node: Sub-question 1): "传音控股的市值是多少亿元？"
+Sub-question 3 (Parent node: Sub-question 1): "沪股通持股量最多的科创板股是哪一只？"
+Sub-question 4 (Parent node: Sub-question 3): "在沪股通持有的科创板股中，晶科能源和和辉光电的持股量分别是多少？"
+Sub-question 5 (Parent node: Sub-question 1): "增持金额居前的科创板股有哪些？"
+
+
+
+69
+Sub-question 1: "10月份中国大宗商品指数较上月回落了多少百分点？"
+Sub-question 2 (Parent node: Sub-question 1): "10月份有色金属的环比增长率是多少？"
+Sub-question 3 (Parent node: Sub-question 1): "10月份汽车供应量的环比增长率是多少？"
+
+
+

@@ -1,0 +1,613 @@
+0
+Sub-question 1: "计算C惠柏公司2019年的营业总收入。"
+Sub-question 2 (Parent node: Sub-question 1): "计算C惠柏公司2022年的营业总收入。"
+Sub-question 3 (Parent node: Sub-question 2): "计算C惠柏公司营业总收入的变化量。"
+Sub-question 4 (Parent node: Sub-question 3): "计算C惠柏公司营业总收入的年数。"
+Sub-question 5 (Parent node: Sub-question 4): "根据公式计算C惠柏公司的复合年均增长率。"
+
+
+
+1
+Sub-question 1: "如何计算2019年和2022年的净运营资本？"
+Sub-question 2 (Parent node: Sub-question 1): "如何计算这两年的净运营资本的基值和现值？"
+Sub-question 3 (Parent node: Sub-question 2): "如何计算净运营资本的复合年均增长率？"
+Sub-question 4 (Parent node: Sub-question 3): "如何将复合年均增长率转换为百分比格式并保留两位小数？"
+Sub-question 5 (Parent node: Sub-question 4): "哪些选项符合计算出的复合年均增长率？"
+
+
+
+2
+Sub-question 1: "如何计算2022年和2023年的财政收入增长速度？"
+Sub-question 2 (Parent node: Sub-question 1): "如何计算2022年和2023年的GDP增长速度？"
+Sub-question 3 (Parent node: Sub-question 1): "如何求财政收入年均增长速度？"
+Sub-question 4 (Parent node: Sub-question 2): "如何求国民经济年均增长速度？"
+Sub-question 5 (Parent node: Sub-question 3): "如何利用财政收入年均增长速度和国民经济年均增长速度计算财政收入弹性系数？"
+
+
+
+3
+Sub-question 1: "What is the total stock capital of 赛为智能 in 2022?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the net profit of 赛为智能 in 2022?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the formula for calculating earnings per share?"
+Sub-question 4 (Parent node: Sub-question 3): "How do you apply the formula using the net profit and total stock capital?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final calculated earnings per share value for 赛为智能 in 2022?"
+
+
+
+4
+Sub-question 1: "计算流动资产与流动负债的差额，得出营运资金。"
+Sub-question 2 (Parent node: Sub-question 1): "使用长期负债和营运资金的差额计算长期债务与营运资金比率。"
+Sub-question 3 (Parent node: Sub-question 2): "将计算结果保留两位小数。"
+Sub-question 4 (Parent node: Sub-question 3): "给出最终的长期债务与营运资金比率的正确选项。"
+
+
+
+5
+Sub-question 1: "What is the total asset of 高新发展 in 2023年9月?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the股东权益 of 高新发展 in 2023年9月?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the formula for calculating the权益乘数?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the result of the calculation for 权益乘数 using the total asset and 股东权益?"
+Sub-question 5 (Parent node: Sub-question 4): "How do you round the result to two decimal places?"
+
+
+
+6
+Sub-question 1: "计算2021年和2022年的营业净利率。"
+Sub-question 2 (Parent node: Sub-question 1): "计算2022年的营业净利率。"
+Sub-question 3 (Parent node: Sub-question 1): "计算2021年的营业净利率。"
+Sub-question 4 (Parent node: Sub-question 2): "计算2022年营业净利率的同比增长率。"
+Sub-question 5 (Parent node: Sub-question 3): "计算2021年营业净利率的同比增长率。"
+
+
+
+7
+Sub-question 1: "什么是经营活动产生的现金流量净额的计算公式？"
+Sub-question 2 (Parent node: Sub-question 1): "市现率和总市值的具体数值是多少？"
+Sub-question 3 (Parent node: Sub-question 1): "如何使用市现率和总市值进行计算？"
+Sub-question 4 (Parent node: Sub-question 3): "计算结果的单位是什么？"
+Sub-question 5 (Parent node: Sub-question 3): "如何保留计算结果的小数位数？"
+
+
+
+8
+Sub-question 1: "什么是现金及现金等价物净增加额的计算公式？"
+Sub-question 2 (Parent node: Sub-question 1): "总市值是多少？"
+Sub-question 3 (Parent node: Sub-question 1): "市现率是多少？"
+Sub-question 4 (Parent node: Sub-question 2): "总市值和市现率的数值能否进行计算？"
+Sub-question 5 (Parent node: Sub-question 4): "现金及现金等价物净增加额的结果是多少？"
+
+
+
+9
+Sub-question 1: "什么是家用轻工行业2022年的市盈率？"
+Sub-question 2 (Parent node: Sub-question 1): "每股收益增长率是多少？"
+Sub-question 3 (Parent node: Sub-question 2): "如何将每股收益增长率转换为百分比形式？"
+Sub-question 4 (Parent node: Sub-question 3): "如何使用PEG的计算公式进行计算？"
+Sub-question 5 (Parent node: Sub-question 4): "最终结果是多少？"
+
+
+
+10
+Sub-question 1: "计算中国2023年9月的进出口总额？"
+Sub-question 2 (Parent node: Sub-question 1): "计算中国2023年9月的国内生产总值(GDP)？"
+Sub-question 3 (Parent node: Sub-question 2): "使用公式计算对外贸易系数？"
+Sub-question 4 (Parent node: Sub-question 3): "对外贸易系数的结果保留两位小数？"
+Sub-question 5 (Parent node: Sub-question 4): "选择正确的对外贸易系数选项？"
+
+
+
+11
+Sub-question 1: "What is the legal deposit reserve ratio for large financial institutions as of September 14, 2023?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the formula for calculating the money multiplier?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the value of the money multiplier when using the legal deposit reserve ratio?"
+Sub-question 4 (Parent node: Sub-question 3): "How do you round the value of the money multiplier to two decimal places?"
+
+
+
+12
+Sub-question 1: "计算出口总额和进口总额之间的差额"
+Sub-question 2 (Parent node: Sub-question 1): "用GDP减去（出口总额-进口总额）以得出消费支出、投资支出与政府购买的总和"
+Sub-question 3 (Parent node: Sub-question 2): "将结果转换为亿元为单位"
+Sub-question 4 (Parent node: Sub-question 2): "验证计算结果的正确性"
+Sub-question 5 (Parent node: Sub-question 2): "得出最终答案并选择正确选项"
+
+
+
+13
+Sub-question 1: "计算2022年和2021年国内生产总值的变动百分比"
+Sub-question 2 (Parent node: Sub-question 1): "将计算得到的GDP变动百分比代入失业率变动百分比的公式"
+Sub-question 3 (Parent node: Sub-question 2): "计算失业率变动百分比的最终结果"
+Sub-question 4 (Parent node: Sub-question 3): "将结果保留两位小数"
+Sub-question 5 (Parent node: Sub-question 4): "给出最终答案选项"
+
+
+
+14
+Sub-question 1: "计算美国的总进出口额。"
+Sub-question 2 (Parent node: Sub-question 1): "计算美国的对外贸易价格指数。"
+Sub-question 3 (Parent node: Sub-question 1): "根据计算的总进出口额和对外贸易价格指数，计算对外贸易量。"
+Sub-question 4 (Parent node: Sub-question 3): "四舍五入到小数点后两位，输出2023年8月美国对外贸易量。"
+
+
+
+15
+Sub-question 1: "什么是2023年三季度日本的货币供应量M1和M2的具体数值？"
+Sub-question 2 (Parent node: Sub-question 1): "如何计算居民储蓄存款与企业定期存款之和？"
+Sub-question 3 (Parent node: Sub-question 2): "在计算公式中，货币供应量M2和M1的数值分别是多少？"
+Sub-question 4 (Parent node: Sub-question 3): "居民储蓄存款与企业定期存款之和的最终结果是多少？"
+
+
+
+
+16
+Sub-question 1: "什么是货币供应量M2？"
+Sub-question 2 (Parent node: Sub-question 1): "什么是货币供应量M3？"
+Sub-question 3 (Parent node: Sub-question 1): "如何计算其他短期流动资产？"
+Sub-question 4 (Parent node: Sub-question 2): "利用货币供应量M3和M2的值，具体计算其他短期流动资产的数值是什么？"
+
+
+
+17
+Sub-question 1: "What is the value of the 2022年CPI?"
+Sub-question 2 (Parent node: Sub-question 1): "How do you calculate the difference between the 2022年CPI and the base value?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the formula for calculating the inflation rate using the CPI?"
+Sub-question 4 (Parent node: Sub-question 3): "How do you apply the formula to find the inflation rate for 2022?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final value of the inflation rate when rounded to two decimal places?"
+
+
+
+18
+Sub-question 1: "What is the value of the net profit for 福昕软件 in 2022?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total sales revenue for 福昕软件?"
+Sub-question 3 (Parent node: Sub-question 2): "What formula should be used to calculate ROS?"
+Sub-question 4 (Parent node: Sub-question 3): "How do you apply the formula to calculate the ROS?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final result of the ROS calculation, rounded to four decimal places?"
+
+
+
+19
+Sub-question 1: "What is the value of the undistributed profits for 福昕软件 in 2022?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the value of the surplus reserve for 福昕软件?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the formula to calculate retained earnings?"
+Sub-question 4 (Parent node: Sub-question 3): "How to apply the formula to calculate retained earnings based on the values obtained?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final value of the retained earnings?"
+
+
+
+20
+Sub-question 1: "计算债券票面利率与市场利率的比值"
+Sub-question 2 (Parent node: Sub-question 1): "计算债券未来现金流的现值"
+Sub-question 3 (Parent node: Sub-question 2): "计算债券面值的贴现现值"
+Sub-question 4 (Parent node: Sub-question 2): "计算债券票息的贴现现值"
+Sub-question 5 (Parent node: Sub-question 3): "计算债券的理论价格"
+
+
+
+21
+Sub-question 1: "What is the face value of the bond?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the coupon rate of the bond?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the market interest rate?"
+Sub-question 4 (Parent node: Sub-question 3): "How do you apply the bond valuation formula?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final calculated market price of the bond?"
+
+
+
+22
+Sub-question 1: "什么是债券的票面利率和面值？"
+Sub-question 2 (Parent node: Sub-question 1): "如何计算债券到期时的总金额？"
+Sub-question 3 (Parent node: Sub-question 1): "债券的市场价值是多少？"
+Sub-question 4 (Parent node: Sub-question 2): "如何将总金额与市场价值进行比较以计算到期收益率？"
+Sub-question 5 (Parent node: Sub-question 4): "如何将计算结果四舍五入到两位小数？"
+
+
+
+23
+Sub-question 1: "What is the权利金卖出价 for the看涨期权?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the权利金买入价 for the看涨期权?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the平仓损益 based on权利金卖出价和权利金买入价?"
+Sub-question 4 (Parent node: Sub-question 3): "Is the平仓损益 positive or negative?"
+
+
+
+24
+Sub-question 1: "如何将每月复利的年利率3%转化为月利率？"
+Sub-question 2 (Parent node: Sub-question 1): "如何代入月利率到连续复利年利率的计算公式中？"
+Sub-question 3 (Parent node: Sub-question 2): "如何计算连续复利年利率的值？"
+Sub-question 4 (Parent node: Sub-question 3): "如何解释和验证计算结果的正确性？"
+
+
+
+25
+Sub-question 1: "什么是风报比的计算公式？"
+Sub-question 2 (Parent node: Sub-question 1): "期货价格的预计盈利比例和预计亏损比例分别是多少？"
+Sub-question 3 (Parent node: Sub-question 1): "上涨的概率和下跌的概率分别是多少？"
+Sub-question 4 (Parent node: Sub-question 2): "根据已知的盈利比例和亏损比例，计算风报比的分子部分。"
+Sub-question 5 (Parent node: Sub-question 3): "根据已知的概率和亏损比例，计算风报比的分母部分。"
+
+
+
+26
+Sub-question 1: "What is the value of the period in years for the calculation of the present price?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the calculated exponent value using the annual interest rate and the period?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the result of the exponentiation for the current calculations?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the present price calculated by dividing the futures price by the exponent value?"
+
+
+
+27
+Sub-question 1: "计算风险中性概率和上涨幅度的加权值"
+Sub-question 2 (Parent node: Sub-question 1): "计算下降幅度的加权值"
+Sub-question 3 (Parent node: Sub-question 1): "计算分子部分的总和"
+Sub-question 4 (Parent node: Sub-question 3): "计算无风险利率的调整值"
+Sub-question 5 (Parent node: Sub-question 4): "计算期权现价并保留两位小数"
+
+
+
+28
+Sub-question 1: "如何计算交割价的现值？"
+Sub-question 2 (Parent node: Sub-question 1): "如何计算远期合约多头的价值？"
+Sub-question 3 (Parent node: Sub-question 2): "如何确定现价？"
+Sub-question 4 (Parent node: Sub-question 2): "如何计算无风险年利率对远期合约价值的影响？"
+Sub-question 5 (Parent node: Sub-question 2): "如何进行最终结果的格式化和保留小数位？"
+
+
+
+29
+Sub-question 1: "计算每一天收盘价与对应权重（日期的序号平方）的乘积。"
+Sub-question 2 (Parent node: Sub-question 1): "将所有乘积求和。"
+Sub-question 3 (Parent node: Sub-question 2): "计算权重的总和（1^2 + 2^2 + 3^2 + 4^2 + 5^2）。"
+Sub-question 4 (Parent node: Sub-question 3): "将乘积和除以权重的总和，得到平方系数加权。"
+Sub-question 5 (Parent node: Sub-question 4): "保留结果两位小数，给出最终答案。"
+
+
+
+30
+Sub-question 1: "What is the closing price for 11-08?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the closing price for 11-09?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the weighted proportion for the calculation?"
+Sub-question 4 (Parent node: Sub-question 2): "How do we apply the formula for calculating the index moving average?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final value of the index moving average for 11-09?"
+
+
+
+31
+Sub-question 1: "What is the total bond balance for each region listed?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the sum of all regional bond balances to calculate the total bond balance for the country?"
+Sub-question 3 (Parent node: Sub-question 1): "What are the individual bond balances for each of the five major regions?"
+Sub-question 4 (Parent node: Sub-question 2): "Are there any discrepancies or missing data points in the regional balances?"
+Sub-question 5 (Parent node: Sub-question 1): "What percentage of the total bond balance does each region represent?"
+
+
+
+32
+Sub-question 1: "What is the total票面总额 of金融债 from the provided details?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the存量债券票面总额?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the financial debt票面总额比重 calculated from the totals?"
+Sub-question 4 (Parent node: Sub-question 3): "How to express the financial debt票面总额比重 as a percentage of the存量债券票面总额?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final percentage result for金融债票面总额比重?"
+
+
+
+33
+Sub-question 1: "What is the coal reserve of each individual province in 2016?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total coal reserve of all provinces combined in 2016?"
+Sub-question 3 (Parent node: Sub-question 2): "How does the total coal reserve in 2016 compare to previous years?"
+Sub-question 4 (Parent node: Sub-question 2): "What are the coal reserves distribution patterns among provinces in 2016?"
+Sub-question 5 (Parent node: Sub-question 2): "What factors could influence the changes in coal reserves in the future?"
+
+
+
+34
+Sub-question 1: "如何将沪股通十大成交股的成交金额进行整理和转换为相同单位？"
+Sub-question 2 (Parent node: Sub-question 1): "整理后的成交金额的总和是多少？"
+Sub-question 3 (Parent node: Sub-question 1): "哪些股票的成交金额在整理后最为显著？"
+Sub-question 4 (Parent node: Sub-question 2): "上述总和的具体数值是多少？"
+Sub-question 5 (Parent node: Sub-question 3): "显著股票的成交金额分别是多少？"
+
+
+
+35
+Sub-question 1: "What is the value of the manufacturing PMI in September 2023?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the value of the manufacturing PMI in October 2023?"
+Sub-question 3 (Parent node: Sub-question 1): "Calculate the difference between the September and October PMI values."
+Sub-question 4 (Parent node: Sub-question 3): "What is the resulting change in PMI expressed in percentage points?"
+
+
+
+36
+Sub-question 1: "What was the unemployment rate in Italy in July 2023?"
+Sub-question 2 (Parent node: Sub-question 1): "What was the unemployment rate in Italy in August 2023?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the difference between the July and August unemployment rates in Italy?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the percentage point change in the unemployment rate from July to August 2023?"
+Sub-question 5 (Parent node: Sub-question 4): "What are the final units for expressing the change in unemployment rate?"
+
+
+
+37
+Sub-question 1: "What was the total fiscal revenue for the previous fiscal year before the decrease?"
+Sub-question 2 (Parent node: Sub-question 1): "How much did the fiscal revenue decrease in terms of percentage?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the formula to calculate the percentage decrease in revenue?"
+Sub-question 4 (Parent node: Sub-question 3): "What values need to be substituted into the formula to calculate the percentage decrease?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final value of the percentage decrease calculated?"
+
+
+
+38
+Sub-question 1: "What is the total net inflow amount of超大单?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total inflow from超大单?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total outflow from超大单?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the total inflow from超大单, specifically?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the total outflow from超大单, specifically?"
+
+
+
+39
+Sub-question 1: "What is the domestic tourism number for urban residents in 2022?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the domestic tourism number for rural residents in 2022?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total domestic tourism number for all residents in 2022?"
+Sub-question 4 (Parent node: Sub-question 3): "How do we combine the urban and rural tourism numbers to get the total?"
+
+
+
+40
+Sub-question 1: "What were the WTI oil prices on November 2 and November 3, 2023?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the absolute change in WTI oil prices from November 2 to November 3, 2023?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the formula for calculating percentage change?"
+Sub-question 4 (Parent node: Sub-question 3): "How do you apply the percentage change formula to the absolute change calculated in Sub-question 2?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final percentage change in WTI oil prices?"
+
+
+
+41
+Sub-question 1: "计算2022年9月的水路客运量"
+Sub-question 2 (Parent node: Sub-question 1): "计算2023年9月的水路客运量"
+Sub-question 3 (Parent node: Sub-question 2): "计算水路客运量的绝对增长值"
+Sub-question 4 (Parent node: Sub-question 3): "计算水路客运量同比增长率"
+
+
+
+42
+Sub-question 1: "What is the net profit of 宁德时代 for the third quarter of 2023?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total revenue of 宁德时代 for the third quarter of 2023?"
+Sub-question 3 (Parent node: Sub-question 1): "How to calculate the net profit margin based on net profit and total revenue?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the final net profit margin for 宁德时代 in the third quarter of 2023?"
+
+
+
+43
+Sub-question 1: "What is the total revenue for Pacific in Q3 2023?"  
+Sub-question 2 (Parent node: Sub-question 1): "What is the total cost for Pacific in Q3 2023?"  
+Sub-question 3 (Parent node: Sub-question 1): "What is the net profit for Pacific in Q3 2023?"  
+Sub-question 4 (Parent node: Sub-question 2): "How do you calculate net profit?"  
+Sub-question 5 (Parent node: Sub-question 3): "What are the key financial metrics to consider in the analysis?"  
+
+
+
+44
+Sub-question 1: "What are the total amounts of流动资产和非流动资产?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the value of流动资产 in 2022?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the value of非流动资产 in 2022?"
+Sub-question 4 (Parent node: Sub-question 2): "How do you calculate the total asset amount using流动资产 and非流动资产?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final total asset amount for比亚迪 in 2022?"
+
+
+
+45
+Sub-question 1: "What is the total net profit of 科大讯飞 in 2023 Q3?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the net profit attributable to the parent company shareholders in 2023 Q3?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the formula to calculate the proportion of net profit attributable to the parent company shareholders?"
+Sub-question 4 (Parent node: Sub-question 2): "How do you apply the formula to calculate the proportion of net profit attributable to the parent company shareholders?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final percentage of归母净利润占比?"
+
+
+
+46
+Sub-question 1: "What is the net profit of China Construction in Q3 2022?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the net profit of China Construction in Q3 2023?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the difference in net profit between Q3 2023 and Q3 2022?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the percentage growth of net profit from Q3 2022 to Q3 2023?"
+
+
+
+47
+Sub-question 1: "What was the total revenue of China Aluminum in Q3 2022?"
+Sub-question 2 (Parent node: Sub-question 1): "What was the total revenue of China Aluminum in Q3 2023?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the formula to calculate year-over-year revenue growth rate?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the difference in revenue between Q3 2022 and Q3 2023?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the calculated year-over-year growth rate based on the revenues from Q3 2022 and Q3 2023?"
+
+
+
+48
+Sub-question 1: "What is the total equity of 长江电力?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total assets of 长江电力?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the formula to calculate net assets?"
+Sub-question 4 (Parent node: Sub-question 3): "How do we calculate the net asset return rate?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the net profit of 长江电力?"
+
+
+
+49
+Sub-question 1: "What is the total number of shares in 中信保诚周期轮动混合(LOF)A基金?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the number of shares held by institutions in 中信保诚周期轮动混合(LOF)A基金?"
+Sub-question 3 (Parent node: Sub-question 1): "How do you calculate the institution holding ratio?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the formula for calculating the institution holding ratio based on total shares and institution-held shares?" 
+Sub-question 5 (Parent node: Sub-question 3): "What is the final institution holding ratio value?"
+
+
+
+50
+Sub-question 1: "What was the stock占净比 of 广发小盘成长混合(LOF)A as of 2023-09-30?"
+Sub-question 2 (Parent node: Sub-question 1): "What was the stock占净比 of 广发小盘成长混合(LOF)A as of 2023-06-30?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the difference in stock占净比 between the two dates?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the percentage change in stock占净比 from 2023-06-30 to 2023-09-30?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final answer regarding the change in stock占净比?"
+
+
+
+51
+Sub-question 1: "What is the net value of the 财通成长优选混合基金?"
+Sub-question 2 (Parent node: Sub-question 1): "What are the individual bond investment proportions in the fund?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total bond investment proportion in the fund?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the final calculation of the bond investment占净值比例?"
+
+
+
+52
+Sub-question 1: "What is the total fund assets as of 2023-06-30?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the available distributable profit at the end of the period?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of shares at the end of the period?"
+Sub-question 4 (Parent node: Sub-question 2): "How do you calculate the net asset value per unit?"
+Sub-question 5 (Parent node: Sub-question 3): "How do you calculate the total net asset value?"
+
+
+
+53
+Sub-question 1: "What are the net asset sizes for 国投瑞银新兴产业混合(LOF)A for the two dates?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the difference in net asset sizes between the two periods?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the formula to calculate the change ratio of net asset size?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the calculated change ratio of net asset size?"
+Sub-question 5 (Parent node: Sub-question 4): "What are the correct options based on the calculated change ratio?"
+
+
+
+54
+Sub-question 1: "What is the latest price of the 国泰中证申万证券行业指数(LOF)A fund?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the unit net value of the 国泰中证申万证券行业指数(LOF)A fund?"
+Sub-question 3 (Parent node: Sub-question 1): "How do you calculate the贴水率 based on the latest price and unit net value?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the final贴水率 after performing the calculation?"
+
+
+
+
+55
+Sub-question 1: "计算2023年二季度信息传输、软件和信息技术服务业市值占总净资产的比例"
+Sub-question 2 (Parent node: Sub-question 1): "计算2023年三季度信息传输、软件和信息技术服务业市值占总净资产的比例"
+Sub-question 3 (Parent node: Sub-question 1): "计算2023年二季度和三季度市值占比的变动幅度"
+Sub-question 4 (Parent node: Sub-question 3): "判断变动幅度是增加还是减少"
+
+
+
+56
+Sub-question 1: "什么是隐含税率？"
+Sub-question 2 (Parent node: Sub-question 1): "如何计算隐含税率？"
+Sub-question 3 (Parent node: Sub-question 2): "给定的收益率数据是什么？"
+Sub-question 4 (Parent node: Sub-question 3): "如何确定国开债与国债的收益率差异？"
+Sub-question 5 (Parent node: Sub-question 4): "如何使用收益率差异计算隐含税率？"
+
+
+
+57
+Sub-question 1: "什么是正股溢价率的定义？"
+Sub-question 2 (Parent node: Sub-question 1): "如何计算正股溢价率的公式？"
+Sub-question 3 (Parent node: Sub-question 2): "豪美转债的正股当前股价是多少？"
+Sub-question 4 (Parent node: Sub-question 2): "豪美转债的转股股价是多少？"
+Sub-question 5 (Parent node: Sub-question 4): "如何将当前股价和转股股价代入公式计算溢价率？"
+
+
+
+58
+Sub-question 1: "What is the price of菜油期货 (rapeseed oil futures) on November 3rd?"  
+Sub-question 2 (Parent node: Sub-question 1): "What is the price of棕榈油期货 (palm oil futures) on November 3rd?"  
+Sub-question 3 (Parent node: Sub-question 1): "What is the price difference between菜油期货 and棕榈油期货?"  
+Sub-question 4 (Parent node: Sub-question 3): "How do you calculate the比价 (price ratio) of菜油期货 and棕榈油期货?"  
+Sub-question 5 (Parent node: Sub-question 4): "What is the final比价 result for菜油期货 and棕榈油期货?"  
+
+
+
+59
+Sub-question 1: "什么是货币流通速度的定义？"
+Sub-question 2 (Parent node: Sub-question 1): "如何计算货币流通速度？"
+Sub-question 3 (Parent node: Sub-question 2): "需要哪些数据来计算货币流通速度？"
+Sub-question 4 (Parent node: Sub-question 3): "2022年GDP和M2的具体数值是什么？"
+Sub-question 5 (Parent node: Sub-question 4): "依据GDP和M2的数值，如何得出货币流通速度的结果？"
+
+
+
+60
+Sub-question 1: "What is the closing price of the 中证500股指 for the current month?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the closing price of the 中证500股指 for the next month?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the formula to calculate the month-to-month price difference?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the result of applying the formula using the current and next month closing prices?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the interpretation of the calculated month-to-month price difference?"
+
+
+
+61
+Sub-question 1: "计算沪深300ETF的认购期权成交量"
+Sub-question 2 (Parent node: Sub-question 1): "计算沪深300ETF的认沽期权成交量"
+Sub-question 3 (Parent node: Sub-question 1): "计算沪深300ETF的总成交量"
+Sub-question 4 (Parent node: Sub-question 2): "计算沪深300ETF的认沽认购比（PCR）"
+
+
+
+62
+Sub-question 1: "如何计算期权的实际杠杆？"
+Sub-question 2 (Parent node: Sub-question 1): "如何确定期权的标的资产价格和权利金？"
+Sub-question 3 (Parent node: Sub-question 1): "如何获取和应用Delta值？"
+Sub-question 4 (Parent node: Sub-question 2): "标的资产价格与权利金之间的关系是什么？"
+Sub-question 5 (Parent node: Sub-question 3): "Delta值如何影响实际杠杆的计算？"
+
+
+
+63
+Sub-question 1: "如何计算卖出跨式套利的盈亏平衡点的基本参数？"
+Sub-question 2 (Parent node: Sub-question 1): "如何计算卖出期权的总收入？"
+Sub-question 3 (Parent node: Sub-question 1): "如何计算行权后所需的资产价格区间？"
+Sub-question 4 (Parent node: Sub-question 2): "如何结合认购和认沽期权价格计算总收入？"
+Sub-question 5 (Parent node: Sub-question 3): "在资产价格区间内，如何确定盈亏平衡点的确切数值？"
+
+
+
+64
+Sub-question 1: "计算10月21日-10月27日的货币净投放量"
+Sub-question 2 (Parent node: Sub-question 1): "计算10月28日-11月3日的货币净投放量"
+Sub-question 3 (Parent node: Sub-question 2): "计算货币净投放量的环比增长率"
+
+
+
+65
+Sub-question 1: "What is the oilseed price on November 6th?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the oilseed price on November 7th?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the price change between November 6th and November 7th?"
+Sub-question 4 (Parent node: Sub-question 3): "How do you calculate the price change percentage?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final percentage change in oilseed prices?"
+
+
+
+66
+Sub-question 1: "What are the average exchange rates of RMB to USD for the years 2021 and 2022?"
+Sub-question 2 (Parent node: Sub-question 1): "How to calculate the depreciation rate of RMB against USD?"
+Sub-question 3 (Parent node: Sub-question 2): "What formula should be used to find the depreciation rate?"
+Sub-question 4 (Parent node: Sub-question 3): "What are the specific values needed to apply the formula?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final depreciation rate of RMB against USD?"
+
+
+
+67
+Sub-question 1: "如何收集原油sc2312每日结算参考价的数据？"
+Sub-question 2 (Parent node: Sub-question 1): "如何计算原油sc2312每日结算价格的总和？"
+Sub-question 3 (Parent node: Sub-question 2): "如何计算结算价格的天数？"
+Sub-question 4 (Parent node: Sub-question 3): "如何计算原油sc2312的月均结算价？"
+Sub-question 5 (Parent node: Sub-question 4): "最终的月均结算价是什么？"
+
+
+
+68
+Sub-question 1: "计算11月8日黄金T+D与上期所黄金主力的价差"
+Sub-question 2 (Parent node: Sub-question 1): "计算11月9日黄金T+D与上期所黄金主力的价差"
+Sub-question 3 (Parent node: Sub-question 1): "计算11月8日与11月9日的价差涨跌幅"
+Sub-question 4 (Parent node: Sub-question 2): "比较11月8日与11月9日的价差变动"
+Sub-question 5 (Parent node: Sub-question 3): "得出最终的涨跌幅结论"
+
+
+
+69
+Sub-question 1: "计算2021年的建筑业总产值（亿元）"
+Sub-question 2 (Parent node: Sub-question 1): "计算2020年的建筑业总产值（亿元）"
+Sub-question 3 (Parent node: Sub-question 1): "计算建筑业总产值的同比增长率"
+Sub-question 4 (Parent node: Sub-question 2): "确定建筑工程产值、安装工程产值和其他产值的合计"
+Sub-question 5 (Parent node: Sub-question 3): "应用同比增长率公式，计算具体增长率"
+
+
+

@@ -1,0 +1,1218 @@
+Joan found 70 seashells on the beach. she gave Sam some of her seashells. She has 27 seashell left. How many seashells did she give to Sam ?
+0
+43.0
+There were 28 bales of hay in the barn. Tim stacked more bales in the barn today. There are now 54 bales of hay in the barn. How many bales did he store in the barn ?
+1
+26.0
+After eating at the restaurant, Sally, Sam, and Alyssa decided to divide the bill evenly. If each person paid 45 dollars, what was the total of the bill ?
+2
+135.0
+Mary is baking a cake. The recipe wants 8 cups of flour. She already put in 2 cups. How many more cups does she need to add ?
+3
+6.0
+Sara's high school played 12 basketball games this year. The team won most of their games. They were defeated during 4 games. How many games did they win ?
+4
+8.0
+There are 22 walnut trees currently in the park. Park workers will plant more walnut trees today. When the workers are finished there will be 55 walnut trees in the park. How many walnut trees did the workers plant today ?
+5
+33.0
+Mike had 34 peaches left at his roadside fruit stand. He went to the orchard and picked more peaches to stock up the stand. There are now 86 peaches at the stand, how many did he pick ?
+6
+52.0
+There were 6 roses in the vase. Mary cut some more roses from her flower garden. There are now 16 roses in the vase. How many roses did she cut ?
+7
+10.0
+Benny bought a soft drink for 2 dollars and 5 candy bars. He spent a total of 27 dollars. How much did each candy bar cost ?
+8
+5.0
+Benny bought 4 new baseball trading cards to add to his collection. The next day his dog ate half of his collection. There are now only 34 cards left. How many cards did Benny start with ?
+9
+64.0
+Alyssa spent half of her allowance going to the movies. She washed the family car and earned 8 dollars. What is her weekly allowance if she ended with 12 dollars ?
+10
+8.0
+The sum of three consecutive even numbers is 162. What is the smallest of the three numbers ?
+11
+52.0
+On Monday, 375 students went on a trip to the zoo. All 7 buses were filled and 4 students had to travel in cars. How many students were in each bus ?
+14
+53.0
+Sandy sold half of her comic books and then bought 6 more. She now has 13. How many did she begin with ?
+15
+14.0
+The sum of three consecutive odd numbers is 69. What is the smallest of the three numbers ?
+16
+21.0
+Joan went to 4 football games this year. She went to 9 football games last year. How many football games did Joan go to in all ?
+17
+13.0
+Tom has 9 yellow balloons. Sara has 8 yellow balloons. How many yellow balloons do they have in total ?
+18
+17.0
+There are 4 walnut trees currently in the park. Park workers will plant 6 more walnut trees today. How many walnut trees will the park have when the workers are finished ?
+19
+10.0
+Sam had 9 dimes in his bank. His dad gave him 7 more dimes. How many dimes does Sam have now ?
+20
+16.0
+Alyssa's dog had puppies. She gave 7 to her friends.  She now has 5 puppies left. How many puppies did she have to start with ?
+21
+12.0
+There are 2 pencils in the drawer. Tim placed 3 more pencils in the drawer. How many pencils are now there in total ?
+23
+5.0
+Joan found 6 seashells and Jessica found 8 seashells on the beach. How many seashells did they find together ?
+24
+14.0
+Benny picked 2 apples and Dan picked 9 apples from the apple tree. How many apples were picked in total ?
+26
+11.0
+Sally found 9 seashells, Tom found 7 seashells, and Jessica found 5 seashells on the beach. How many seashells did they find together ?
+27
+21.0
+Tim's cat had kittens. He gave 3 to Jessica and 6 to Sara. He now has 9 kittens left. How many kittens did he have to start with ?
+28
+18.0
+Joan has 9 blue balloons, Sally has 5 blue balloons, and Jessica has 2 blue balloons. How many blue balloons do they have in total ?
+29
+16.0
+A restaurant served 5 cakes during lunch and 6 during dinner today. The restaurant served 3 cakes yesterday. How many cakes were served in total ?
+31
+14.0
+There are 7 dogwood trees currently in the park. Park workers will plant 3 more dogwood trees today and 2 more dogwood trees tomorrow. How many dogwood trees will the park have when the workers are finished ?
+33
+12.0
+Sara picked 45 pears and Sally picked 11 pears from the pear tree. How many pears were picked in total ?
+36
+56.0
+Keith has 20 books. Jason has 21 books.  How many books do they have together ?
+37
+41.0
+There are 33 walnut trees currently in the park. Park workers will plant  44 more walnut trees today. How many walnut trees will the park have when the workers are finished ?
+39
+77.0
+Sara had 21 quarters in her bank. Her dad gave her 49 more quarters. How many quarters does she have now ?
+40
+70.0
+There are 41 pencils in the drawer. Mike placed 30 more  pencils in the drawer. How many pencils are now there in total ?
+41
+71.0
+Joan has 40 blue balloons Melanie has 41 blue balloons. How many blue balloons do they have in total ?
+43
+81.0
+Fred grew 38 cantelopes. Tim grew 44 cantelopes. How many cantelopes did they grow in total ?
+44
+82.0
+Sam went to 14 football games this year. He went to 29 games  last year. How many football games did Sam go to in all ?
+45
+43.0
+Mary found 18 seashells and Jessica found 41 seashells on the beach. How many seashells did they find together ?
+46
+59.0
+There are 39 dogwood trees currently in the park. Park workers will plant  41 more dogwood trees today and 20 more dogwood trees tomorrow. How many dogwood trees will the park have when the workers are finished ?
+47
+100.0
+Sandy has 10 books, Benny has 24 books, and Tim has  33 books. How many books do they have together ?
+48
+67.0
+Jason picked 46 pears, Keith picked 47 pears, and Mike picked  12 pears from the pear tree. How many pears were picked in total ?
+49
+105.0
+Keith grew 29 cantelopes, Fred grew 16 cantelopes, and Jason grew  20 cantelopes. How many cantelopes did they grow in total ?
+50
+65.0
+Melanie had 19 dimes in her bank. Her dad gave her 39 dimes and her mother gave her 25 dimes. How many dimes does Melanie have now ?
+51
+83.0
+Alyssa has 37 blue balloons, Sandy has 28 blue balloons, and Sally  has 39 blue balloons. How many blue balloons do they have in all ?
+52
+104.0
+Sally had 27 cards. Dan gave her 41 new cards. Sally bought 20 cards. How many cards does Sally have now ?
+53
+88.0
+Jason went to 11 football games this month. He went to 17 games last month, and plans to go to 16 games next month. How many games will he attend in all ?
+54
+44.0
+There are 43 pencils in the drawer and 19 pencils on the desk. Dan placed  16 more pencils on the desk. How many pencils are now there in total ?
+55
+78.0
+Mike has 35 books in his library. He bought several books at a yard sale over the weekend. He now has 56 books in his library. How many books did he buy at the yard sale ?
+56
+21.0
+Sandy is baking a cake. The recipe wants 7 cups of flour. She already put in 4 cups. How many more cups does she need to add ?
+57
+3.0
+There are 53 maple trees currently in the park. Park workers will plant more maple trees today. When the workers are finished there will be 64 maple trees in the park. How many maple trees did the workers plant today ?
+58
+11.0
+Dan found 56 seashells on the beach, he gave Jessica some of his seashells. He has 22 seashell left. How many seashells did he give to Jessica ?
+59
+34.0
+Benny received 67 dollars for his birthday. He went to a sporting goods store and bought a baseball glove, baseball, and bat. He had 33 dollars left over. How much did he spent on the baseball gear ?
+61
+34.0
+There were 3 roses in the vase. Alyssa cut some more roses from her flower garden. There are now 14 roses in the vase. How many roses did she cut ?
+62
+11.0
+Last week Tom had 74 dollars. He washed cars over the weekend and now has 86 dollars. How much money did he make washing cars ?
+63
+12.0
+There were 73 bales of hay in the barn. Jason stacked more bales in the barn today. There are now 96 bales of hay in the barn. How many bales did he store in the barn ?
+64
+23.0
+Nancy grew 6 potatoes. Sandy grew 7 potatoes. How many potatoes did they grow in total ?
+65
+13.0
+There are 5 oak trees currently in the park. Park workers will plant 4 more oak trees today. How many oak trees will the park have when the workers are finished ?
+67
+9.0
+Tom found 7 seashells but 4 were broken.  How many unbroken seashells did Tom find ?
+69
+3.0
+Sally picked 7 lemons and Mary picked 9 lemons from the lemon tree. How many lemons were picked in total ?
+70
+16.0
+A restaurant served 6 cakes during lunch and 9 during dinner today. How many cakes were served today ?
+71
+15.0
+Joan has 8 orange balloons  but lost 2 of them. How many orange balloons does Joan have now ?
+72
+6.0
+Fred had 7 dimes in his bank. His sister borrowed 3 of his dimes. How many dimes does Fred have now ?
+73
+4.0
+Joan's cat had 8 kittens. She gave 2 to her friends.  How many kittens does she have now ?
+74
+6.0
+There are 34 dogwood trees currently in the park. Park workers will plant  49 more dogwood trees today. How many dogwood trees will the park have when the workers are finished ?
+75
+83.0
+There are 27 pencils in the drawer. Nancy placed 45 more  pencils in the drawer. How many pencils are now there in total ?
+76
+72.0
+Benny's high school played 39 baseball games this year. He attended  14 games. How many baseball games did Benny miss ?
+77
+25.0
+Sam found 35 seashells on the beach, he gave Joan 18 of the seashells. How many seashells does he now have ?
+78
+17.0
+Tim has 22 books. Mike has 20 books.  How many books do they have together ?
+79
+42.0
+Mike has 87 baseball cards. Sam bought 13 of Mike's  baseball cards. How many baseball cards does Mike have now ?
+80
+74.0
+Sandy grew 51 pumpkins. Mike grew 23 pumpkins. How many pumpkins did they grow in total ?
+81
+74.0
+Tim has 44 books. Sam has 52 books.  How many books do they have together ?
+82
+96.0
+Dan has 64 violet marbles, he gave Mary 14 of the marbles. How many violet marbles does he now have ?
+83
+50.0
+There are 25 popular trees currently in the park. Park workers will plant  73 more popular trees today. How many popular trees will the park have when the workers are finished ?
+84
+98.0
+There are 54 scissors in the drawer. Keith placed 22 more  scissors in the drawer. How many scissors are now there in all ?
+85
+76.0
+Alyssa picked 42 pears and Nancy picked 17 pears from the pear tree. How many pears were picked in all ?
+86
+59.0
+Sam had 98 pennies in his bank. He spent 93 of his pennies. How many pennies does he have now ?
+87
+5.0
+Joan found 79 seashells on the beach, she gave Mike 63 of the seashells. How many seashells does she now have ?
+88
+16.0
+Melanie's high school played 64 soccer games this year. She attended  32 games. How many soccer games did Melanie miss ?
+89
+32.0
+Mary picked 122 oranges and Jason picked 105 oranges from the orange tree. How many oranges were picked in total ?
+91
+227.0
+Fred's high school played 616 baseball games this year. He attended  147 games. How many baseball games did Fred miss ?
+93
+469.0
+Melanie grew 139 turnips. Benny grew 113 turnips. How many turnips did they grow in all ?
+94
+252.0
+Jason has 676 Pokemon cards. Alyssa bought 224 of Jason's  Pokemon cards. How many Pokemon cards does Jason have now ?
+95
+452.0
+Fred has 709 green balloons, he gave Sandy 221 of the balloons. How many green balloons does he now have ?
+97
+488.0
+There are 115 pencils in the drawer. Sara placed 100 more  pencils in the drawer. How many pencils are now there in all ?
+98
+215.0
+Mike has 45 dollars in 5 dollar bills.  How many five dollars bills does  he have ?
+99
+9.0
+Nancy goes fishing with Joan. They catch 18 trout.  If they equally split up the trout, how many will each one get ?
+100
+9.0
+A restaurant sold 63 hamburgers last week. How many hamburgers on average were sold each day ?
+101
+9.0
+There were a total of 27 soccer games during the 3 month season.  If the games are equally divided, how many soccer games are played a month ?
+103
+9.0
+Fred has 110 blue marbles. Fred has 22 times more blue marbles than Tim. How many blue marbles does Tim have?
+105
+5.0
+There are 390 students at a school. If each classroom holds 30 students, how many classrooms are needed at the school?
+106
+13.0
+Mike has 96 muffins, which he needs to box up into dozens. How many boxes does he need?
+107
+8.0
+Jason's shelves hold 45 books each. How many shelves will Jason need if Jason has 315 books?
+109
+7.0
+Nancy bought 615 crayons that came in packs of 15.  How many packs of crayons did Nancy buy?
+110
+41.0
+Mary earns $46 cleaning a home. How many homes did she clean, if she made 276 dollars?
+111
+6.0
+There were a total of 323 football games in the season. The season is played for 17 months. How many football games were played each month, if each month has the same number of games?
+112
+19.0
+Nancy, Melanie, Mary, and Alyssa each bought 540 baseball cards,  which come in packs of 20. How many packs of baseball cards do they have in all?
+113
+108.0
+Sally earns $25.00 for each house she cleans. If she cleans 96 houses, how many dozens of dollars will she make?
+115
+200.0
+There are 60 calories in a candy bar. How many dozen calories are there in 45 candy bars?
+116
+225.0
+Sara saw 96 birds in a tree. How many dozen birds did Sara see?
+117
+8.0
+Melanie has 84 blue marbles. Sandy has 8 times more blue marbles than Melanie. How many dozen blue marbles does Sandy have?
+118
+56.0
+Sara has 192 golf balls. How many dozen golf balls does she have?
+119
+16.0
+Keith bought 72 eggs from the store to bake some cakes.  How many dozen eggs did Keith buy?
+120
+6.0
+Mike has 48 books. Alyssa has 8 times more books than  Mike. How many dozen books does Alyssa have?
+121
+32.0
+Sara has saved 9 dollars from washing cars.  How many dozen quarters does Sara have?
+122
+3.0
+Sara, Keith, Benny, and Alyssa each have 96 baseball cards.  How many dozen baseball cards do they have in all?
+123
+32.0
+Jason has 3 Pokemon cards. Benny bought 2 of Jason's  Pokemon cards. How many Pokemon cards does Jason have now ?
+124
+1.0
+Mike has 8 orange marbles, he gave Sam 4 of the marbles. How many orange marbles does he now have ?
+125
+4.0
+Joan had 5 dimes in her bank. She spent 2 of her dimes. How many dimes does she have now ?
+126
+3.0
+There are 2 rose bushes currently in the park. Park workers will plant 4 more rose bushes today. How many rose bushes will the park have when the workers are finished ?
+127
+6.0
+Sam grew 4 watermelons, but the rabbits ate 3 watermelons. How many watermelons does Sam have left ?
+129
+1.0
+There are 3 calories in a candy bar. How many calories are there in 5 candy bars ?
+130
+15.0
+Dan has 5 blue marbles. Mary has 2 times more blue marbles than Dan. How many blue marbles does Mary have ?
+131
+10.0
+Jason had Pokemon cards. He gave 9 Pokemon cards to his friends. He now has 4 Pokemon cards left. How many Pokemon cards did he have to start with ?
+133
+13.0
+Mary had 7 nickels in her bank. Her dad gave her 5 more nickels. How many nickels does Mary have now ?
+134
+12.0
+Melanie, Benny, Sally, and Jessica each have 3 baseball cards.  How many baseball cards do they have in all ?
+135
+12.0
+Keith grew 6 turnips. Alyssa grew 9 turnips. How many turnips did they grow in all ?
+136
+15.0
+There are 4 children in the classroom, each student will get 2 pencils. How many pencils will the teacher have to give out ?
+137
+8.0
+Mary has 9 yellow marbles Joan has 3 yellow marbles. How many yellow marbles do they have in all ?
+138
+12.0
+There are 8 calories in a candy bar. How many calories are there in 3 candy bars ?
+139
+24.0
+Joan has saved 6 quarters from washing cars.  How many cents does Joan have ?
+140
+150.0
+There are 960 students at a school. If each classroom holds 30 students, how many classrooms are needed at the school?
+141
+32.0
+There were a total of 12 basketball games in the season. The season is played for 2 months. How many basketball games were played each month, if each month has the same number of games?
+143
+6.0
+Mary, Sam, Keith, and Alyssa each have 6 baseball cards.  How many baseball cards do they have in all ?
+145
+24.0
+Sally bought 4 dozen eggs from the grocery store to bake some cakes.  How many eggs did Sally buy ?
+146
+48.0
+There are 1110 students at a school. If each classroom holds 30 students, how many classrooms are needed at the school?
+147
+37.0
+Sally grew 6 carrots. Fred grew 4 carrots. How many carrots did they grow in all ?
+148
+10.0
+Benny has 6 blue marbles. Keith has 5 times more blue marbles than Benny. How many blue marbles does Keith have ?
+149
+30.0
+Fred earns $12.50 an hour cleaning houses. If he works for 8 hours, how much money will he make ?
+150
+100.0
+Fred has 5 baseball cards. Melanie bought 3 of Fred's  baseball cards. How many baseball cards does Fred have now ?
+152
+2.0
+Nancy has saved 4900 cents from selling lemonade.  How many dollars does Nancy have?
+153
+49.0
+There were a total of 10 soccer games in the season. The season is played for 5 months. How many soccer games were played each month, if each month has the same number of games?
+154
+2.0
+Benny goes out to lunch with Sara and Tom. Each person orders the $8 lunch special. Benny agrees to pay the bill. How much will he have to pay ?
+155
+24.0
+Melanie goes fishing with Tom. Melanie catches 8 trout. Tom catches 2 times as many trout as Melanie. How many trout did Tom catch ?
+156
+16.0
+Tom was at the beach for 5 days and found 7 seashells every day. How many seashells did Tom find during the beach trip ?
+157
+35.0
+A restaurant sold 8 pies every day for a week. How many pies were sold during the week ?
+159
+56.0
+Nancy has 9 five dollars bills.  How much money does she have ?
+160
+45.0
+Nancy has 7 black balloons. Mary has 4 times more  black balloons than Nancy. How many black balloons does Mary have now ?
+161
+28.0
+Jessica, Sandy, and Jason each have 8 pencils. How many pencils do they have have in all ?
+162
+24.0
+Sam, Dan, Tom, and Keith each have 14 Pokemon cards.  How many Pokemon cards do they have in all ?
+163
+56.0
+Alyssa has 36 books. Nancy has 7 times more books than  Alyssa. How many books does Nancy have ?
+164
+252.0
+Tim has 13 dozen golf balls. How many golf balls does he have ?
+165
+156.0
+There were a total of 13 hockey games a month. The season is played for  14 months. How many hockey games are in the seasons ?
+166
+182.0
+Benny bought 7 dozen eggs from the grocery store to bake some cakes.  How many eggs did Benny buy ?
+167
+84.0
+Dan has 29 violet balloons. Tim has 7 times more violet balloons than Dan. How many violet balloons does Tim have ?
+168
+203.0
+There are 31 calories in a candy bar. How many calories are there in 11 candy bars ?
+169
+341.0
+Sara has saved 11 quarters from washing cars.  How many cents does Sara have ?
+170
+275.0
+There are 46 children in the classroom, each student will get 4 dozen pencils. How many pencils will the teacher have to give out ?
+171
+2208.0
+Nancy has saved 1 dozen quarters from washing cars.  How much money does Nancy have ?
+172
+3.0
+Dan bought 9 dozen eggs from the grocery store to bake some cakes.  How many eggs did Dan buy ?
+173
+108.0
+There are 4 dozen calories in a candy bar. How many calories are there in 42 candy bars ?
+174
+2016.0
+Sandy has 8 dozen books. Fred has 5 times more books than  Sandy. How many books does Fred have ?
+175
+480.0
+Jessica has 3 dozen red marbles. Sandy has 4 times more red marbles than Jessica. How many red marbles does Sandy have ?
+176
+144.0
+Melanie, Benny, Sandy, and Jessica each have 9 dozen Pokemon cards.  How many Pokemon cards do they have in all ?
+177
+432.0
+Sally saw 1 dozen birds in a tree. How many birds did Sally see ?
+178
+12.0
+Fred, Benny, and Jason have 24 crayons all together. If the crayons are equally divided, how many will each person get ?
+179
+8.0
+Benny goes to lunch with Sally and Sandy. The total bill came to 15 dollars. They decided to equally split up the bill, how much will each person have to pay ?
+181
+5.0
+A restaurant sold 49 hamburgers last week. How many hamburgers on average were sold each day ?
+182
+7.0
+Sally has 6 blue balloons. Fred has 3 times more  blue balloons than Sally. How many blue balloons does Fred have now ?
+183
+18.0
+There were a total of 7 baseball games a month.  The season is played for 2 months. How many baseball games are in a season ?
+185
+14.0
+Melanie is selling 4 gumballs for eight cents each. How much money can Melanie get from selling the gumballs?
+186
+32.0
+Mary had 8 potatoes in the garden. The rabbits ate 3 of the potatoes. How many potatoes does Mary now have ?
+187
+5.0
+There were a total of 6 soccer games this year. Jessica missed 4 of the games. How many soccer games did Jessica go to in all ?
+188
+2.0
+There are 9 oak trees currently in the park. Park workers had to cut down 2  oak trees that were damaged. How many oak trees will the park have when the workers are finished ?
+189
+7.0
+A restaurant made 9 hamburgers to serve during lunch. Only 3 were  actually served. How many hamburgers were left over from lunch ?
+191
+6.0
+There are 7 crayons in the drawer. Mary took 3 crayons out of the drawer. How many crayons are there now ?
+192
+4.0
+Dan picked 9 limes and gave Sara 4 of the limes.  How many limes does Dan have now ?
+193
+5.0
+Dan found 7 seashells but 3 were broken.  How many unbroken seashells did Dan find ?
+194
+4.0
+Joan has 9 blue balloons  but lost 2 of them. How many blue balloons does Joan have now ?
+195
+7.0
+Joan picked 43 apples from the orchard, and gave 27 apples  to  Melanie. How many apples does Joan have now ?
+196
+16.0
+Tom has 30 violet balloons, he gave Fred 16 of the balloons. How many violet balloons does he now have ?
+198
+14.0
+Fred found 47 seashells on the beach, he gave Jessica 25 of the seashells. How many seashells does he now have ?
+200
+22.0
+Sara grew 43 pumpkins, but the rabbits ate 23 pumpkins. How many pumpkins does Sara have left ?
+201
+20.0
+Joan decided to sell all of her old books. She gathered up 33 books to sell. She sold 26 books in a yard sale. How many books does Joan now have ?
+202
+7.0
+There are 46 rulers in the drawer. Tim took 25  rulers from the drawer. How many rulers are now in the drawer ?
+203
+21.0
+Sandy sold lemonade in her neighborhood. She got 17 half-dollars on Saturday and 6 half-dollars on Sunday. What amount of money did Sandy receive?
+205
+11.5
+Sam got 9 pennies for washing clothes, and 7 quarters for mowing lawns. How much money does Sam have?
+206
+1.84
+When Joan was visited by the toothfairy, she received 14 each of quarters, half-dollars, and dimes. How much money did the toothfairy leave Joan?
+207
+11.9
+As Alyssa was searching through her couch cushions, she found 12 quarters, and 7 pennies in the couch. How much money in total does Alyssa have?
+208
+3.07
+On Wednesday, Joan spent 4 half-dollars playing pinball. The next day, she spent 14 half-dollars on pinball. What was the total amount Joan spent playing pinball?
+209
+9.0
+Tim got 3 nickels and 13 dimes for shining shoes, and in his tip jar found 7 dimes and 9 half-dollars. How much money did Tim get?
+210
+6.65
+On Friday, Sam spent 2 pennies on ice cream. The next day, Sam spent 12 dimes on baseball cards. All in all, how much money did Sam spend?
+212
+1.22
+Joan purchased a basketball game for $5.20, and a racing game for $4.23. How much did Joan spend on video games?
+213
+9.43
+Mike joined his school's band. He bought a trumpet for $145.16, and a song book which was $5.84. How much did Mike spend at the music store?
+214
+151.0
+Alyssa bought some toys. She bought a football for $5.71, and spent $6.59 on marbles. In total, how much did Alyssa spend on toys?
+215
+12.3
+Keith loves trading cards. She bought 4 packs of Digimon cards for $4.45 each, and a deck of baseball cards for $6.06. How much did Keith spend on cards?
+216
+23.86
+Jessica spent $10.22 on a cat toy, and a cage cost her $11.73. What was the total cost of Jessica's purchases?
+217
+21.95
+Sara got fast food for lunch. Sara spent $5.36 on a hotdog and $5.10 on a salad. What was the total of the lunch bill?
+218
+10.46
+Jason went to the mall on Saturday to buy clothes. He spent $14.28 on shorts and $4.74 on a jacket. In total, how much money did Jason spend on clothing?
+219
+19.02
+Alyssa loves eating fruits. Alyssa paid $12.08 for grapes, and $9.85 for cherries. In total, how much money did Alyssa spend?
+220
+21.93
+Mary loves eating fruits. Mary paid $11.08 for berries, $14.33 for apples, and $9.31 for peaches. In total, how much money did she spend?
+221
+34.72
+Sandy went to the mall to buy clothes. She spent $13.99 on shorts, $12.14 on a shirt, and $7.43 on a jacket. How much money did Sandy spend on clothes?
+222
+33.56
+Jason joined his school's band. He bought a flute for $142.46, a music stand for $8.89, and a song book for $7. How much did Jason spend at the music store?
+223
+158.35
+Tom purchased a football game for $14.02, a strategy game for $9.46, and a Batman game for $12.04. How much did Tom spend on video games?
+224
+35.52
+Fred loves trading cards. He bought 2 packs of football cards for $2.73 each, a pack of Pokemon cards for $4.01, and a deck of baseball cards for $8.95. How much did Fred spend on cards?
+225
+18.42
+On Saturday, Sara spent $10.62 each on 2 tickets to a movie theater. She also rented a movie for $1.59, and bought a movie for $13.95. How much money in total did Sara spend on movies?
+226
+36.78
+Mike bought some toys. He bought marbles for $9.05, a football for $4.95, and spent $6.52 on a baseball. In total, how much did Mike spend on toys?
+227
+20.52
+Joan paid $8.77 on a cat toy, and a cage cost her $10.97 with a $20 bill. How much change did Joan receive?
+230
+0.26
+Sandy bought some toys. She bought a football for $9.14, and paid $6.81 on a baseball with a $20 bill. How much change did he receive from the purchase?
+232
+4.05
+A ship is filled with 5,973 tons of cargo. It stops in the Bahamas, where sailors load 8,723 more tons of cargo onboard. How many tons of cargo does the ship hold now?
+233
+14696.0
+Before December, customers buy 1,346 ear muffs from the mall. During December, they buy 6,444 more, and there are none left. In all, how many ear muffs do the customers buy?
+234
+7790.0
+Diane is a beekeeper. Last year, she harvested 2,479 pounds of honey. This year, she bought some new hives and increased her honey harvest by 6,085 pounds. How many pounds of honey did Diane harvest this year?
+235
+8564.0
+An oil pipe in the sea broke. Before engineers started to fix the pipe, 6,522 liters of oil leaked into the water. While the engineers worked, the pipe leaked 5,165 more liters of oil. In all, how many liters of oil leaked into the water?
+236
+11687.0
+A car company produced 3,884 cars in North America and 2,871 cars in Europe. How many cars is that in all?
+237
+6755.0
+Abe's family moved from the Bahamas to Japan, so they had convert their money into Japanese yen. Their checking account now has 6,359 yen and their savings account now has 3,485 yen. How many yen do they have?
+238
+9844.0
+There are 1,986 books in Oak Grove's public library. In addition, there are 5,106 books in its school libraries. How many books do the libraries in Oak Grove have overall?
+239
+7092.0
+There were originally 20,817 houses in Lincoln County. During a housing boom, developers built 97,741 more. How many houses are there now in Lincoln County?
+240
+118558.0
+A farmer estimates that he will harvest 48,097 bushels of wheat. The weather is perfect during the growing season, so he harvests 684 more bushels of wheat than expected. How many bushels of wheat does the farmer harvest?
+241
+48781.0
+Christina just transferred $69 out of her bank account. As a result, the account now has $26,935 left in it. How much money was in the account before the transfer?
+242
+27004.0
+Last year at Newberg's airport, 14,507 passengers landed on time. Unfortunately, 213 passengers landed late. In all, how many passengers landed in Newberg last year?
+243
+14720.0
+A dust storm sweeps across the prairie. It covers 64,535 acres of the prairie in dust, but leaves 522 acres untouched. How many acres does the prairie cover?
+244
+65057.0
+Some insects called aphids attack a large farm. In response, the farmer releases ladybugs onto the fields. There are 12,170 ladybugs with spots and 54,912 ladybugs without spots. How many ladybugs are there in all?
+245
+67082.0
+Last year, 90,171 people were born in a country, and 16,320 people immigrated to it. How many new people began living in the country last year?
+246
+106491.0
+A ship full of grain crashes into a coral reef. By the time the ship is fixed, 49,952 tons of grain have spilled into the water. Only 918 tons of grain remain onboard. How many tons of grain did the ship originally contain?
+247
+50870.0
+To fill an order, the factory dyed 61,921 yards of silk green and 49,500 yards pink. How many yards of silk did it dye for that order?
+248
+111421.0
+A multi-national corporation has 2,041 part-time employees and 63,093 full-time employees. How many employees work for the corporation?
+249
+65134.0
+A bathing suit manufacturer has a supply of 14,797 bathing suits for men. In addition, it has 4,969 bathing suits for women. How many bathing suits are available overall?
+251
+19766.0
+A worker at a medical lab is studying blood samples. Two samples contained a total of 7,341 blood cells. The first sample contained 4,221 blood cells. How many blood cells were in the second sample?
+253
+3120.0
+So far, an orchard has sold a combined total of 9,792 pounds of fresh and frozen fruit this season. If they have sold 3,513 pounds of frozen fruit, how many pounds of fresh fruit have been sold so far?
+254
+6279.0
+Jonathan wants to buy a dictionary that costs $11, a dinosaur book that costs $19, and a children's cookbook that costs $7. He has saved $8 from his allowance. How much more money does Jonathan need to buy all three books?
+256
+29.0
+Dana earns $13 per hour. She worked 9 hours on Friday, 10 hours on Saturday, and 3 hours on Sunday. How much money did Dana earn in all?
+257
+286.0
+Tanner saved $17 in September. He saved $48 in October and $25 in November. Then Tanner spent $49 on a video game. How much money does Tanner have left?
+258
+41.0
+Mika had 20 stickers. She bought 26 stickers from a store in the mall and got 20 stickers for her birthday. Then Mika gave 6 of the stickers to her sister and used 58 to decorate a greeting card. How many stickers does Mika have left?
+259
+2.0
+Kylie was collecting coins. She got 15 coins from her piggy bank and 13 coins from her brother. Her father gave Kylie 8 coins. Kylie gave 21 of the coins to her friend Laura. How many coins did Kylie have left?
+262
+15.0
+Justin needs 61 paper plates for a birthday party. He already has 26 blue plates and 7 red plates. How many more plates should Justin buy?
+263
+28.0
+Mark's father gave him $85. Mark bought 10 books, each of which cost $5. How much money does Mark have left?
+264
+35.0
+Elise had $8. Then she saved $13 from her allowance and spent $2 on a comic book and $18 on a puzzle. How much money does Elise have left?
+265
+1.0
+Luke had 20 stickers. He bought 12 stickers from a store in the mall and got 20 stickers for his birthday. Then Luke gave 5 of the stickers to his sister and used 8 to decorate a greeting card. How many stickers does Luke have left?
+266
+39.0
+Johnny saved $30 in September. He saved $49 in October and $46 in November. Then Johnny spent $58 on a video game. How much money does Johnny have left?
+267
+67.0
+Vincent bought 10 books about animals, 1 book about outer space, and 3 books about trains. Each book cost $16. How much did Vincent spend on the books?
+270
+224.0
+There are 24 bicycles and 14 tricycles in the storage area at Danny's apartment building. Each bicycle has 2 wheels and each tricycle has 3 wheels. How many wheels are there in all?
+273
+90.0
+Paula's aunt gave her $109 to spend on clothes at the mall. She bought 2 shirts that cost $11 each and a pair of pants that cost $13. How much money does Paula have left to buy more clothes?
+274
+74.0
+Adam bought 9 packages of cat food and 7 packages of dog food. Each package of cat food contained 10 cans, and each package of dog food contained 5 cans. How many more cans of cat food than dog food did Adam buy?
+277
+55.0
+Zach wants to ride the Ferris wheel, the roller coaster, and the log ride. The Ferris wheel costs 2 tickets, the roller coaster costs 7 tickets and the log ride costs 1 ticket. Zach has 1 ticket. How many more tickets should Zach buy?
+278
+9.0
+Randy needs 53 cupcakes for a birthday party. He already has 7 chocolate cupcakes and 19 vanilla cupcakes. How many more cupcakes should Randy buy?
+279
+32.0
+Maggie bought 4 packs of red bouncy balls, 8 packs of yellow bouncy balls, and 4 packs of green bouncy balls. There were 10 bouncy balls in each package. How many bouncy balls did Maggie buy in all?
+280
+160.0
+My car gets 20 miles per gallon of gas. How many miles can I drive on 5 gallons of gas?
+282
+100.0
+58 children are taking a bus to the zoo. They sit 2 children in every seat. How many seats will the children need in all?
+283
+29.0
+Marlee has 12 guests coming to her Halloween party. Each table will hold 3 guests. How many tables will Marlee need?
+284
+4.0
+Ellen went to a garage sale to buy chairs. Each chair is 15 dollars. How much did Ellen spend for the 12 chairs she bought?
+285
+180.0
+Oscar's bus ride to school is 0.75 of a mile and Charlie's bus ride is 0.25 of a mile. How much longer is Oscar's bus ride than Charlie's?
+286
+0.5
+Kendall is learning to drive, so this weekend she practiced driving 0.16666666666666666 of a mile with her mother and another 0.5 of a mile with her father. How far did Kendall drive in all?
+288
+0.6666666666666666
+A tailor cut 0.75 of an inch off a skirt and 0.5 of an inch off a pair of pants. How much more did the tailor cut off the skirt than the pants?
+290
+0.25
+At Lindsey's Vacation Wear, 0.375 of the garments are bikinis and 0.25 are trunks. What fraction of the garments are either bikinis or trunks?
+291
+0.625
+Darnel sprinted 0.875 of a lap and then took a break by jogging 0.75 of a lap. How much farther did Darnel sprint than jog?
+292
+0.125
+A marine biologist measured one fish that was 0.3 of a foot long and a second fish that was 0.2 of a foot long. How much longer was the first fish?
+293
+0.1
+Hannah's Vegetarian Restaurant bought 0.3333333333333333 of a pound of green peppers and 0.3333333333333333 of a pound of red peppers. How many pounds of peppers did Hannah's Vegetarian Restaurant buy in all?
+294
+0.6666666666666666
+Ella owns two dogs. Each day, one dog eats 0.125 of a scoop of dog food and the other dog eats 0.125 of a scoop. Together, how much dog food do the two dogs eat each day?
+295
+0.25
+Blake filled a bucket with 0.8 of a gallon of water. Later, he poured out 0.2 of a gallon of the water. How much water is left in the bucket?
+296
+0.6
+Mandy made an apple pie. She used 0.6666666666666666 of a tablespoon of cinnamon and 0.5 of a tablespoon of nutmeg. How much more cinnamon than nutmeg did Mandy use?
+297
+0.16666666666666666
+The Montoya family spends 0.6 of their budget on groceries and another 0.2 going out to eat. Altogether, what fraction of their budget does the Montoya family spend on food?
+298
+0.8
+In Mr. Olsen's mathematics class, 0.7 of the students received A's and 0.2 received B's. What fraction of the students received either A's or B's?
+299
+0.9
+One evening, a restaurant served a total of 0.2 of a loaf of wheat bread and 0.4 of a loaf of white bread. How many loaves were served in all?
+301
+0.6
+Dina made cookies. She used 0.625 of a cup of flour and 0.25 of a cup of sugar. How much more flour than sugar did Dina use?
+303
+0.375
+Each day, the polar bear at Richmond's zoo eats 0.2 of a bucket of trout and 0.4 of a bucket of salmon. How many buckets of fish does the polar bear eat daily?
+304
+0.6
+0.5 of the students in the band are in the trumpet section. 0.125 of the students in the band are in the trombone section. What fraction of the students in the band are in either the trumpet section or the trombone section?
+306
+0.625
+Suzie found two worms in the yard and measured them with a ruler. One worm was 0.8 of an inch long. The other worm was 0.1 of an inch long. How much longer was the longer worm?
+307
+0.7
+Scarlett made a fruit salad with 0.25 of a pound of melon and 0.375 of a pound of berries. How many pounds of fruit did Scarlett use in all?
+308
+0.625
+Vince's bus ride to school is 0.625 of a mile and Zachary's bus ride is 0.5 of a mile. How much longer is Vince's bus ride than Zachary's?
+309
+0.125
+Elizabeth went to the salon and had 0.375 of an inch of hair cut off. The next day she went back and asked for another 0.5 of an inch to be cut off. How much hair did she have cut off in all?
+311
+0.875
+In Shannon's apartment complex, 0.16666666666666666 of the apartments are one-bedroom apartments and 0.3333333333333333 are two-bedroom apartments. What fraction of the apartments are either one- or two-bedroom apartments?
+312
+0.5
+While taking inventory at her pastry shop, Kelly realizes that she had 0.4 of a box of baking powder yesterday, but the supply is now down to 0.3 of a box. How much more baking powder did Kelly have yesterday?
+315
+0.1
+Greg and Sharon own neighboring cornfields. Greg harvested 0.4 of an acre of corn on Monday and Sharon harvested 0.1 of an acre. How many more acres did Greg harvest than Sharon?
+317
+0.3
+At the hardware store, 0.25 of the nails are size 2d and 0.5 of the nails are size 4d. What fraction of the nails are either size 2d or 4d?
+318
+0.75
+While making desserts for a bake sale, Victor used 0.625 of a scoop of brown sugar as well as 0.25 of a scoop of white sugar. How much more brown sugar did Victor use?
+319
+0.375
+Eve ran 0.7 of a mile and walked 0.6 of a mile. How much farther did Eve run than walk?
+320
+0.1
+Jonah added 0.3 of a cup of yellow raisins and 0.4 of a cup of black raisins to a batch of trail mix. How many cups of raisins did Jonah add in all?
+321
+0.7
+When Jake had one cat, he needed to serve 0.5 of a can of cat food each day. Now that Jake has adopted a second cat, he needs to serve a total of 0.9 of a can each day. How much extra food is needed to feed the second cat?
+322
+0.4
+In Yardley it snowed 0.125 of an inch in the morning and 0.5 of an inch in the afternoon. What was the total amount of snowfall?
+323
+0.625
+While making pastries, a bakery used 0.2 of a bag of wheat flour and 0.1 of a bag of white flour. How many bags of flour did the bakery use in all?
+324
+0.3
+Kaleen filled a bucket with 0.75 of a gallon of water. A few minutes later, she realized only 0.5 of a gallon of water remained. How much water had leaked out of the bucket?
+325
+0.25
+During a visit to an orchard, Charlie picked 0.16666666666666666 of a bag of Golden Delicious apples, 0.16666666666666666 of a bag of Macintosh apples, and 0.3333333333333333 of a bag of Cortland apples. How many bags of fruit did Charlie pick in total?
+327
+0.6666666666666666
+Before starting her shift, a waitress checks to make sure there is enough mustard for her customers. She finds 0.25 of a bottle at the first table, 0.25 of a bottle at the second table, and 0.375 of a bottle at the third table. Altogether, how many bottles of mustard does the waitress find?
+328
+0.875
+A waitress put leftover tarts into the fridge on Thursday night. She noticed that the restaurant had 0.08333333333333333 of a tart filled with cherries, 0.75 of a tart filled with blueberries, and 0.08333333333333333 of a tart filled with peaches. How many leftover tarts did the restaurant have in all?
+329
+0.9166666666666666
+On her vacation last summer, Trisha walked all over New York City to buy souvenirs. First, she walked 0.1111111111111111 of a mile from her hotel to a postcard shop. Then she walked 0.1111111111111111 of a mile from the postcard shop to a T-shirt shop and 0.6666666666666666 of a mile from the T-shirt shop back to the hotel. How many miles did Trisha walk in all?
+330
+0.8888888888888888
+Brandy made trail mix for a backpacking trip. She used 0.16666666666666666 of a pound of peanuts, 0.16666666666666666 of a pound of chocolate chips, and 0.08333333333333333 of a pound of raisins. How many pounds of trail mix did Brandy make?
+331
+0.4166666666666667
+Allie counted the leftover ice cream after a sundae party. She had 0.3333333333333333 of a carton of rocky road ice cream, 0.3333333333333333 of a carton of cookie dough ice cream, and 0.16666666666666666 of a carton of strawberry cheesecake ice cream. How many cartons of ice cream did Allie have in all?
+332
+0.8333333333333334
+During a canned food drive, items were sorted into bins. The drive resulted in 0.125 of a bin of soup, 0.125 of a bin of vegetables, and 0.5 of a bin of pasta. Altogether, how many bins would the canned food take up?
+333
+0.75
+Paco's Countertop Company purchased pieces of marble from a quarry. The weights of the pieces they purchased were 0.3333333333333333 of a ton, 0.3333333333333333 of a ton, and 0.08333333333333333 of a ton. How many tons of marble did Paco's Countertop Company purchase in all?
+334
+0.75
+Bonnie's science class recorded the rainfall each day. They recorded 0.16666666666666666 of a centimeter of rain on Monday, 0.4166666666666667 of a centimeter of rain on Tuesday, and 0.08333333333333333 of a centimeter of rain on Wednesday. How many centimeters of rain did the class record in all?
+336
+0.6666666666666666
+Kendra made punch for her friend's birthday party. She used 0.25 of a gallon of grape juice, 0.375 of a gallon of cranberry juice, and 0.125 of a gallon of club soda. How many gallons of punch did Kendra make?
+339
+0.75
+Logan recorded the snowfall every day during a snowstorm. He recorded 0.3333333333333333 of a centimeter on Wednesday, 0.3333333333333333 of a centimeter on Thursday, and 0.2222222222222222 of a centimeter on Friday. How many total centimeters of snow did Logan record?
+341
+0.8888888888888888
+Ellen made smoothies in the blender. She used 0.2 of a cup of strawberries, 0.1 of a cup of yogurt, and 0.2 of a cup of orange juice. How many cups of ingredients did Ellen use for the smoothies?
+342
+0.5
+During a school play, Jonah staffed the snack bar. He served 0.25 of a pitcher of lemonade during the first intermission, 0.4166666666666667 of a pitcher during the second, and 0.25 of a pitcher during the third. How many pitchers of lemonade did Jonah pour in all?
+343
+0.9166666666666666
+Heather went to the county fair last weekend. When she got there, she had to walk 0.3333333333333333 of a mile from the car to the entrance. Then she walked 0.3333333333333333 of a mile to the carnival rides and 0.08333333333333333 of a mile from the carnival rides back to the car. How many miles did Heather walk in all?
+344
+0.75
+A renovation project required 0.16666666666666666 of a truck-load of sand, 0.3333333333333333 of a truck-load of dirt, and 0.16666666666666666 of a truck-load of cement. How many truck-loads of material were needed in all?
+345
+0.6666666666666666
+Karin's science class weighed plastic rings for an experiment. They found that the orange ring weighed 0.08333333333333333 of an ounce, the purple ring weighed 0.3333333333333333 of an ounce, and the white ring weighed 0.4166666666666667 of an ounce. What was the total weight of the plastic rings?
+346
+0.8333333333333334
+Carefully following a recipe, Kenny used exactly 0.16666666666666666 of a cup of oil and 1.1666666666666667 cups of water. How many cups of liquid did Kenny use in all?
+347
+1.3333333333333333
+Dale's Vegetarian Restaurant bought 2.8333333333333335 pounds of green peppers and 2.8333333333333335 pounds of red peppers. How many pounds of peppers did Dale's Vegetarian Restaurant buy in all?
+348
+5.666666666666667
+This afternoon Craig left school, rode the bus 3.8333333333333335 miles, and then walked 0.16666666666666666 of a mile to get home. How much farther did Craig ride than walk?
+349
+3.6666666666666665
+Kelly's chemistry textbook weighs 7.125 pounds and her geometry textbook weighs 0.625 of a pound. How much more does the chemistry textbook weigh than the geometry textbook?
+350
+6.5
+Roadster's Paving Company used 10 tons of cement to pave Lexi's street and 5.1 tons of cement to pave Tess's street. How much cement did Roadster's Paving Company use in all?
+351
+15.1
+Kyle jogged 1.125 laps in P.E. class and 2.125 laps during track practice. How many laps did Kyle jog in all?
+353
+3.25
+A bucket contains 3 gallons of water. If Derek adds 6.8 gallons more, how many gallons will there be in all?
+354
+9.8
+At a pizza party, Mason and his friends drank 2.6666666666666665 bottles of lemon-lime soda and 2.6666666666666665 bottles of cola. How much soda did they drink in all?
+355
+5.333333333333333
+As part of a lesson on earthquakes, a science class is researching the movement of a nearby fault line. The fault line moved 1.25 inches during the past year and 5.25 inches the year before. How far did the fault line move in all?
+357
+6.5
+Hoping to be named Salesperson of the Month, Rosa called the names from 10.2 pages of the phone book last week. This week, she called the people listed on another 8.6 pages of the same phone book. How many pages worth of people did Rosa call in all?
+358
+18.8
+At the beach, Janet and her sister both built sandcastles and then measured their heights. Janet's sandcastle was 3.6666666666666665 feet tall and her sister's was 2.3333333333333335 feet tall. How much taller was Janet's sandcastle than her sister's?
+359
+1.3333333333333333
+Nicole found an orange caterpillar and a green caterpillar in her backyard. The green caterpillar was 3 inches long and the orange caterpillar was 1.1666666666666667 inches long. How much longer was the green caterpillar than the orange caterpillar?
+360
+1.8333333333333335
+Alec and his roommates ate 3.25 pints of ice cream on Friday night and 0.25 of a pint of ice cream on Saturday night. How many pints did they eat in all?
+361
+3.5
+Wendy ran 19.833333333333332 miles and walked 9.166666666666666 miles. How much farther did Wendy run than walk?
+366
+10.666666666666666
+Kenji and his classmates placed colored blocks on a scale during a science lab. The yellow block weighed 0.6 pounds and the green block weighed 0.4 pounds. How much more did the yellow block weigh than the green block?
+367
+0.2
+Terrell hiked 8.2 miles on Saturday. Then, on Sunday, he hiked another 1.6 miles. How far did Terrell hike all together?
+368
+9.8
+Kelly bought 0.1 pounds of peanuts and 0.4 pounds of raisins. How many pounds of snacks did she buy in all?
+370
+0.5
+Kevin bought two watermelons. The first watermelon was 9.91 pounds, and the second watermelon was 4.11 pounds. How many pounds of watermelon did Kevin buy?
+371
+14.02
+In March it rained 0.81 inches. It rained 0.35 inches less in April than in March. How much did it rain in April?
+372
+0.46
+Ron weighed two colored metal balls during a science class. The blue ball weighed 6 pounds and the brown ball weighed 3.12 pounds. If Ron places both balls on the scale at the same time, what will the scale read?
+373
+9.12
+A bee colony produced 0.36 pounds of honey, but bears ate 0.05 pounds of it. How much honey remains?
+374
+0.31
+It rained 0.9 inches on Monday. On Tuesday, it rained 0.7 inches less than on Monday. How much did it rain on Tuesday?
+375
+0.2
+It snowed 0.32 inches on Monday and 0.21 inches on Tuesday. How much did it snow on Monday and Tuesday combined?
+376
+0.53
+Brennan had 0.25 grams of pepper. Then he used 0.16 grams of the pepper to make some scrambled eggs. How much pepper does Brennan have left?
+377
+0.09
+It rained 0.2 inches on Saturday and 0.4 inches on Sunday. How much did it rain on Saturday and Sunday combined?
+379
+0.6
+Pamela bought 9.8 ounces of sugar, and she spilled 5.2 ounces of it on the floor. How much is left?
+380
+4.6
+Gordon bought 3.42 pounds of fruit for a class party. The class ate 2.2 pounds of the fruit. How much fruit is left?
+381
+1.22
+A chef bought 0.14 kilograms of almonds and 0.38 kilograms of pecans. How many kilograms of nuts did the chef buy in all?
+382
+0.52
+Marta picked two pumpkins. The first pumpkin weighed 4 pounds, and the second pumpkin weighed 8.7 pounds. How much did the two pumpkins weigh all together?
+383
+12.7
+Tori was 4.4 feet tall. Then she grew 2.86 feet taller. How tall is Tori now?
+385
+7.26
+A carpenter bought a piece of wood that was 8.9 centimeters long. Then he sawed 2.3 centimeters off the end. How long is the piece of wood now?
+386
+6.6
+How many cookies would you have if you had 37 bags of cookies with 19 cookies in each bag?
+387
+703.0
+There are 261 fishbowls. Each fishbowl has 23 fish. How many fish are there?
+389
+6003.0
+We ordered 21 pizzas. Each pizza has 8 slices. How many slices of pizza are there altogether?
+390
+168.0
+Emily collected eggs from the hen and put them into 303 baskets. She put 28 eggs into each basket. How many eggs did Emily collect?
+391
+8484.0
+Bryan took a look at his books as well. If Bryan has 56 books in each of his 9 bookshelves, how many books does he have in total?
+393
+504.0
+Bryan had 8 precious stones in his collection which he sold to his friend from the jewelry store. If the stones were sold at 1785 dollar each, how much money did Bryan get in total?
+395
+14280.0
+Lewis then went to see the oranges being harvested. Lewis found out that they harvest 83 sacks per day. How many sacks of oranges will they have after 6 days of harvest?
+397
+498.0
+Lewis saved checking on the grapevines for his last stop. He was told by one of the pickers that they fill 324 drums of grapes per day. How many drums of grapes would be filled in 9 days?
+398
+2916.0
+They entered the circus tent and saw that there are 4 sections for the audience. If each section can accommodate 246 people, how many people can the tent accommodate in total?
+400
+984.0
+The next act involved several jugglers. If each juggler is juggling 6 balls at a time, how many balls are needed if there are 378 jugglers putting a show at the same time?
+402
+2268.0
+For the final act, the circus brought out dancing animals wearing crowns. If each crown is made with 7 different colored feathers, how many feathers are needed for 934 crowns?
+403
+6538.0
+The library is divided into different sections for different type of books. The science fiction section has 8 books. If each book has 478 pages, how many pages do all the books have in total?
+404
+3824.0
+The mini library also has a section for the classics. If Jack has a collection of 6 classic authors, with each author having 33 books, how many books does he have in the classics section?
+406
+198.0
+She counted her crayons and found out that she has 80 crayons which she will place in crayon boxes. Every box can contain 8 crayons. How many boxes does she need?
+407
+10.0
+Lexie’s mom gathered all her watercolor paintings and thought of placing an equal number of paintings in 4 rooms in the house. If Lexie has 32 watercolor paintings, how many paintings will be placed in each room?
+409
+8.0
+Lexie’s younger brother helped pick up all the paper clips in Lexie’s room. He was able to collect 81 paper clips. If he wants to distribute the paper clips in 9 boxes, how many paper clips will each box contain?
+410
+9.0
+The junior ranger asked Christian to help him place 420 seedlings in packets. If every packet needs to contain 7 seeds, how many packets do they need?
+411
+60.0
+Christian’s mother prepared lemonade. Every pitcher of lemonade can serve 5 glasses. If she was able to serve 30 glasses of lemonade, how many pitchers of lemonade did she prepare?
+412
+6.0
+Christian’s father and the senior ranger gathered firewood as they walked towards the lake in the park and brought with them sacks. If every sack can contain around 20 pieces of wood, how many sacks were they able to fill if they gathered 80 pieces of wood?
+413
+4.0
+Christian and the junior ranger brought a bag of 140 nails as they visited every station assigned to the junior ranger. If they left exactly 7 nails in every station they visited, how many stations did Joline and the junior ranger visit?
+414
+20.0
+Sunday morning was spent for making wood carvings which can be sold as souvenir for tourists. They were placed in shelves that can contain 8 wood carvings at a time. If 56 wood carvings were displayed, how many shelves were filled with carvings?
+415
+7.0
+Shiela has 6 neighbors who like to collect animal drawings. Shiela drew 54 animals on small pieces of paper. If she plans to give the same number of animal drawings to her neighbors, how many will each of them receive?
+416
+9.0
+Allen, Shiela’s brother, likes to play with blocks. Shiela repainted Allen’s old blocks in different colors. If Allen has 49 identical blocks and there are 7 blocks for every color of paint used, how many colors did Shiela use?
+417
+7.0
+It has been tradition in Shiela’s home to hang a sock above the fireplace for each member of the family. This year, she placed a cinnamon ball every day in the socks for 5 of her family members. How long can she do this if she bought 50 cinnamon balls?
+418
+10.0
+9 of Hayley’s closest friends like stickers. If she plans to give all of them an equal number of stickers, how many will each receive if she has 72 stickers?
+419
+8.0
+In Haley’s class, 5 are boys who love to play marbles. If Haley has 35 marbles, how many will each of the boys receive?
+420
+7.0
+When relatives visit Haley and her family, she and her cousins do origami. If she has 48 origami papers to give away to her 6 cousins, how many will each receive if she gives everyone the same number of origami papers?
+421
+8.0
+A large bag of balls was kept under Haley’s bed. Her mom placed the balls in bags for children in foster homes. If every bag can contain 4 balls and Haley has 36 balls, how many bags will be used?
+422
+9.0
+Betty bought 88 pink flower stones and wanted to make 8 bracelets out of these stones. How many pink flower stones will each bracelet have if she used the same number of stones in each bracelet?
+424
+11.0
+Brenda, Betty’s sister, wanted to have 3 bracelets with star-shaped stones. She also bought 36 star-shaped stones from the local store and gave it to Betty. How many star-shaped stones will there be in each of the bracelet Betty makes for Brenda?
+426
+12.0
+Shannon, Brenda’s neighbor, joined Brenda in making bracelets. She brought 48 heart-shaped stones and wanted to have 8 of this type of stone in each of the bracelet she makes. How many bracelets with heart-shaped stones can Shannon make?
+427
+6.0
+Brenda’s mother made cookies for 5. If she prepared 35 cookies and each of them had the same number of cookies, how many did each of them have?
+428
+7.0
+Jane had been saving large empty cans to serve as pots for sunflowers. If she has 54 sunflower seeds and there are 9 cans, how many seeds will be placed in each can if she places an equal number of seeds in each can?
+429
+6.0
+Jane’s dad brought home 24 marble potatoes. If Jane’s mom made potato salad for lunch and served an equal amount of potatoes to Jane, herself and her husband, how many potatoes did each of them have?
+432
+8.0
+For dessert, Jane’s mom prepared 12 pieces of bite-size cinnamon swirls. If the 3 of them ate an equal number of pieces of cinnamon swirls, how many pieces did Jane eat?
+433
+4.0
+Willy has 1400 crayons. Lucy has 290 crayons. How many more crayons does Willy have then Lucy?
+436
+1110.0
+There are 10 stickers on a page. If you have 22 pages of stickers, how many stickers do you have?
+437
+220.0
+Jose has 85 peanuts. Kenya has 48 more than Jose. How many peanuts does Kenya have?
+440
+133.0
+Lizette has 813 stamps. Lizette has 125 more stamps than Minerva. How many stamps does Minerva have?
+441
+688.0
+I have 648 pencils. If I put 4 pencils in each pencil box, how many pencil boxes will I fill?
+443
+162.0
+A DVD book holds 126 DVDs. There are 81 DVDs already in the book. How many more DVDs can be put in the book?
+446
+45.0
+Paco had 93 cookies. Paco ate 15 of them. How many cookies did Paco have left?
+448
+78.0
+Kelly has 121 Nintendo games. How many does Kelly need to give away so that Kelly will have 22 games left?
+449
+99.0
+Connie has 2315 red markers and 1028 blue markers. How many markers does Connie have altogether?
+451
+3343.0
+Iesha has 344 books. 136 are about school and the rest are about sports. How many books about sports does Iesha have?
+452
+208.0
+Sean has 223 whistles. Sean has 95 more whistles than Charles. How many whistles does Charles have?
+454
+128.0
+Connie has 323 marbles. Juan has 175 more marbles than Connie. How many marbles does Juan have?
+455
+498.0
+Robin has 27 packages of gum. There are 18 pieces in each package. How many pieces of gum does Robin have?
+456
+486.0
+If each ball costs $1.54, how much must Kyoko pay for 3 balls?
+458
+4.62
+Tony had $20. Tony paid $8 for a ticket to a baseball game. At the game, Tony bought a hot dog for $3. What amount of money did Tony have then?
+459
+9.0
+Mr. Guzman bought 48 doughnuts packed equally into 4 boxes. How many doughnuts were in each box?
+460
+12.0
+The Sumata family took a 5 day vacation by car. Each day they drove 250 miles. How many total miles did they drive?
+461
+1250.0
+One stamp costs 34 cents. If the cost of each stamp remains the same, how much would 4 stamps cost?
+462
+134.0
+The town of Milburg has 5256 grown-ups and 2987 children. How many people live in Milburg?
+463
+8243.0
+There were 3409 pieces of candy in a jar. If 145 pieces were red and the rest were blue, how many were blue?
+465
+3264.0
+On Friday, 1250 people visited the zoo. 3 times as many people visited on Saturday than on Friday. How many people visited the zoo on Saturday?
+466
+3750.0
+Students went to a concert in 8 buses. Each bus took 45 students. How many students went to the concert?
+467
+360.0
+There are 124 students making 3 stars each for the school wall. How many stars will they make all together?
+468
+372.0
+Marcia spent 300 minutes working on her science project. How many hours did Marcia spend on her science project?
+469
+5.0
+In one week, an airplane pilot flew 1134 miles on Tuesday and 1475 miles on Thursday. If the pilot flies the same number of miles 3 weeks in a row, how many miles does the pilot fly in all?
+470
+7827.0
+6 students were sitting at each table in the lunchroom. There are 34 tables. How many students were sitting in the lunchroom?
+471
+204.0
+Tyler had 15 dogs. Each dog had 5 puppies. How many puppies does Tyler now have?
+472
+75.0
+The farmer had 127 apples. The farmer gave 88 apples to his neighbor. How many apples does the farmer have now?
+473
+39.0
+John can read 4 books a day. John reads every Monday and Tuesday. How many books would John read in 6 weeks?
+474
+48.0
+Jill invited 37 people to her birthday party. They each ate 8 pieces of pizza. How many pieces of pizza did they eat?
+475
+296.0
+The Spurs basketball team has 22 players. Each player has 11 basketballs. How many basketballs do they have in all?
+476
+242.0
+Mrs. Hilt went to a concert. A total of 65899 people attended the concert. The next week, Mrs. Hilt went to a second concert, which had 119 more people in attendance. How many people were at the second concert?
+478
+66018.0
+Mrs. Hilt baked pies last weekend for a holiday dinner. She baked 16 pecan pies and 14 apples pies. If she wants to arrange all of the pies in rows of 5 pies each, how many rows will she have?
+479
+6.0
+Mrs. Hilt needs to share $3.75 equally among 3 total people. How much money will each person get?
+480
+1.25
+Mrs. Hilt read 4 books. Each book had 17 chapters in it. How many chapters did Mrs. Hilt read?
+483
+68.0
+Mrs. Hilt is baking bread. She needs 5 cups of flour to bake 2 loaves of bread. How much flour will she need to make one loaf of bread?
+484
+2.5
+Mrs. Hilt bought a notebook for $1.30. She paid with nickels. How many nickels did she use to buy the notebook?
+485
+26.0
+Mrs. Hilt saw a rollercoaster. 7 students rode the rollercoaster every 5 minutes. How many students rode the rollercoaster in 15 minutes?
+486
+21.0
+Mrs. Hilt measured the distance from her desk to the water fountain. It was 30 feet. How many feet will Mrs. Hilt walk on her trips to the fountain if she goes to the water fountain 4 times today?
+488
+120.0
+Lucy has an aquarium with 212 fish. Lucy wants to buy 68 more fish. How many fish would Lucy have then?
+489
+280.0
+Lucy has 212 fish. How many more fish does Lucy need to buy to have 280 fish?
+490
+68.0
+Chris has been saving his allowance to buy a new pair of soccer cleats and a ball. His grandmother gave Chris $25 for his birthday. His aunt and uncle gave Chris $20 and his parents gave him $75. Now Chris had $279. How much money did Chris have before his birthday?
+491
+159.0
+Harry Hound had a terrible earache yesterday. When I peered into his ears yesterday, I found 36 frisky fleas having a party in his right ear and 85 baby fleas sleeping peacefully in his left ear. I cleaned out Harry Hound's ears. How many fleas perished?
+492
+121.0
+A pet supply store has 600 bags of dog food and 327 bags of cat food. How many more bags of dog food are there than cat food?
+493
+273.0
+David has 7 boxes of stuffed toy dogs. Each box has 4 dogs in it. How many dogs are there in all?
+494
+28.0
+532 people are watching a movie in a theater. The theater has 750 seats. How many seats are empty in the theater?
+495
+218.0
+Each bag contains 23 pounds of oranges. How many pounds of oranges are in 45 bags?
+496
+1035.0
+Bert runs 2 miles every day. How many miles will Bert run in 3 weeks?
+497
+42.0
+For his long distance phone service Milan pays a 2 dollars monthly fee plus 12 cents per minute. Last month , Milan 's long distance bill was 23.36 dollars. For how many minutes was Milan billed for ?
+498
+178.0
+The value of a sport utility vehicle this year is 16,000 dollars , which is 0.8 of what its value was last year. How much is the value of the vehicle last year?
+499
+20000.0
+Trenton sells electronic supplies. Each week he earns 190 dollars plus commission equal to 0.04 of his sales. This week his goal is to earn no less than 500 dollars. How much sales  he must make to reach his goal?
+500
+7750.0
+The tallest player on the basketball team is 77.75 inches tall. This is 9.5 inches taller than the shortest player. How tall is the shortest player , in inches?
+502
+68.25
+0.20 of a number decreased by 4 is equal to 6. Find the number.
+503
+50.0
+Freeport McMoran projects the world grain supply will be 1800000 metric tons and the supply will be only 0.75 of the world grain demand. What will the world grain demand be?
+504
+2400000.0
+Manuel opened a savings account with an initial deposit of 177 dollars. If he wants to save 500 dollars during the next 19 weeks , how much must he save each week , in dollars?
+506
+17.0

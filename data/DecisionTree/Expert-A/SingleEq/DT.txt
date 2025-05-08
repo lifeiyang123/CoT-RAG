@@ -1,0 +1,3414 @@
+0
+Sub-question 1: "How many seashells did Joan originally have?"
+Sub-question 2 (Parent node: Sub-question 1): "How many seashells does Joan have after giving some to Sam?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the difference between the number of seashells Joan originally had and the number of seashells she has left?"
+Sub-question 4 (Parent node: Sub-question 3): "How many seashells did Joan give to Sam?"
+
+
+
+1
+Sub-question 1: "How many bales of hay were originally in the barn?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many bales of hay are in the barn after Tim stacked more?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the difference between the current number of bales and the original number of bales?"  
+Sub-question 4 (Parent node: Sub-question 3): "How many bales did Tim stack in the barn today?"  
+
+
+
+2
+Sub-question 1: "How many people are sharing the bill?"
+Sub-question 2 (Parent node: Sub-question 1): "How much did each person pay?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the formula for calculating the total bill based on the number of people and the amount paid by each?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the total amount of the bill?"
+Sub-question 5 (Parent node: Sub-question 3): "How do the number of people and the amount paid relate to find the total bill?"
+
+
+
+3
+Sub-question 1: "What is the total amount of flour required for the cake recipe?"
+Sub-question 2 (Parent node: Sub-question 1): "How much flour has Mary already added to the mixture?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the amount of flour that Mary still needs to add?"
+Sub-question 4 (Parent node: Sub-question 3): "Is the amount of flour still needed greater than or equal to zero?"
+Sub-question 5 (Parent node: Sub-question 4): "What should be the final amount of flour added to meet the recipe's requirement?"
+
+
+
+4
+Sub-question 1: "How many total basketball games did Sara's high school play?"
+Sub-question 2 (Parent node: Sub-question 1): "How many games did Sara's high school lose?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the relationship between total games, wins, and losses?"
+Sub-question 4 (Parent node: Sub-question 2): "How is the number of wins calculated from total games and losses?"  
+Sub-question 5 (Parent node: Sub-question 3): "What does 'most of their games' imply about the number of wins?"  
+
+
+
+5
+Sub-question 1: "What is the current number of walnut trees in the park?"  
+Sub-question 2 (Parent node: Sub-question 1): "What will be the total number of walnut trees after planting?"  
+Sub-question 3 (Parent node: Sub-question 2): "How many walnut trees need to be planted to reach the total?"  
+Sub-question 4 (Parent node: Sub-question 3): "What is the difference between the total desired and the current number of walnut trees?"  
+Sub-question 5 (Parent node: Sub-question 4): "How do we calculate the number of trees planted today based on the difference?"  
+
+
+
+6
+Sub-question 1: "How many peaches did Mike start with at the stand?"
+Sub-question 2 (Parent node: Sub-question 1): "How many peaches are now at the stand after Mike picked more?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the difference between the current number of peaches at the stand and the number Mike started with?"
+Sub-question 4 (Parent node: Sub-question 3): "How many peaches did Mike pick from the orchard?"
+
+
+
+7
+Sub-question 1: "How many roses were initially in the vase?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total number of roses in the vase after Mary cuts more?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the difference in the number of roses before and after Mary cuts more?"
+Sub-question 4 (Parent node: Sub-question 3): "How many roses did Mary cut from her garden?"
+
+
+
+8
+Sub-question 1: "What is the total amount spent on candy bars after buying the soft drink?"
+Sub-question 2 (Parent node: Sub-question 1): "How much money is left for buying candy bars after spending on the soft drink?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total cost of the 5 candy bars?"
+Sub-question 4 (Parent node: Sub-question 3): "How much does each candy bar cost?"
+
+
+
+9
+Sub-question 1: "How many baseball trading cards did Benny have after buying 4 new cards?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total number of cards Benny had before the dog ate half of his collection?"
+Sub-question 3 (Parent node: Sub-question 2): "How many cards did Benny's dog eat?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the total number of cards left after the dog ate half of the collection?"  
+Sub-question 5 (Parent node: Sub-question 4): "How many baseball trading cards did Benny start with before he bought the 4 new cards?"
+
+
+
+10
+Sub-question 1: "What is Alyssa's total amount of money before she went to the movies?"  
+Sub-question 2 (Parent node: Sub-question 1): "How much did Alyssa spend on the movies?"  
+Sub-question 3 (Parent node: Sub-question 1): "How much did Alyssa earn from washing the car?"  
+Sub-question 4 (Parent node: Sub-question 2): "What is Alyssa's weekly allowance based on her spending and earnings?"  
+Sub-question 5 (Parent node: Sub-question 4): "How does the final amount relate to the allowance when accounting for spending and earnings?"  
+
+
+
+11
+Sub-question 1: "What are the three consecutive even numbers?"  
+Sub-question 2 (Parent node: Sub-question 1): "How can we express these numbers in a mathematical form?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the equation that represents the sum of these three numbers?"  
+Sub-question 4 (Parent node: Sub-question 3): "How can we solve this equation to find the value of the numbers?"  
+Sub-question 5 (Parent node: Sub-question 4): "What is the smallest of the three consecutive even numbers?"  
+
+
+
+12
+Sub-question 1: "What is the total number of students that needed transportation to the zoo excluding those who traveled in cars?"
+Sub-question 2 (Parent node: Sub-question 1): "How many students were transported by the 7 buses?"
+Sub-question 3 (Parent node: Sub-question 2): "How many students are on each bus?"
+Sub-question 4 (Parent node: Sub-question 1): "How many students traveled in cars?"
+Sub-question 5 (Parent node: Sub-question 2): "What is the total capacity of the buses?"
+
+
+
+13
+Sub-question 1: "How many comic books did Sandy have after selling half of them?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total number of comic books Sandy originally had?"
+Sub-question 3 (Parent node: Sub-question 2): "How many comic books did Sandy sell?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the equation that describes Sandy's current number of comic books after selling and buying?"
+Sub-question 5 (Parent node: Sub-question 4): "How can we solve for the original number of comic books based on this equation?"
+
+
+
+14
+Sub-question 1: "What is the general form of three consecutive odd numbers?"
+Sub-question 2 (Parent node: Sub-question 1): "How can we represent the sum of these three consecutive odd numbers mathematically?"
+Sub-question 3 (Parent node: Sub-question 2): "What equation can we set up based on the given sum of 69?"
+Sub-question 4 (Parent node: Sub-question 3): "How can we solve this equation to find the middle number?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the smallest of the three consecutive odd numbers based on the middle number found?"
+
+
+
+15
+Sub-question 1: "How many football games did Joan go to this year?"
+Sub-question 2 (Parent node: Sub-question 1): "How many football games did Joan go to last year?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of football games Joan went to over both years?"
+
+
+
+
+16
+Sub-question 1: "How many yellow balloons does Tom have?"
+Sub-question 2 (Parent node: Sub-question 1): "How many yellow balloons does Sara have?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the sum of the yellow balloons from Tom and Sara?"
+
+
+
+17
+Sub-question 1: "How many walnut trees are currently in the park?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many walnut trees will be planted today?"  
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of walnut trees after planting?"  
+Sub-question 4 (Parent node: Sub-question 2): "What is the sum of the current walnut trees and the newly planted walnut trees?"  
+Sub-question 5 (Parent node: Sub-question 3): "What will be the final count of walnut trees in the park?"  
+
+
+
+18
+Sub-question 1: "How many dimes did Sam initially have?"
+Sub-question 2 (Parent node: Sub-question 1): "How many dimes did Sam's dad give him?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of dimes Sam has after receiving dimes from his dad?"
+
+
+
+19
+Sub-question 1: "How many puppies did Alyssa give away to her friends?"
+Sub-question 2 (Parent node: Sub-question 1): "How many puppies does Alyssa have left after giving some away?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of puppies Alyssa had at the beginning?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the relationship between the puppies given away and the puppies left?"
+Sub-question 5 (Parent node: Sub-question 3): "How can we calculate the initial number of puppies based on the puppies given away and the puppies left?"
+
+
+
+20
+Sub-question 1: "How many pencils are initially in the drawer?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many additional pencils did Tim place in the drawer?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of pencils now in the drawer?"  
+Sub-question 4 (Parent node: Sub-question 3): "Is the new total calculated correctly based on the initial count and additional pencils?"  
+
+
+
+21
+Sub-question 1: "What is the number of seashells Joan found?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the number of seashells Jessica found?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the sum of the seashells found by Joan and Jessica?"
+Sub-question 4 (Parent node: Sub-question 3): "Is the total number of seashells found greater than zero?"
+
+
+
+22
+Sub-question 1: "How many apples did Benny pick?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many apples did Dan pick?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of apples picked by Benny and Dan?"  
+Sub-question 4 (Parent node: Sub-question 3): "Is the total number of apples correct?"  
+Sub-question 5 (Parent node: Sub-question 4): "What is the conclusion about the total number of apples picked?"  
+
+
+
+23
+Sub-question 1: "How many seashells did Sally find?"
+Sub-question 2 (Parent node: Sub-question 1): "How many seashells did Tom find?"
+Sub-question 3 (Parent node: Sub-question 1): "How many seashells did Jessica find?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the total number of seashells found by Sally and Tom?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the total number of seashells found by Sally, Tom, and Jessica?"
+
+
+
+24
+Sub-question 1: "How many kittens did Tim give away in total?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total number of kittens Tim has now?"
+Sub-question 3 (Parent node: Sub-question 2): "What was the initial number of kittens Tim had before giving any away?" 
+Sub-question 4 (Parent node: Sub-question 3): "How do we calculate the initial number of kittens from the current number and the total given away?"
+
+
+
+25
+Sub-question 1: "How many blue balloons does Joan have?"
+Sub-question 2 (Parent node: Sub-question 1): "How many blue balloons does Sally have?"
+Sub-question 3 (Parent node: Sub-question 1): "How many blue balloons does Jessica have?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the total number of blue balloons held by Joan and Sally?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the total number of blue balloons held by Joan, Sally, and Jessica?"
+
+
+
+26
+Sub-question 1: "How many cakes were served during lunch today?"
+Sub-question 2 (Parent node: Sub-question 1): "How many cakes were served during dinner today?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of cakes served today (lunch + dinner)?"
+Sub-question 4 (Parent node: Sub-question 3): "How many cakes were served yesterday?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the total number of cakes served over the two days?"
+
+
+
+27
+Sub-question 1: "How many dogwood trees are currently in the park?"
+Sub-question 2 (Parent node: Sub-question 1): "How many dogwood trees will be planted today?"
+Sub-question 3 (Parent node: Sub-question 1): "How many dogwood trees will be planted tomorrow?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the total count of dogwood trees after planting today?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the total count of dogwood trees after planting tomorrow?"
+
+
+
+28
+Sub-question 1: "How many pears did Sara pick?"
+Sub-question 2 (Parent node: Sub-question 1): "How many pears did Sally pick?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the sum of the pears picked by Sara and Sally?"
+Sub-question 4 (Parent node: Sub-question 3): "Is the total number of pears an accurate calculation?"
+Sub-question 5 (Parent node: Sub-question 4): "What are the final total pears picked?"
+
+
+
+29
+Sub-question 1: "How many books does Keith have?"
+Sub-question 2 (Parent node: Sub-question 1): "How many books does Jason have?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of books Keith and Jason have together?"
+
+
+
+30
+Sub-question 1: "How many walnut trees are currently in the park?"
+Sub-question 2 (Parent node: Sub-question 1): "How many walnut trees will be planted today?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of walnut trees after planting the new ones?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the sum of the current walnut trees and the newly planted walnut trees?"
+
+
+
+31
+Sub-question 1: "How many quarters did Sara originally have?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many quarters did Sara's dad give her?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of quarters Sara has after receiving the additional quarters?"  
+Sub-question 4 (Parent node: Sub-question 3): "Is the final count of quarters correct after the addition?"  
+Sub-question 5 (Parent node: Sub-question 4): "What is the final total of quarters Sara has?"  
+
+
+
+32
+Sub-question 1: "How many pencils are initially in the drawer?"
+Sub-question 2 (Parent node: Sub-question 1): "How many additional pencils does Mike place in the drawer?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of pencils after Mike adds the additional pencils?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the sum of the initial pencils and the additional pencils?"
+
+
+
+33
+Sub-question 1: "How many blue balloons does Joan have?"
+Sub-question 2 (Parent node: Sub-question 1): "How many blue balloons does Melanie have?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total of Joan's and Melanie's balloons?"
+Sub-question 4 (Parent node: Sub-question 2): "Is the total number of balloons simply the sum of Joan's and Melanie's?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the final answer for the total number of blue balloons?"
+
+
+
+34
+Sub-question 1: "What is the number of cantelopes Fred grew?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the number of cantelopes Tim grew?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of cantelopes grown by Fred and Tim?"
+
+
+
+35
+Sub-question 1: "How many football games did Sam go to last year?"
+Sub-question 2 (Parent node: Sub-question 1): "How many football games did Sam go to this year?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of football games Sam went to last year and this year?"
+
+
+
+36
+Sub-question 1: "How many seashells did Mary find?"
+Sub-question 2 (Parent node: Sub-question 1): "How many seashells did Jessica find?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of seashells found by Mary and Jessica together?"
+
+
+
+37
+Sub-question 1: "How many dogwood trees are currently in the park?"
+Sub-question 2 (Parent node: Sub-question 1): "How many dogwood trees will be planted today?"
+Sub-question 3 (Parent node: Sub-question 1): "How many dogwood trees will be planted tomorrow?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the total number of dogwood trees after the trees are planted today?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the total number of dogwood trees after the trees are planted tomorrow?"
+
+
+
+38
+Sub-question 1: "How many books does Sandy have?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many books does Benny have?"  
+Sub-question 3 (Parent node: Sub-question 1): "How many books does Tim have?"  
+Sub-question 4 (Parent node: Sub-question 2): "What is the total number of books from Sandy and Benny?"  
+Sub-question 5 (Parent node: Sub-question 3): "What is the total number of books from Sandy, Benny, and Tim?"  
+
+
+
+39
+Sub-question 1: "What is the number of pears picked by Jason?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the number of pears picked by Keith?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the number of pears picked by Mike?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the total number of pears picked by Jason, Keith, and Mike?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final total of all the pears picked?"
+
+
+
+40
+Sub-question 1: "How many cantaloupes did Keith grow?"
+Sub-question 2 (Parent node: Sub-question 1): "How many cantaloupes did Fred grow?"
+Sub-question 3 (Parent node: Sub-question 1): "How many cantaloupes did Jason grow?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the total number of cantaloupes grown by Keith, Fred, and Jason?"
+
+
+
+41
+Sub-question 1: "How many dimes did Melanie originally have in her bank?"
+Sub-question 2 (Parent node: Sub-question 1): "How many dimes did her dad give her?"
+Sub-question 3 (Parent node: Sub-question 1): "How many dimes did her mother give her?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the total number of dimes Melanie has after receiving dimes from her dad?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the total number of dimes Melanie has after receiving dimes from her mother?"
+
+
+
+42
+Sub-question 1: "How many blue balloons does Alyssa have?"
+Sub-question 2 (Parent node: Sub-question 1): "How many blue balloons does Sandy have?"
+Sub-question 3 (Parent node: Sub-question 1): "How many blue balloons does Sally have?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the total number of blue balloons from Alyssa and Sandy?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the total number of blue balloons from Alyssa, Sandy, and Sally?"
+
+
+
+43
+Sub-question 1: "How many cards did Sally have initially?"
+Sub-question 2 (Parent node: Sub-question 1): "How many cards did Dan give to Sally?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of cards Sally has after receiving cards from Dan?"
+Sub-question 4 (Parent node: Sub-question 3): "How many cards did Sally buy?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final total of cards Sally has now?"
+
+
+
+44
+Sub-question 1: "How many football games did Jason attend this month?"
+Sub-question 2 (Parent node: Sub-question 1): "How many football games did Jason attend last month?"
+Sub-question 3 (Parent node: Sub-question 1): "How many football games does Jason plan to attend next month?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the total number of games Jason attended over the last two months?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the total number of games Jason will attend over the next three months?"
+
+
+
+45
+Sub-question 1: "How many pencils are there in the drawer?"
+Sub-question 2 (Parent node: Sub-question 1): "How many pencils are currently on the desk?"
+Sub-question 3 (Parent node: Sub-question 2): "How many additional pencils did Dan place on the desk?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the total number of pencils now on the desk?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the overall total of pencils including those in the drawer and those on the desk?"
+
+
+
+46
+Sub-question 1: "How many books did Mike have initially in his library?"
+Sub-question 2 (Parent node: Sub-question 1): "How many books does Mike have now in his library?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the difference between the total number of books Mike has now and the number he had initially?"
+Sub-question 4 (Parent node: Sub-question 3): "How many books did Mike buy at the yard sale?"
+
+
+
+
+47
+Sub-question 1: "What is the total amount of flour required for the cake?"
+Sub-question 2 (Parent node: Sub-question 1): "How much flour has Sandy already added?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the difference between the total flour required and the amount already added?"
+Sub-question 4 (Parent node: Sub-question 3): "How many more cups of flour does Sandy need to add?"
+
+
+
+48
+Sub-question 1: "What is the current number of maple trees in the park?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total number of maple trees expected in the park after planting?"
+Sub-question 3 (Parent node: Sub-question 2): "How many more maple trees need to be planted to reach the total expected?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the difference between the total number of expected maple trees and the current number?"
+
+
+
+49
+Sub-question 1: "What is the total number of seashells Dan had initially?"
+Sub-question 2 (Parent node: Sub-question 1): "How many seashells does Dan have left after giving some to Jessica?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the difference between the initial number of seashells and the number of seashells Dan has left?"
+Sub-question 4 (Parent node: Sub-question 3): "How many seashells did Dan give to Jessica?"
+
+
+
+50
+Sub-question 1: "How much money did Benny start with?"  
+Sub-question 2 (Parent node: Sub-question 1): "How much money did Benny have left after buying the baseball gear?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the difference between the amount Benny started with and the amount he has left?"  
+Sub-question 4 (Parent node: Sub-question 3): "What amount did Benny spend on the baseball gear?"  
+
+
+
+51
+Sub-question 1: "How many roses were originally in the vase?"
+Sub-question 2 (Parent node: Sub-question 1): "How many roses are now in the vase?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the difference between the current number of roses and the original number of roses?"
+Sub-question 4 (Parent node: Sub-question 3): "How many roses did Alyssa cut from her flower garden?"
+
+
+
+52
+Sub-question 1: "How much money did Tom have before washing cars?"  
+Sub-question 2 (Parent node: Sub-question 1): "How much money does Tom have after washing cars?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the difference between the amount of money Tom has after and before washing cars?"  
+Sub-question 4 (Parent node: Sub-question 3): "How much money did Tom make washing cars?"  
+
+
+
+53
+Sub-question 1: "How many bales of hay were originally in the barn?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total number of bales of hay in the barn after Jason stacked more bales?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the difference in the number of bales before and after Jason stacked more bales?"
+Sub-question 4 (Parent node: Sub-question 3): "What does the difference represent in terms of the number of bales Jason stored?"
+Sub-question 5 (Parent node: Sub-question 2): "How can we verify the total count of bales by adding the original and stored bales?"
+
+
+
+54
+Sub-question 1: "How many potatoes did Nancy grow?"
+Sub-question 2 (Parent node: Sub-question 1): "How many potatoes did Sandy grow?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of potatoes grown by Nancy and Sandy?"
+
+
+
+55
+Sub-question 1: "How many oak trees are currently in the park?"
+Sub-question 2 (Parent node: Sub-question 1): "How many oak trees will be planted today?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of oak trees after planting?"
+Sub-question 4 (Parent node: Sub-question 3): "Is there a need to count existing trees and newly planted trees separately?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final count of oak trees in the park?"
+
+
+
+56
+Sub-question 1: "How many seashells did Tom find in total?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many of the seashells found by Tom were broken?"  
+Sub-question 3 (Parent node: Sub-question 1): "What is the relationship between the total number of seashells and the number of broken seashells?"  
+Sub-question 4 (Parent node: Sub-question 3): "How do you calculate the number of unbroken seashells?"  
+Sub-question 5 (Parent node: Sub-question 4): "What is the final count of unbroken seashells based on the calculations?"  
+
+
+
+57
+Sub-question 1: "How many lemons did Sally pick?"
+Sub-question 2 (Parent node: Sub-question 1): "How many lemons did Mary pick?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of lemons picked by Sally and Mary?"
+Sub-question 4 (Parent node: Sub-question 3): "Is the total correct based on the individual amounts picked?"
+
+
+
+58
+Sub-question 1: "How many cakes were served during lunch?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total number of cakes served during dinner?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the combined total of cakes served during lunch and dinner?"
+
+
+
+59
+Sub-question 1: "How many orange balloons did Joan originally have?"
+Sub-question 2 (Parent node: Sub-question 1): "How many orange balloons did Joan lose?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the calculation to determine the remaining number of orange balloons after losing some?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the result of the calculation from Sub-question 3?"
+
+
+
+60
+Sub-question 1: "How many dimes did Fred originally have?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many dimes did Fred's sister borrow?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the relationship between the original number of dimes and the number borrowed?"  
+Sub-question 4 (Parent node: Sub-question 3): "What is the result when subtracting the number of borrowed dimes from the original number?"  
+
+
+
+61
+Sub-question 1: "How many kittens did Joan initially have?"
+Sub-question 2 (Parent node: Sub-question 1): "How many kittens did Joan give away?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the formula to calculate the number of kittens remaining after giving some away?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the result of subtracting the number of kittens given away from the initial number of kittens?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the final count of kittens after applying the formula with the initial number and kittens given away?"
+
+
+
+62
+Sub-question 1: "How many dogwood trees are currently in the park?"
+Sub-question 2 (Parent node: Sub-question 1): "How many dogwood trees will be added to the park?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of dogwood trees after the new trees are planted?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the final count of dogwood trees in the park?"
+
+
+
+
+63
+Sub-question 1: "How many pencils are initially in the drawer?"
+Sub-question 2 (Parent node: Sub-question 1): "How many additional pencils did Nancy place in the drawer?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of pencils in the drawer after adding the additional pencils?"
+
+
+
+
+64
+Sub-question 1: "What is the total number of baseball games played by Benny's high school this year?"
+Sub-question 2 (Parent node: Sub-question 1): "How many games did Benny attend?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the formula to calculate the number of games missed?"
+Sub-question 4 (Parent node: Sub-question 2): "How can I use the formula to determine the number of games missed?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final answer for the number of games Benny missed?"
+
+
+
+65
+Sub-question 1: "How many seashells did Sam initially find?"
+Sub-question 2 (Parent node: Sub-question 1): "How many seashells did Sam give to Joan?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of seashells Sam has after giving some to Joan?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the result of subtracting the number of seashells given to Joan from the initial number Sam found?"
+
+
+
+66
+Sub-question 1: "How many books does Tim have?"
+Sub-question 2 (Parent node: Sub-question 1): "How many books does Mike have?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of books held by both Tim and Mike?"
+
+
+
+67
+Sub-question 1: "How many baseball cards does Mike initially have?"
+Sub-question 2 (Parent node: Sub-question 1): "How many baseball cards does Sam buy from Mike?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the formula to calculate the remaining number of baseball cards Mike has after the sale?"
+Sub-question 4 (Parent node: Sub-question 3): "How many baseball cards does Mike have after Sam buys the cards?"
+
+
+
+68
+Sub-question 1: "What is the number of pumpkins grown by Sandy?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the number of pumpkins grown by Mike?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of pumpkins grown by both Sandy and Mike?"
+
+
+
+
+69
+Sub-question 1: "How many books does Tim have?"
+Sub-question 2 (Parent node: Sub-question 1): "How many books does Sam have?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of books by adding Tim's and Sam's books together?"
+
+
+
+70
+Sub-question 1: "How many violet marbles does Dan have initially?"
+Sub-question 2 (Parent node: Sub-question 1): "How many violet marbles did Dan give to Mary?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the result of subtracting the number of marbles Dan gave to Mary from the number of marbles he had initially?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the final count of violet marbles Dan has after giving some to Mary?"
+
+
+
+71
+Sub-question 1: "How many popular trees are currently in the park?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many more popular trees will be planted today?"  
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of popular trees after planting more?"  
+Sub-question 4 (Parent node: Sub-question 2): "What is the sum of the current trees and the trees to be planted?"  
+Sub-question 5 (Parent node: Sub-question 3): "What is the final count of popular trees in the park?"  
+
+
+
+72
+Sub-question 1: "How many scissors were initially in the drawer?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many additional scissors did Keith place in the drawer?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of scissors after adding the additional ones?"  
+Sub-question 4 (Parent node: Sub-question 3): "Is the total number of scissors now greater than the initial amount?"  
+Sub-question 5 (Parent node: Sub-question 3): "What is the final count of scissors in the drawer?"  
+
+
+
+73
+Sub-question 1: "How many pears did Alyssa pick?"
+Sub-question 2 (Parent node: Sub-question 1): "How many pears did Nancy pick?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of pears picked by Alyssa and Nancy?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the final total when adding the pears picked by Alyssa and Nancy?"
+
+
+
+
+74
+Sub-question 1: "How many pennies did Sam start with?"
+Sub-question 2 (Parent node: Sub-question 1): "How many pennies did Sam spend?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the difference between the starting amount and the amount spent?"
+Sub-question 4 (Parent node: Sub-question 3): "How many pennies does Sam have now?"
+
+
+
+75
+Sub-question 1: "How many seashells did Joan initially have?"
+Sub-question 2 (Parent node: Sub-question 1): "How many seashells did Joan give to Mike?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the calculation to determine how many seashells Joan has left after giving some to Mike?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the final total of seashells Joan has after the transaction with Mike?"
+
+
+
+76
+Sub-question 1: "What is the total number of soccer games played by Melanie's high school?"
+Sub-question 2 (Parent node: Sub-question 1): "How many soccer games did Melanie attend?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the formula to calculate the number of games missed?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the result of the calculation for the number of games missed?"
+Sub-question 5 (Parent node: Sub-question 3): "Can we apply the formula to the numbers given to determine the total games missed?"
+
+
+
+77
+Sub-question 1: "How many oranges did Mary pick?"
+Sub-question 2 (Parent node: Sub-question 1): "How many oranges did Jason pick?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of oranges picked by Mary and Jason?"
+Sub-question 4 (Parent node: Sub-question 3): "Is the total number of oranges picked correct?"
+
+
+
+78
+Sub-question 1: "What is the total number of baseball games played by Fred's high school?"
+Sub-question 2 (Parent node: Sub-question 1): "How many baseball games did Fred attend?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the formula to calculate the number of baseball games missed?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the total number of baseball games missed by Fred?"
+
+
+
+79
+Sub-question 1: "What is the number of turnips Melanie grew?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the number of turnips Benny grew?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of turnips grown by both Melanie and Benny?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the result of adding the number of turnips Melanie grew to the number of turnips Benny grew?"
+
+
+
+80
+Sub-question 1: "How many Pokemon cards does Jason originally have?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many Pokemon cards did Alyssa buy from Jason?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of Pokemon cards Jason has after Alyssa's purchase?"  
+Sub-question 4 (Parent node: Sub-question 3): "Is the total number of Pokemon cards Jason has now less than or equal to zero?"  
+Sub-question 5 (Parent node: Sub-question 3): "What is the remaining number of Pokemon cards Jason has now?"
+
+
+
+81
+Sub-question 1: "How many green balloons does Fred have initially?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many green balloons did Fred give to Sandy?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of balloons Fred has after giving some to Sandy?"  
+Sub-question 4 (Parent node: Sub-question 3): "Is the result positive or negative?"  
+
+
+
+82
+Sub-question 1: "How many pencils are initially in the drawer?"
+Sub-question 2 (Parent node: Sub-question 1): "How many additional pencils did Sara place in the drawer?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of pencils after Sara added the additional pencils?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the sum of the initial pencils and the additional pencils?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the final count of pencils in the drawer?"
+
+
+
+83
+Sub-question 1: "What is the total amount of money Mike has in dollars?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the value of each five dollar bill in dollars?"
+Sub-question 3 (Parent node: Sub-question 1): "How do you calculate the number of five dollar bills from the total amount?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the result of dividing the total amount of money by the value of each five dollar bill?"
+Sub-question 5 (Parent node: Sub-question 4): "How many five dollar bills does Mike have?"
+
+
+
+84
+Sub-question 1: "How many total trout did Nancy and Joan catch?"
+Sub-question 2 (Parent node: Sub-question 1): "How many trout will each person get if they split the total equally?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the mathematical operation used to find the number of trout each person gets?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the final answer after performing the mathematical operation?"
+Sub-question 5 (Parent node: Sub-question 4): "How does the total number of trout relate to the number each person receives?"
+
+
+
+85
+Sub-question 1: "What is the total number of days in a week?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total number of hamburgers sold in the week?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the average number of hamburgers sold per day?"
+Sub-question 4 (Parent node: Sub-question 3): "How do you calculate the average number of hamburgers sold per day?"
+
+
+
+86
+Sub-question 1: "What is the total number of soccer games played during the season?"
+Sub-question 2 (Parent node: Sub-question 1): "How many months is the soccer season?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the formula for calculating the number of games per month?"
+Sub-question 4 (Parent node: Sub-question 2): "How do you perform the division of total games by the number of months?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the result of the division?"
+
+
+
+87
+Sub-question 1: "How many blue marbles does Fred have?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the ratio of Fred's blue marbles to Tim's blue marbles?"
+Sub-question 3 (Parent node: Sub-question 2): "How many blue marbles does Tim have based on the ratio?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the final answer for the number of blue marbles Tim has?"
+
+
+
+88
+Sub-question 1: "How many students are there at the school?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the capacity of each classroom?"
+Sub-question 3 (Parent node: Sub-question 1): "How many classrooms are required to accommodate the students?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the formula to calculate the number of classrooms needed?"
+Sub-question 5 (Parent node: Sub-question 3): "Are there any additional considerations (e.g., extra classrooms for future students)?"
+
+
+
+89
+Sub-question 1: "How many muffins are in one box of a dozen?"
+Sub-question 2 (Parent node: Sub-question 1): "How many dozens can Mike create from 96 muffins?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the whole number of boxes needed if the result of dozens is not a whole number?"
+Sub-question 4 (Parent node: Sub-question 2): "How many muffins will be left over after boxing them into dozens?"
+
+
+
+90
+Sub-question 1: "How many books can one shelf hold?"
+Sub-question 2 (Parent node: Sub-question 1): "How many total books does Jason have?"
+Sub-question 3 (Parent node: Sub-question 2): "How many shelves are needed to hold all of Jason's books?"
+Sub-question 4 (Parent node: Sub-question 3): "Is there a remainder of books after filling the shelves?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the total number of shelves needed, including any additional for the remainder?"
+
+
+
+91
+Sub-question 1: "How many crayons are in one pack?"
+Sub-question 2 (Parent node: Sub-question 1): "How many total crayons did Nancy buy?"
+Sub-question 3 (Parent node: Sub-question 2): "What mathematical operation can be used to find the number of packs?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the result of dividing the total number of crayons by the number of crayons in one pack?"
+Sub-question 5 (Parent node: Sub-question 4): "What does the result represent in terms of packs of crayons?"
+
+
+
+92
+Sub-question 1: "What is the amount Mary earns per home cleaned?"
+Sub-question 2 (Parent node: Sub-question 1): "How much total money did Mary make?"
+Sub-question 3 (Parent node: Sub-question 2): "What calculation needs to be performed to find the number of homes cleaned?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the final answer to how many homes Mary cleaned?"
+
+
+
+93
+Sub-question 1: "What is the total number of football games played in the season?"
+Sub-question 2 (Parent node: Sub-question 1): "How many months are there in the season?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the formula to calculate the games per month?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the result of dividing the total number of games by the number of months?"
+Sub-question 5 (Parent node: Sub-question 4): "What does the final answer represent in the context of the problem?"
+
+
+
+94
+Sub-question 1: "How many baseball cards does each person have?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many total baseball cards do all four people have?"  
+Sub-question 3 (Parent node: Sub-question 2): "How many packs of baseball cards are needed for the total number of baseball cards?"  
+Sub-question 4 (Parent node: Sub-question 3): "What is the total number of packs of baseball cards?"  
+
+
+
+95
+Sub-question 1: "How much does Sally earn per house cleaned?"
+Sub-question 2 (Parent node: Sub-question 1): "How many houses does Sally clean?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total amount Sally earns from cleaning?"
+Sub-question 4 (Parent node: Sub-question 3): "How many dollars does Sally earn in total?"
+Sub-question 5 (Parent node: Sub-question 4): "How many dozens of dollars does Sally make?"
+
+
+
+96
+Sub-question 1: "How many calories are in one candy bar?"
+Sub-question 2 (Parent node: Sub-question 1): "How many total calories are in 45 candy bars?"
+Sub-question 3 (Parent node: Sub-question 2): "How many calories are there in one dozen?"
+Sub-question 4 (Parent node: Sub-question 3): "How many dozen calories are in the total calories calculated in Sub-question 2?"
+
+
+
+97
+Sub-question 1: "How many total birds did Sara see?"  
+Sub-question 2 (Parent node: Sub-question 1): "What is the conversion factor from birds to dozens?"  
+Sub-question 3 (Parent node: Sub-question 2): "How do we calculate the total number of dozens from the total number of birds?"  
+Sub-question 4 (Parent node: Sub-question 3): "What is the final answer after performing the calculation?"  
+
+
+
+98
+Sub-question 1: "How many blue marbles does Melanie have?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many blue marbles does Sandy have if she has 8 times more than Melanie?"  
+Sub-question 3 (Parent node: Sub-question 2): "How many dozens are there in the number of blue marbles Sandy has?"  
+Sub-question 4 (Parent node: Sub-question 1): "What is the total number of blue marbles combined for Melanie and Sandy?"  
+
+
+
+99
+Sub-question 1: "What is the total number of golf balls Sara has?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many golf balls are in one dozen?"  
+Sub-question 3 (Parent node: Sub-question 2): "How do I calculate the number of dozens from the total number of golf balls?"  
+Sub-question 4 (Parent node: Sub-question 3): "What is the final result after performing the calculation?"  
+Sub-question 5 (Parent node: Sub-question 4): "Can I verify the result by multiplying the number of dozens by the number of balls per dozen?"  
+
+
+
+100
+Sub-question 1: "How many eggs did Keith buy in total?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the conversion factor between eggs and dozens?"
+Sub-question 3 (Parent node: Sub-question 2): "How many dozens are equivalent to the total number of eggs?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the final answer for the number of dozens of eggs Keith bought?"
+
+
+
+101
+Sub-question 1: "How many books does Mike have?"
+Sub-question 2 (Parent node: Sub-question 1): "How many books does Alyssa have in total?"
+Sub-question 3 (Parent node: Sub-question 2): "How many dozen books does Alyssa have?"
+
+
+
+102
+Sub-question 1: "How much money has Sara saved in cents?"
+Sub-question 2 (Parent node: Sub-question 1): "How many quarters are there in the total cents?"
+Sub-question 3 (Parent node: Sub-question 2): "How many dozen quarters are there in the total quarters?"
+Sub-question 4 (Parent node: Sub-question 1): "How many dollars are there in a quarter?"
+Sub-question 5 (Parent node: Sub-question 4): "How can we convert dollars to quarters?"
+
+
+
+103
+Sub-question 1: "How many baseball cards does each person have?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total number of baseball cards for all four people?"
+Sub-question 3 (Parent node: Sub-question 2): "How many dozen baseball cards are there in the total count?"
+
+
+
+104
+Sub-question 1: "How many Pokemon cards does Jason start with?"
+Sub-question 2 (Parent node: Sub-question 1): "How many Pokemon cards did Benny buy from Jason?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the operation to find the remaining Pokemon cards after the sale?"
+Sub-question 4 (Parent node: Sub-question 2): "If Jason loses cards when Benny buys them, how many does Jason have left?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the result of the operation applied to the initial number of cards and the number of cards sold?"
+
+
+
+105
+Sub-question 1: "How many orange marbles did Mike start with?"
+Sub-question 2 (Parent node: Sub-question 1): "How many orange marbles did Mike give to Sam?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the result of subtracting the marbles given to Sam from the marbles Mike started with?"
+Sub-question 4 (Parent node: Sub-question 3): "How many orange marbles does Mike have after giving some to Sam?"
+
+
+
+106
+Sub-question 1: "How many dimes did Joan have initially?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many dimes did Joan spend?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the new total of dimes after spending?"  
+Sub-question 4 (Parent node: Sub-question 3): "Is the new total of dimes a non-negative number?"  
+Sub-question 5 (Parent node: Sub-question 4): "What is the final count of dimes Joan has?"  
+
+
+
+107
+Sub-question 1: "How many rose bushes are currently in the park?"
+Sub-question 2 (Parent node: Sub-question 1): "How many rose bushes will be planted today?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of rose bushes after the new ones are planted?"
+
+
+
+108
+Sub-question 1: "How many watermelons did Sam initially grow?"
+Sub-question 2 (Parent node: Sub-question 1): "How many watermelons were eaten by the rabbits?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the difference between the initial number of watermelons and the number eaten by the rabbits?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the final count of watermelons Sam has left?"
+
+
+
+109
+Sub-question 1: "How many calories are in one candy bar?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total number of candy bars?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the formula to calculate total calories from the number of candy bars?"
+Sub-question 4 (Parent node: Sub-question 3): "How do you apply the formula using the number of candy bars and calories per bar?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final calculation result?"
+
+
+
+110
+Sub-question 1: "How many blue marbles does Dan have?"
+Sub-question 2 (Parent node: Sub-question 1): "How do you calculate the number of blue marbles Mary has based on Dan's marbles?"
+Sub-question 3 (Parent node: Sub-question 2): "What is 2 times the number of blue marbles Dan has?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the final answer for the number of blue marbles Mary has?"
+
+
+
+111
+Sub-question 1: "How many Pokemon cards did Jason have left after giving some to his friends?"
+Sub-question 2 (Parent node: Sub-question 1): "How many Pokemon cards did Jason give to his friends?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of Pokemon cards Jason had initially?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the relationship between the cards given away and the cards Jason has left?"
+Sub-question 5 (Parent node: Sub-question 3): "How can we calculate the initial number of Pokemon cards using the cards given away and the cards left?"
+
+
+
+112
+Sub-question 1: "How many nickels did Mary have initially?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many additional nickels did her dad give her?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of nickels Mary has now?"  
+Sub-question 4 (Parent node: Sub-question 3): "Is the calculation of the total number of nickels correct?"  
+
+
+
+113
+Sub-question 1: "How many baseball cards does each person have?"
+Sub-question 2 (Parent node: Sub-question 1): "How many people are there?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of baseball cards if each person has the same amount?"
+Sub-question 4 (Parent node: Sub-question 3): "How do you calculate the total number of baseball cards from the number of people and the number of cards each person has?"
+
+
+
+114
+Sub-question 1: "How many turnips did Keith grow?"
+Sub-question 2 (Parent node: Sub-question 1): "How many turnips did Alyssa grow?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of turnips grown by Keith and Alyssa?"
+
+
+
+
+115
+Sub-question 1: "How many children are there in the classroom?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many pencils does each child receive?"  
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of pencils needed for all children?"  
+Sub-question 4 (Parent node: Sub-question 2): "What is the total number of pencils received by one child multiplied by the number of children?"  
+Sub-question 5 (Parent node: Sub-question 3): "How can the total number of pencils be calculated based on the number of children and pencils per child?"  
+
+
+
+116
+Sub-question 1: "How many yellow marbles does Mary have?"
+Sub-question 2 (Parent node: Sub-question 1): "How many yellow marbles does Joan have?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of yellow marbles between Mary and Joan?"
+
+
+
+117
+Sub-question 1: "How many calories are in one candy bar?"
+Sub-question 2 (Parent node: Sub-question 1): "How many candy bars are being considered?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the formula to calculate the total calories based on the number of candy bars?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the final calculation to determine the total calories from the number of candy bars?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the answer in terms of total calories for the 3 candy bars?"
+
+
+
+118
+Sub-question 1: "What is the value of one quarter in cents?"
+Sub-question 2 (Parent node: Sub-question 1): "How many total quarters does Joan have?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total value in cents of the quarters Joan has?"
+
+
+
+119
+Sub-question 1: "What is the total number of students at the school?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the capacity of each classroom in terms of student numbers?"
+Sub-question 3 (Parent node: Sub-question 2): "How many classrooms are needed to accommodate all the students?"
+Sub-question 4 (Parent node: Sub-question 3): "Is the number of students perfectly divisible by the number of students per classroom?"
+Sub-question 5 (Parent node: Sub-question 3): "If not, how do we round up the number of classrooms needed?"
+
+
+
+120
+Sub-question 1: "What is the total number of basketball games played in the season?"
+Sub-question 2 (Parent node: Sub-question 1): "How many months are there in the season?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the calculation needed to determine the number of games per month?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the result of dividing the total number of games by the number of months?"
+Sub-question 5 (Parent node: Sub-question 4): "What does the result represent in the context of the basketball season?"
+
+
+
+121
+Sub-question 1: "How many baseball cards does each person have?"
+Sub-question 2 (Parent node: Sub-question 1): "How many people are there in total?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of baseball cards held by all the people?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the multiplication of the number of people by the number of cards each person has?"
+
+
+
+122
+Sub-question 1: "What is the total number of dozens of eggs Sally bought?"
+Sub-question 2 (Parent node: Sub-question 1): "How many eggs are there in one dozen?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of eggs Sally bought based on the number of dozens?"
+Sub-question 4 (Parent node: Sub-question 3): "Is the calculation of total eggs correct?"  
+Sub-question 5 (Parent node: Sub-question 4): "How many eggs did Sally actually use for baking?"
+
+
+
+123
+Sub-question 1: "How many students are there at the school?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the capacity of one classroom?"
+Sub-question 3 (Parent node: Sub-question 2): "How many classrooms are needed to accommodate all the students?"
+Sub-question 4 (Parent node: Sub-question 3): "Is there a need to round up the number of classrooms?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final number of classrooms required?"
+
+
+
+124
+Sub-question 1: "How many carrots did Sally grow?"
+Sub-question 2 (Parent node: Sub-question 1): "How many carrots did Fred grow?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of carrots grown by Sally and Fred?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the sum of the carrots grown by Sally and Fred?"
+
+
+
+
+125
+Sub-question 1: "How many blue marbles does Benny have?"
+Sub-question 2 (Parent node: Sub-question 1): "How many blue marbles does Keith have compared to Benny?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the multiplication factor of Keith's marbles compared to Benny's?"
+Sub-question 4 (Parent node: Sub-question 3): "How do you calculate the total number of blue marbles Keith has?"
+
+
+
+
+126
+Sub-question 1: "How much does Fred earn per hour?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many hours does Fred work?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the total amount Fred will earn?"  
+Sub-question 4 (Parent node: Sub-question 3): "How do you calculate the total earnings based on the hourly rate and hours worked?"  
+
+
+
+127
+Sub-question 1: "How many baseball cards does Fred initially have?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many baseball cards did Melanie buy from Fred?"  
+Sub-question 3 (Parent node: Sub-question 1): "What is the action taken by Melanie regarding Fred's baseball cards?"  
+Sub-question 4 (Parent node: Sub-question 2): "What is the result of Fred's baseball card count after Melanie's purchase?"  
+Sub-question 5 (Parent node: Sub-question 4): "What is Fred's final count of baseball cards?"  
+
+
+
+128
+Sub-question 1: "What is the total amount Nancy has saved in cents?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many cents are there in one dollar?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the result of converting the total cents to dollars?"  
+Sub-question 4 (Parent node: Sub-question 3): "What is the final amount of dollars Nancy has?"  
+
+
+
+129
+Sub-question 1: "What is the total number of soccer games in the season?"
+Sub-question 2 (Parent node: Sub-question 1): "How many months are there in the season?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the formula to calculate the number of games per month?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the calculation for the number of games per month based on total games and number of months?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final answer for the number of games played each month?"
+
+
+
+130
+Sub-question 1: "How many people are there in total for the lunch?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the price of each person's lunch?"
+Sub-question 3 (Parent node: Sub-question 1): "How much will the total bill be for all the lunches?"
+Sub-question 4 (Parent node: Sub-question 3): "Who is responsible for paying the total bill?"  
+Sub-question 5 (Parent node: Sub-question 3): "Will any discounts or additional charges apply to the total bill?"  
+
+
+
+131
+Sub-question 1: "How many trout did Melanie catch?"
+Sub-question 2 (Parent node: Sub-question 1): "How many trout does Tom catch compared to Melanie?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of trout Tom caught?"
+
+
+
+132
+Sub-question 1: "How many days did Tom spend at the beach?"
+Sub-question 2 (Parent node: Sub-question 1): "How many seashells did Tom find each day?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of seashells found during the entire trip?"
+
+
+
+133
+Sub-question 1: "How many days are there in a week?"
+Sub-question 2 (Parent node: Sub-question 1): "How many pies are sold each day?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of pies sold in one week?"
+
+
+
+134
+Sub-question 1: "How many five dollar bills does Nancy have?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the value of one five dollar bill?"
+Sub-question 3 (Parent node: Sub-question 2): "How do you calculate the total amount of money with multiple bills?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the final calculation to find out the total amount of money?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the interpretation of the final result?"
+
+
+
+135
+Sub-question 1: "How many black balloons does Nancy have?"
+Sub-question 2 (Parent node: Sub-question 1): "How many black balloons does Mary have compared to Nancy?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of black balloons Mary has based on the comparison?"
+Sub-question 4 (Parent node: Sub-question 3): "Is the calculated number of black balloons for Mary correct?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final answer for the number of black balloons Mary has?"
+
+
+
+136
+Sub-question 1: "How many people are there in total?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many pencils does each person have?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of pencils based on the number of people and pencils per person?"  
+Sub-question 4 (Parent node: Sub-question 3): "Is the total number of pencils calculated correctly?"  
+Sub-question 5 (Parent node: Sub-question 4): "What is the final answer for the total number of pencils?"  
+
+
+
+137
+Sub-question 1: "How many people are there in total?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many cards does each person have?"  
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of Pokemon cards for all people?"  
+Sub-question 4 (Parent node: Sub-question 2): "What is the result of multiplying the number of people by the number of cards each person has?"  
+Sub-question 5 (Parent node: Sub-question 3): "How can we confirm the total number of Pokemon cards calculated?"  
+
+
+
+138
+Sub-question 1: "How many books does Alyssa have?"
+Sub-question 2 (Parent node: Sub-question 1): "What is 7 times the number of books Alyssa has?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the final count of books Nancy has?"
+
+
+
+139
+Sub-question 1: "What is the quantity of golf balls in one dozen?"
+Sub-question 2 (Parent node: Sub-question 1): "How many golf balls are in 13 dozen?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the mathematical operation needed to calculate the total number of golf balls?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the final answer after performing the calculation?"
+
+
+
+140
+Sub-question 1: "How many hockey games are played in one month?"
+Sub-question 2 (Parent node: Sub-question 1): "How many months is the hockey season?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of hockey games over the entire season?"
+
+
+
+141
+Sub-question 1: "What is the quantity of eggs in one dozen?"
+Sub-question 2 (Parent node: Sub-question 1): "How many eggs are in 7 dozen?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of eggs Benny bought?"
+
+
+
+142
+Sub-question 1: "How many violet balloons does Dan have?"  
+Sub-question 2 (Parent node: Sub-question 1): "What is 7 times the number of violet balloons Dan has?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the mathematical expression used to determine Tim's balloons based on Dan's count?"  
+Sub-question 4 (Parent node: Sub-question 3): "What is the final count of violet balloons Tim has?"  
+
+
+
+143
+Sub-question 1: "What is the number of calories in one candy bar?"
+Sub-question 2 (Parent node: Sub-question 1): "How many candy bars are there?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of calories in multiple candy bars?"
+Sub-question 4 (Parent node: Sub-question 3): "How can the calories from each candy bar be summed to find the total?"
+
+
+
+144
+Sub-question 1: "How many cents is one quarter worth?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total value of 11 quarters in cents?"
+Sub-question 3 (Parent node: Sub-question 2): "How do I calculate the total value of the quarters?"
+Sub-question 4 (Parent node: Sub-question 3): "What multiplication operation do I need to perform for the calculation?"
+
+
+
+145
+Sub-question 1: "How many pencils does one child receive?"
+Sub-question 2 (Parent node: Sub-question 1): "How many pencils do 46 children receive in total?"
+Sub-question 3 (Parent node: Sub-question 1): "How many total dozens of pencils does each child receive?"
+Sub-question 4 (Parent node: Sub-question 3): "How many individual pencils are in a dozen?"
+Sub-question 5 (Parent node: Sub-question 2): "What is the total number of pencils given out?"
+
+
+
+146
+Sub-question 1: "How many quarters are there in a dozen?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the value of one quarter in dollars?"
+Sub-question 3 (Parent node: Sub-question 2): "How much money does Nancy have in total based on the number of quarters and the value of one quarter?"
+
+
+
+147
+Sub-question 1: "How many eggs are there in one dozen?"
+Sub-question 2 (Parent node: Sub-question 1): "How many eggs are there in 9 dozen?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of eggs Dan bought?"
+
+
+
+148
+Sub-question 1: "How many calories are there in one candy bar?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many calories are there in 4 dozen candy bars?"  
+Sub-question 3 (Parent node: Sub-question 2): "How many calories are there in 42 candy bars?"  
+Sub-question 4 (Parent node: Sub-question 3): "What formula can be used to calculate the total calories in multiple candy bars?"  
+Sub-question 5 (Parent node: Sub-question 4): "How do you apply the formula to find the total calories in 42 candy bars?"  
+
+
+
+149
+Sub-question 1: "How many books does Sandy have in total?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total number of books Fred has compared to Sandy?"
+Sub-question 3 (Parent node: Sub-question 2): "How do you calculate the number of books Fred has based on Sandy's total?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the final count of Fred's books?"
+Sub-question 5 (Parent node: Sub-question 1): "What is the relationship between Sandy's and Fred's number of books?"
+
+
+
+150
+Sub-question 1: "How many red marbles does Jessica have in total?"  
+Sub-question 2 (Parent node: Sub-question 1): "How do we calculate the number of red marbles Sandy has based on Jessica's total?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the multiplication factor to find out how many red marbles Sandy has compared to Jessica?"  
+Sub-question 4 (Parent node: Sub-question 3): "What is the final count of red marbles Sandy has after applying the multiplication factor?"  
+
+
+
+
+151
+Sub-question 1: "How many Pokemon cards does each person have?"  
+Sub-question 2 (Parent node: Sub-question 1): "What is the total number of Pokemon cards for all four people?"  
+Sub-question 3 (Parent node: Sub-question 2): "How many dozens of Pokemon cards are there in total?"  
+Sub-question 4 (Parent node: Sub-question 3): "How many individual Pokemon cards are there in a dozen?"  
+Sub-question 5 (Parent node: Sub-question 3): "What is the total number of Pokemon cards from the total dozens calculated?"  
+
+
+
+152
+Sub-question 1: "What is a dozen in numerical terms?"
+Sub-question 2 (Parent node: Sub-question 1): "How many birds does Sally see if she saw 1 dozen?"
+Sub-question 3 (Parent node: Sub-question 2): "What conclusion can be drawn about the total number of birds?"
+Sub-question 4 (Parent node: Sub-question 3): "Is the answer to the question a defined number of birds?"
+Sub-question 5 (Parent node: Sub-question 4): "How does this defined number relate to common knowledge about counting?"
+
+
+
+153
+Sub-question 1: "What is the total number of crayons they have together?"
+Sub-question 2 (Parent node: Sub-question 1): "How many people are sharing the crayons?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the method for dividing the crayons equally?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the result of dividing the total number of crayons by the number of people?"
+Sub-question 5 (Parent node: Sub-question 4): "How many crayons will each person get?"
+
+
+
+154
+Sub-question 1: "What is the total amount of the bill?"
+Sub-question 2 (Parent node: Sub-question 1): "How many people are splitting the bill?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the method for splitting the bill (equally)?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the calculation to determine how much each person pays?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final amount each person has to pay?"
+
+
+
+155
+Sub-question 1: "How many days are in a week?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total number of hamburgers sold in the week?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the formula to calculate the average per day?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the average number of hamburgers sold per day?"
+
+
+
+156
+Sub-question 1: "How many blue balloons does Sally have?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many blue balloons does Fred have if he has 3 times more than Sally?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the multiplication result of Sally's balloons and 3?"  
+Sub-question 4 (Parent node: Sub-question 2): "What is the final count of blue balloons Fred has?"  
+Sub-question 5 (Parent node: Sub-question 4): "Is the total count of Fred's balloons a whole number?"  
+
+
+
+157
+Sub-question 1: "How many baseball games are played in one month?"
+Sub-question 2 (Parent node: Sub-question 1): "How long is the season in months?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of games played in the entire season?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the method to calculate the total number of games?"
+
+
+
+158
+Sub-question 1: "What is the price of one gumball?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many gumballs is Melanie selling?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the total price for all gumballs Melanie is selling?"  
+Sub-question 4 (Parent node: Sub-question 3): "What is the total amount of money Melanie can get from selling the gumballs?"  
+Sub-question 5 (Parent node: Sub-question 4): "Is there any additional information needed to finalize the total amount?"  
+
+
+
+159
+Sub-question 1: "How many potatoes did Mary initially have in the garden?"
+Sub-question 2 (Parent node: Sub-question 1): "How many potatoes were eaten by the rabbits?"
+Sub-question 3 (Parent node: Sub-question 1): "What operation needs to be performed to find out how many potatoes Mary has after the rabbits ate some?"
+Sub-question 4 (Parent node: Sub-question 2): "How many potatoes does Mary have after subtracting the eaten potatoes from the initial amount?"
+
+
+
+160
+Sub-question 1: "How many total soccer games were there this year?"
+Sub-question 2 (Parent node: Sub-question 1): "How many soccer games did Jessica miss?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the relationship between total games and missed games?"
+Sub-question 4 (Parent node: Sub-question 2): "How can we calculate the number of games attended based on missed games?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the final number of games attended by Jessica?"
+
+
+
+161
+Sub-question 1: "How many oak trees are currently in the park?"
+Sub-question 2 (Parent node: Sub-question 1): "How many oak trees were cut down by the park workers?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the calculation to find the remaining number of oak trees?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the final number of oak trees left in the park after the cut down?"
+
+
+
+
+162
+Sub-question 1: "How many hamburgers were made for lunch?"
+Sub-question 2 (Parent node: Sub-question 1): "How many hamburgers were served during lunch?"
+Sub-question 3 (Parent node: Sub-question 1): "How many hamburgers were left over after serving?" 
+Sub-question 4 (Parent node: Sub-question 2): "What is the formula to calculate the number of leftover hamburgers?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the resulting number of leftover hamburgers?"
+
+
+
+163
+Sub-question 1: "How many crayons are initially in the drawer?"
+Sub-question 2 (Parent node: Sub-question 1): "How many crayons did Mary take out of the drawer?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of crayons after Mary took some out?"
+Sub-question 4 (Parent node: Sub-question 3): "Is the number of crayons after Mary took some out a positive value?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the final count of crayons in the drawer?"
+
+
+
+164
+Sub-question 1: "How many limes did Dan initially pick?"
+Sub-question 2 (Parent node: Sub-question 1): "How many limes did Dan give to Sara?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the calculation to determine how many limes Dan has after giving some to Sara?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the final number of limes Dan has now?"
+
+
+
+165
+Sub-question 1: "How many seashells did Dan find in total?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many of those seashells are broken?"  
+Sub-question 3 (Parent node: Sub-question 1): "What is the relationship between the total seashells and the broken seashells?"  
+Sub-question 4 (Parent node: Sub-question 2): "What calculation is needed to determine the unbroken seashells?"  
+Sub-question 5 (Parent node: Sub-question 3): "What is the final count of unbroken seashells?"  
+
+
+
+166
+Sub-question 1: "How many blue balloons did Joan initially have?"
+Sub-question 2 (Parent node: Sub-question 1): "How many blue balloons did Joan lose?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the calculation to find the remaining balloons?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the updated count of blue balloons after losing?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the final count of blue balloons Joan has now?"
+
+
+
+167
+Sub-question 1: "How many apples did Joan initially pick from the orchard?"
+Sub-question 2 (Parent node: Sub-question 1): "How many apples did Joan give to Melanie?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the amount of apples Joan has after giving some to Melanie?"
+
+
+
+168
+Sub-question 1: "How many violet balloons does Tom start with?"
+Sub-question 2 (Parent node: Sub-question 1): "How many violet balloons did Tom give to Fred?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the calculation to find out how many violet balloons Tom has after giving some away?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the result of the calculation from Sub-question 3?"
+Sub-question 5 (Parent node: Sub-question 4): "What does the final result represent in terms of the number of violet balloons Tom has left?"
+
+
+
+169
+Sub-question 1: "How many seashells did Fred initially have?"
+Sub-question 2 (Parent node: Sub-question 1): "How many seashells did Fred give to Jessica?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the calculation to find out how many seashells Fred has left after giving some to Jessica?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the final number of seashells Fred has after the transaction?"
+
+
+
+170
+Sub-question 1: "How many pumpkins did Sara grow initially?"
+Sub-question 2 (Parent node: Sub-question 1): "How many pumpkins were eaten by the rabbits?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the remaining number of pumpkins after subtracting the eaten pumpkins from the initial amount?"
+
+
+
+171
+Sub-question 1: "How many books did Joan start with?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many books did Joan sell during the yard sale?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of books Joan has after selling some?"  
+Sub-question 4 (Parent node: Sub-question 3): "Is the new total of books a positive number?"  
+Sub-question 5 (Parent node: Sub-question 4): "What is the final count of books Joan has now?"
+
+
+
+172
+Sub-question 1: "How many rulers are initially in the drawer?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many rulers did Tim take from the drawer?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the new total of rulers in the drawer after Tim took some?"  
+Sub-question 4 (Parent node: Sub-question 3): "Is the new total of rulers in the drawer a positive number?"  
+Sub-question 5 (Parent node: Sub-question 4): "What is the final count of rulers now in the drawer?"  
+
+
+
+173
+Sub-question 1: "How many half-dollars did Sandy receive on Saturday?"
+Sub-question 2 (Parent node: Sub-question 1): "How many half-dollars did Sandy receive on Sunday?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of half-dollars Sandy received over the weekend?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the total amount of money Sandy received in dollars?"
+
+
+
+
+174
+Sub-question 1: "How much money does Sam have from the 9 pennies?"
+Sub-question 2 (Parent node: Sub-question 1): "How much money does Sam have from the 7 quarters?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total amount of money Sam has from the pennies and quarters?"
+
+
+
+
+175
+Sub-question 1: "How many quarters did the tooth fairy leave Joan?"
+Sub-question 2 (Parent node: Sub-question 1): "How much money is contributed by the quarters?"
+Sub-question 3 (Parent node: Sub-question 1): "How many half-dollars did the tooth fairy leave Joan?"
+Sub-question 4 (Parent node: Sub-question 3): "How much money is contributed by the half-dollars?"
+Sub-question 5 (Parent node: Sub-question 1): "How many dimes did the tooth fairy leave Joan?"
+
+
+
+176
+Sub-question 1: "How many quarters did Alyssa find?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total value of the quarters found by Alyssa?"
+Sub-question 3 (Parent node: Sub-question 1): "How many pennies did Alyssa find?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the total value of the pennies found by Alyssa?"
+Sub-question 5 (Parent node: Sub-question 2, Sub-question 4): "What is the total amount of money Alyssa has from both quarters and pennies?"
+
+
+
+177
+Sub-question 1: "How much did Joan spend on Wednesday playing pinball?"  
+Sub-question 2 (Parent node: Sub-question 1): "How much did Joan spend on Thursday playing pinball?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the total amount spent by Joan on both days?"  
+
+
+
+178
+Sub-question 1: "How much money did Tim earn from shining shoes?"  
+Sub-question 2 (Parent node: Sub-question 1): "How much money is there in 3 nickels and 13 dimes?"  
+Sub-question 3 (Parent node: Sub-question 1): "How much money is there in 7 dimes and 9 half-dollars from the tip jar?"  
+Sub-question 4 (Parent node: Sub-question 2): "What is the total value of the 3 nickels?"  
+Sub-question 5 (Parent node: Sub-question 3): "What is the total value of the 9 half-dollars?"  
+
+
+
+179
+Sub-question 1: "How much money did Sam spend on ice cream?"
+Sub-question 2 (Parent node: Sub-question 1): "How much money did Sam spend on baseball cards?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total amount Sam spent on both ice cream and baseball cards?"
+
+
+
+180
+Sub-question 1: "What is the price of the basketball game?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the price of the racing game?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total amount spent on both games?"
+Sub-question 4 (Parent node: Sub-question 3): "Is there a need to calculate the total amount using the prices of the individual games?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the final answer for the total spent on video games?"
+
+
+
+181
+Sub-question 1: "What is the cost of the trumpet?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the cost of the song book?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total cost of the trumpet and song book?"  
+Sub-question 4 (Parent node: Sub-question 3): "How much did Mike spend at the music store?"
+
+
+
+182
+Sub-question 1: "How much did Alyssa spend on the football?"  
+Sub-question 2 (Parent node: Sub-question 1): "How much did Alyssa spend on the marbles?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the total amount spent by Alyssa on toys?"  
+Sub-question 4 (Parent node: Sub-question 3): "What is the final answer representing the total expenditure on toys?"  
+
+
+
+
+183
+Sub-question 1: "What is the total cost of the 4 packs of Digimon cards?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the cost of one pack of Digimon cards?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total cost of the deck of baseball cards?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the cost of the deck of baseball cards?"
+Sub-question 5 (Parent node: Sub-question 1): "What is the overall total spent on all cards?"
+
+
+
+184
+Sub-question 1: "What is the cost of the cat toy?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the cost of the cage?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total cost of Jessica's purchases?"
+
+
+
+
+185
+Sub-question 1: "What is the cost of the hotdog?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the cost of the salad?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total cost of the hotdog and salad?"
+
+
+
+186
+Sub-question 1: "How much did Jason spend on shorts?"  
+Sub-question 2 (Parent node: Sub-question 1): "How much did Jason spend on a jacket?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the total amount spent on clothing?"  
+Sub-question 4 (Parent node: Sub-question 3): "Did Jason buy any other clothing items?"  
+Sub-question 5 (Parent node: Sub-question 3): "Is there a need to verify the total amount for accuracy?"  
+
+
+
+187
+Sub-question 1: "What is the cost of grapes that Alyssa paid?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the cost of cherries that Alyssa paid?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total amount Alyssa spent on fruits?"
+Sub-question 4 (Parent node: Sub-question 3): "What are the two amounts that need to be added together to find the total?"
+
+
+
+188
+Sub-question 1: "What is the cost of berries?"  
+Sub-question 2 (Parent node: Sub-question 1): "What is the cost of apples?"  
+Sub-question 3 (Parent node: Sub-question 1): "What is the cost of peaches?"  
+Sub-question 4 (Parent node: Sub-question 2): "What is the total cost of the fruits?"  
+Sub-question 5 (Parent node: Sub-question 4): "Did Mary spend more than $30?"  
+
+
+
+189
+Sub-question 1: "What are the total amounts Sandy spent on each clothing item?"
+Sub-question 2 (Parent node: Sub-question 1): "How much did Sandy spend on shorts?"
+Sub-question 3 (Parent node: Sub-question 1): "How much did Sandy spend on a shirt?"
+Sub-question 4 (Parent node: Sub-question 1): "How much did Sandy spend on a jacket?"
+Sub-question 5 (Parent node: Sub-question 1): "What is the total amount spent by Sandy on all clothing items?"
+
+
+
+190
+Sub-question 1: "What items did Jason buy at the music store?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the price of each item Jason bought?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total cost of the items Jason bought?"
+Sub-question 4 (Parent node: Sub-question 3): "Did Jason buy any additional items?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final total amount Jason spent at the music store?"
+
+
+
+191
+Sub-question 1: "What is the price of the football game?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the price of the strategy game?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the price of the Batman game?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the total cost of all video games?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the total amount Tom spent on video games?"
+
+
+
+192
+Sub-question 1: "What is the total cost of the two packs of football cards?"  
+Sub-question 2 (Parent node: Sub-question 1): "What is the total cost of the Pokemon card pack?"  
+Sub-question 3 (Parent node: Sub-question 1): "What is the cost of the baseball card deck?"  
+Sub-question 4 (Parent node: Sub-question 2): "What is the total amount spent on all card purchases?"  
+Sub-question 5 (Parent node: Sub-question 4): "What is the overall total Fred spent on cards?"  
+
+
+
+193
+Sub-question 1: "What is the total cost of the movie tickets?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total cost of renting the movie?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total cost of buying the movie?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the overall total spent on all movie-related expenses?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the overall total spent on all movie-related expenses?"
+
+
+
+194
+Sub-question 1: "What is the cost of the marbles?"  
+Sub-question 2 (Parent node: Sub-question 1): "What is the cost of the football?"  
+Sub-question 3 (Parent node: Sub-question 1): "What is the cost of the baseball?"  
+Sub-question 4 (Parent node: Sub-question 2): "What is the total cost of all toys?"  
+Sub-question 5 (Parent node: Sub-question 4): "How much did Mike spend on toys in total?"  
+
+
+
+195
+Sub-question 1: "How much did Joan spend in total on the cat toy and the cage?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total amount spent by Joan on purchases?"
+Sub-question 3 (Parent node: Sub-question 2): "How much change does Joan receive from a $20 bill after her total spending?"
+
+
+
+
+196
+Sub-question 1: "What is the total cost of the toys Sandy bought?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total amount paid to Sandy for the toys?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the amount of change Sandy received after paying with the $20 bill?"
+
+
+
+197
+Sub-question 1: "What is the initial amount of cargo the ship holds?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the amount of cargo added to the ship in the Bahamas?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total amount of cargo on the ship after loading the additional cargo?"
+Sub-question 4 (Parent node: Sub-question 2): "How do you calculate the total cargo after adding the new cargo?"
+
+
+
+198
+Sub-question 1: "How many ear muffs were bought before December?"
+Sub-question 2 (Parent node: Sub-question 1): "How many ear muffs were bought during December?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of ear muffs bought by customers?"
+Sub-question 4 (Parent node: Sub-question 3): "Are there any ear muffs left after these purchases?"  
+Sub-question 5 (Parent node: Sub-question 4): "What conclusion can be drawn from the total purchases and the inventory status?"  
+
+
+
+199
+Sub-question 1: "What was the amount of honey Diane harvested last year?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the amount of honey Diane increased her harvest by this year?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total amount of honey harvested by Diane this year?"
+Sub-question 4 (Parent node: Sub-question 2): "How do we calculate the total amount of honey harvested this year?"
+
+
+
+200
+Sub-question 1: "How much oil leaked initially before repairs began?"
+Sub-question 2 (Parent node: Sub-question 1): "How much oil leaked while the engineers were working?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total amount of oil that leaked into the water?"
+
+
+
+201
+Sub-question 1: "What is the total number of cars produced in North America?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total number of cars produced in Europe?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the sum of the cars produced in North America and Europe?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the final total of all cars produced?"
+
+
+
+202
+Sub-question 1: "What is the amount of money in Abe's checking account?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the amount of money in Abe's savings account?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total amount of money in Abe's accounts?"
+Sub-question 4 (Parent node: Sub-question 3): "How do you calculate the total amount of money from both accounts?"
+
+
+
+203
+Sub-question 1: "What is the total number of books in Oak Grove's public library?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total number of books in Oak Grove's school libraries?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the overall total number of books in both the public and school libraries?"
+Sub-question 4 (Parent node: Sub-question 3): "How can the totals from the public and school libraries be combined to find the overall total?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final answer to the question of how many books the libraries in Oak Grove have overall?"
+
+
+
+204
+Sub-question 1: "What is the current number of houses in Lincoln County after the housing boom?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the original number of houses in Lincoln County?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the number of new houses built during the housing boom?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the numerical value of the original number of houses?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the numerical value of the new houses built?"
+
+
+
+205
+Sub-question 1: "What is the expected number of bushels the farmer estimates to harvest?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the additional number of bushels harvested beyond the expected amount?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of bushels harvested by the farmer?"
+
+
+
+
+206
+Sub-question 1: "What is the amount that was in the account before the transfer?"  
+Sub-question 2 (Parent node: Sub-question 1): "What is the amount transferred out of the account?"  
+Sub-question 3 (Parent node: Sub-question 1): "What is the remaining amount in the account after the transfer?"  
+Sub-question 4 (Parent node: Sub-question 2): "How do you calculate the initial amount in the account using the transferred amount and the remaining amount?"  
+Sub-question 5 (Parent node: Sub-question 3): "How do you verify the calculation of the initial amount based on the transferred and remaining amounts?"  
+
+
+
+207
+Sub-question 1: "How many passengers landed on time last year at Newberg's airport?"
+Sub-question 2 (Parent node: Sub-question 1): "How many passengers landed late last year at Newberg's airport?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of passengers that landed at Newberg's airport last year?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the sum of passengers that landed on time and those that landed late?"
+
+
+
+208
+Sub-question 1: "What is the total number of acres covered by the dust storm and those that remain untouched?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total acreage of the prairie?"
+Sub-question 3 (Parent node: Sub-question 2): "How do you calculate the total acreage by combining the covered and untouched acres?"
+
+
+
+209
+Sub-question 1: "How many ladybugs with spots are there?"
+Sub-question 2 (Parent node: Sub-question 1): "How many ladybugs without spots are there?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of ladybugs?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the sum of ladybugs with spots and ladybugs without spots?"
+
+
+
+210
+Sub-question 1: "How many people were born last year in the country?"
+Sub-question 2 (Parent node: Sub-question 1): "How many people immigrated to the country last year?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of new people (born + immigrated) who began living in the country last year?"
+
+
+
+211
+Sub-question 1: "How many tons of grain are initially on the ship before the crash?"  
+Sub-question 2 (Parent node: Sub-question 1): "How much grain has spilled into the water after the crash?"  
+Sub-question 3 (Parent node: Sub-question 1): "How much grain remains on the ship after the crash?"  
+Sub-question 4 (Parent node: Sub-question 2): "What is the total amount of grain onboard and spilled after the crash?"  
+Sub-question 5 (Parent node: Sub-question 4): "What is the original total amount of grain in tons before the crash?"  
+
+
+
+212
+Sub-question 1: "What is the total amount of silk dyed (in yards)?"
+Sub-question 2 (Parent node: Sub-question 1): "How much green silk was dyed?"
+Sub-question 3 (Parent node: Sub-question 1): "How much pink silk was dyed?"
+Sub-question 4 (Parent node: Sub-question 2): "What mathematical operation is needed to combine the amounts of silk?"
+Sub-question 5 (Parent node: Sub-question 3): "What mathematical operation is needed to combine the amounts of silk?"
+
+
+
+213
+Sub-question 1: "What is the total number of part-time employees in the corporation?"  
+Sub-question 2 (Parent node: Sub-question 1): "What is the total number of full-time employees in the corporation?"  
+Sub-question 3 (Parent node: Sub-question 1): "What is the sum of part-time and full-time employees?"  
+Sub-question 4 (Parent node: Sub-question 3): "What is the final total number of employees working for the corporation?"  
+
+
+
+214
+Sub-question 1: "How many bathing suits are available for men?"  
+Sub-question 2 (Parent node: Sub-question 1): "What is the total supply of bathing suits?"  
+Sub-question 3 (Parent node: Sub-question 2): "How many bathing suits are available for women?"  
+Sub-question 4 (Parent node: Sub-question 3): "What is the overall total of all bathing suits?"  
+
+
+
+215
+Sub-question 1: "What is the total number of blood cells in both samples?"  
+Sub-question 2 (Parent node: Sub-question 1): "What is the number of blood cells in the first sample?"  
+Sub-question 3 (Parent node: Sub-question 1): "How many blood cells are in the second sample?"  
+Sub-question 4 (Parent node: Sub-question 2): "How do you calculate the number of blood cells in the second sample using the information from the first sample?"  
+
+
+
+216
+Sub-question 1: "What is the total combined weight of fresh and frozen fruit sold this season?"
+Sub-question 2 (Parent node: Sub-question 1): "How much frozen fruit has been sold?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the formula to calculate the weight of fresh fruit sold?"
+Sub-question 4 (Parent node: Sub-question 3): "How do I apply the formula using the values obtained from Sub-question 1 and Sub-question 2?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final amount of fresh fruit sold?"
+
+
+
+217
+Sub-question 1: "What is the total cost of the dictionary, dinosaur book, and children's cookbook?"
+Sub-question 2 (Parent node: Sub-question 1): "How much money does Jonathan currently have saved?"
+Sub-question 3 (Parent node: Sub-question 2): "How much more money does Jonathan need to buy all three books?"
+
+
+
+218
+Sub-question 1: "What is Dana's hourly wage?"
+Sub-question 2 (Parent node: Sub-question 1): "How many hours did Dana work in total over the weekend?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total earnings for Dana based on the total hours worked and her hourly wage?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the breakdown of hours worked on each day (Friday, Saturday, Sunday)?"  
+Sub-question 5 (Parent node: Sub-question 3): "What are the components of Dana's total earnings calculation?"
+
+
+
+219
+Sub-question 1: "How much money did Tanner save in total from September to November?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total amount Tanner saved?"
+Sub-question 3 (Parent node: Sub-question 1): "How much did Tanner spend on the video game?"
+Sub-question 4 (Parent node: Sub-question 2): "How much money does Tanner have left after spending on the video game?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the final amount of money Tanner has after savings and spending?"
+
+
+
+220
+Sub-question 1: "How many stickers did Mika have after buying and receiving new stickers?"
+Sub-question 2 (Parent node: Sub-question 1): "How many stickers did Mika give to her sister?"
+Sub-question 3 (Parent node: Sub-question 1): "How many stickers did Mika use to decorate the greeting card?"
+Sub-question 4 (Parent node: Sub-question 2): "How many stickers does Mika have left after giving some to her sister?"
+Sub-question 5 (Parent node: Sub-question 3): "How many stickers does Mika have left after using some to decorate the greeting card?"
+
+
+
+221
+Sub-question 1: "How many coins did Kylie collect in total from her piggy bank, her brother, and her father?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total number of coins Kylie had before giving any to her friend?"
+Sub-question 3 (Parent node: Sub-question 2): "How many coins did Kylie give to her friend Laura?"
+Sub-question 4 (Parent node: Sub-question 2): "How many coins does Kylie have left after giving coins to her friend?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final count of coins Kylie has after all transactions?"
+
+
+
+222
+Sub-question 1: "How many total plates does Justin currently have?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many more plates does Justin need to reach 61?"  
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of blue plates Justin has?"  
+Sub-question 4 (Parent node: Sub-question 1): "What is the total number of red plates Justin has?"  
+Sub-question 5 (Parent node: Sub-question 2): "How many plates should Justin buy to meet the total needed?"
+
+
+
+223
+Sub-question 1: "How much money did Mark initially have?"  
+Sub-question 2 (Parent node: Sub-question 1): "How much did Mark spend on the books?"  
+Sub-question 3 (Parent node: Sub-question 2): "How many books did Mark buy?"  
+Sub-question 4 (Parent node: Sub-question 2): "What is the cost of each book?"  
+Sub-question 5 (Parent node: Sub-question 1): "How much money does Mark have left after buying the books?"  
+
+
+
+224
+Sub-question 1: "How much money did Elise have after saving her allowance?"
+Sub-question 2 (Parent node: Sub-question 1): "How much money did Elise spend on the comic book and puzzle?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total amount spent on the comic book and puzzle?"
+Sub-question 4 (Parent node: Sub-question 1): "How much money does Elise have left after her expenditures?"
+
+
+
+225
+Sub-question 1: "How many stickers does Luke have after buying and receiving stickers?"
+Sub-question 2 (Parent node: Sub-question 1): "How many stickers did Luke give to his sister?"
+Sub-question 3 (Parent node: Sub-question 1): "How many stickers did Luke use to decorate a greeting card?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the total number of stickers Luke has left after giving some to his sister?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the total number of stickers Luke has left after using some for the greeting card?"
+
+
+
+226
+Sub-question 1: "How much money did Johnny save in total over the three months (September, October, and November)?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total amount of money Johnny has after his savings?"
+Sub-question 3 (Parent node: Sub-question 2): "How much money did Johnny spend on the video game?"
+Sub-question 4 (Parent node: Sub-question 2): "How much money does Johnny have left after his spending?"
+
+
+
+227
+Sub-question 1: "How many books did Vincent buy in total?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total cost of the books?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the cost per book?"
+
+
+
+228
+Sub-question 1: "How many wheels does each type of vehicle have (bicycles and tricycles)?"
+Sub-question 2 (Parent node: Sub-question 1): "How many wheels are there from the bicycles?"
+Sub-question 3 (Parent node: Sub-question 1): "How many wheels are there from the tricycles?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the total number of wheels from bicycles?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the total number of wheels from tricycles?"
+
+
+
+229
+Sub-question 1: "How much money did Paula spend on 2 shirts?"
+Sub-question 2 (Parent node: Sub-question 1): "How much money did Paula spend on a pair of pants?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total amount Paula spent on shirts and pants?"
+Sub-question 4 (Parent node: Sub-question 3): "How much money does Paula have left after her purchases?"
+
+
+
+230
+Sub-question 1: "How many cans of cat food did Adam buy in total?"
+Sub-question 2 (Parent node: Sub-question 1): "How many cans of dog food did Adam buy in total?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the difference between the total cans of cat food and dog food?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the total number of cans in each package of dog food?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the final answer to how many more cans of cat food than dog food Adam bought?"
+
+
+
+231
+Sub-question 1: "What is the total cost of riding the Ferris wheel, the roller coaster, and the log ride in tickets?"
+Sub-question 2 (Parent node: Sub-question 1): "How many tickets does Zach currently have?"
+Sub-question 3 (Parent node: Sub-question 1): "How many tickets does Zach need to buy to cover the total cost?"
+Sub-question 4 (Parent node: Sub-question 3): "Is the number of tickets Zach needs to buy greater than zero?"
+
+
+
+232
+Sub-question 1: "How many cupcakes does Randy currently have?"  
+Sub-question 2 (Parent node: Sub-question 1): "What is the total number of cupcakes Randy needs?"  
+Sub-question 3 (Parent node: Sub-question 2): "How many more cupcakes does Randy need to buy?"  
+Sub-question 4 (Parent node: Sub-question 3): "What types of cupcakes does Randy want to buy, if any?"  
+
+
+
+233
+Sub-question 1: "How many packs of bouncy balls did Maggie buy in total?"
+Sub-question 2 (Parent node: Sub-question 1): "How many bouncy balls are there in each pack?"
+Sub-question 3 (Parent node: Sub-question 1): "How many total bouncy balls did Maggie buy from each color?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the sum of all the bouncy balls from each color?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the total number of bouncy balls Maggie bought?"
+
+
+
+234
+Sub-question 1: "What is the car's fuel efficiency in miles per gallon?"
+Sub-question 2 (Parent node: Sub-question 1): "How many gallons of gas do I have?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total distance I can drive with the available gallons of gas?"
+Sub-question 4 (Parent node: Sub-question 3): "How do I calculate the distance based on fuel efficiency and gallons of gas?"  
+Sub-question 5 (Parent node: Sub-question 4): "What is the final distance I can drive?"
+
+
+
+235
+Sub-question 1: "How many children are taking the bus?"
+Sub-question 2 (Parent node: Sub-question 1): "How many children can sit in one seat?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of seats needed for all the children?"
+Sub-question 4 (Parent node: Sub-question 2): "What calculation is required to find the total number of seats needed?"
+Sub-question 5 (Parent node: Sub-question 3): "Is there a need for an extra seat if there's an odd number of children?"
+
+
+
+236
+Sub-question 1: "How many guests are coming to the party?"
+Sub-question 2 (Parent node: Sub-question 1): "How many guests can fit at each table?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of tables needed based on the number of guests and the capacity of each table?"
+Sub-question 4 (Parent node: Sub-question 3): "Do I need to round up the total number of tables if there are any remaining guests after filling the tables?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final number of tables required for the party?"
+
+
+
+237
+Sub-question 1: "How much does each chair cost?"
+Sub-question 2 (Parent node: Sub-question 1): "How many chairs did Ellen buy?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total cost based on the price per chair and the number of chairs?"
+
+
+
+238
+Sub-question 1: "What is the length of Oscar's bus ride?"  
+Sub-question 2 (Parent node: Sub-question 1): "What is the length of Charlie's bus ride?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the difference in length between Oscar's and Charlie's bus rides?"  
+Sub-question 4 (Parent node: Sub-question 3): "How do we express the difference in a meaningful way (e.g., in miles)?"  
+
+
+
+239
+Sub-question 1: "What distance did Kendall drive with her mother?"
+Sub-question 2 (Parent node: Sub-question 1): "What distance did Kendall drive with her father?"
+Sub-question 3 (Parent node: Sub-question 1): "What total distance did Kendall drive in all?"  
+Sub-question 4 (Parent node: Sub-question 3): "How do you add the distances driven with her mother and father?"  
+Sub-question 5 (Parent node: Sub-question 4): "What is the final distance after adding the two distances?"  
+
+
+
+240
+Sub-question 1: "What is the amount cut off from the skirt?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the amount cut off from the pants?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the difference between the amount cut off from the skirt and the amount cut off from the pants?"
+
+
+
+241
+Sub-question 1: "What fraction of the garments are bikinis?"  
+Sub-question 2 (Parent node: Sub-question 1): "What fraction of the garments are trunks?"  
+Sub-question 3 (Parent node: Sub-question 1): "What is the total fraction of the garments that are either bikinis or trunks?"
+
+
+
+242
+Sub-question 1: "What distance did Darnel sprint in laps?"
+Sub-question 2 (Parent node: Sub-question 1): "What distance did Darnel jog in laps?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the difference in distance between the sprint and the jog?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the final answer to how much farther Darnel sprinted than jogged?"
+
+
+
+243
+Sub-question 1: "What is the length of the first fish?"  
+Sub-question 2 (Parent node: Sub-question 1): "What is the length of the second fish?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the difference in length between the first fish and the second fish?"  
+Sub-question 4 (Parent node: Sub-question 3): "Is the first fish longer than the second fish?"  
+Sub-question 5 (Parent node: Sub-question 4): "What is the exact length difference between the two fish?"  
+
+
+
+244
+Sub-question 1: "What is the weight of green peppers purchased by Hannah's Vegetarian Restaurant?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the weight of red peppers purchased by Hannah's Vegetarian Restaurant?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total weight of peppers bought by Hannah's Vegetarian Restaurant?"
+
+
+
+245
+Sub-question 1: "What is the amount of dog food each dog eats in a day?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total amount of dog food consumed by both dogs in a day?"
+Sub-question 3 (Parent node: Sub-question 2): "How many dogs are there?"
+Sub-question 4 (Parent node: Sub-question 2): "Is the amount of food each dog eats the same?"
+Sub-question 5 (Parent node: Sub-question 2): "What is the daily food requirement per dog?"
+
+
+
+246
+Sub-question 1: "What is the initial amount of water in the bucket?"  
+Sub-question 2 (Parent node: Sub-question 1): "How much water was poured out of the bucket?"  
+Sub-question 3 (Parent node: Sub-question 1): "What operation needs to be performed to find the remaining water?"  
+Sub-question 4 (Parent node: Sub-question 3): "What is the result of the operation to calculate the remaining water?"  
+Sub-question 5 (Parent node: Sub-question 4): "What is the final amount of water left in the bucket?"  
+
+
+
+247
+Sub-question 1: "What is the amount of cinnamon used by Mandy in tablespoons?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the amount of nutmeg used by Mandy in tablespoons?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the difference between the amount of cinnamon and the amount of nutmeg used?"
+Sub-question 4 (Parent node: Sub-question 3): "Is the difference between the cinnamon and nutmeg positive, negative, or zero?"
+
+
+
+248
+Sub-question 1: "What fraction of the budget is spent on groceries?"
+Sub-question 2 (Parent node: Sub-question 1): "What fraction of the budget is spent on going out to eat?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total fraction of the budget spent on food?"
+Sub-question 4 (Parent node: Sub-question 3): "Is the total fraction spent on food less than, equal to, or greater than 1?"
+
+
+
+249
+Sub-question 1: "What fraction of students received A's?"  
+Sub-question 2 (Parent node: Sub-question 1): "What fraction of students received B's?"  
+Sub-question 3 (Parent node: Sub-question 1): "What is the total fraction of students receiving A's and B's?"  
+Sub-question 4 (Parent node: Sub-question 3): "Is the total fraction less than or equal to 1?"  
+Sub-question 5 (Parent node: Sub-question 3): "What is the simplified fraction of students that received either A's or B's?"  
+
+
+
+250
+Sub-question 1: "What is the amount of wheat bread served?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the amount of white bread served?"
+Sub-question 3 (Parent node: Sub-question 2): "How do I calculate the total amount of loaves served?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the final total of loaves served?"
+
+
+
+251
+Sub-question 1: "What amounts of flour and sugar did Dina use?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the numerical value of the flour used?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the numerical value of the sugar used?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the difference between the amount of flour and the amount of sugar used?"
+Sub-question 5 (Parent node: Sub-question 4): "Is the difference calculated in terms of cups?"
+
+
+
+252
+Sub-question 1: "What is the amount of fish the polar bear eats from trout daily?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the amount of fish the polar bear eats from salmon daily?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total amount of fish eaten by the polar bear from both trout and salmon?"
+Sub-question 4 (Parent node: Sub-question 3): "How do you calculate the total amount of fish eaten from both types?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the significance of understanding the individual amounts of trout and salmon consumed?"
+
+
+
+253
+Sub-question 1: "What fraction of the students are in the trumpet section?"
+Sub-question 2 (Parent node: Sub-question 1): "What fraction of the students are in the trombone section?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the combined fraction of students in both the trumpet and trombone sections?"
+Sub-question 4 (Parent node: Sub-question 3): "Is there any overlap between the trumpet and trombone sections?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the final fraction of students in either the trumpet or trombone sections?"
+
+
+
+254
+Sub-question 1: "What are the lengths of the two worms?"  
+Sub-question 2 (Parent node: Sub-question 1): "Which worm is longer?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the length of the longer worm?"  
+Sub-question 4 (Parent node: Sub-question 2): "What is the length of the shorter worm?"  
+Sub-question 5 (Parent node: Sub-question 3): "How much longer is the longer worm compared to the shorter worm?"  
+
+
+
+255
+Sub-question 1: "What is the weight of the melon used in the fruit salad?"  
+Sub-question 2 (Parent node: Sub-question 1): "What is the weight of the berries used in the fruit salad?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the total weight of the fruit used in the salad?"  
+Sub-question 4 (Parent node: Sub-question 3): "Is the total weight calculated correctly?"  
+
+
+
+256
+Sub-question 1: "What is the distance of Vince's bus ride in miles?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the distance of Zachary's bus ride in miles?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the difference in distance between Vince's and Zachary's bus rides?"
+Sub-question 4 (Parent node: Sub-question 3): "Is the result of the difference a positive value?"
+Sub-question 5 (Parent node: Sub-question 4): "What does the positive value represent in terms of distance?"
+
+
+
+257
+Sub-question 1: "What amount of hair was cut off during the first visit to the salon?"
+Sub-question 2 (Parent node: Sub-question 1): "What amount of hair was cut off during the second visit to the salon?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total amount of hair cut off after both visits?"
+Sub-question 4 (Parent node: Sub-question 3): "How can the total amount of hair cut off be calculated?"
+
+
+
+258
+Sub-question 1: "What is the fraction of one-bedroom apartments in Shannon's apartment complex?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the fraction of two-bedroom apartments in Shannon's apartment complex?"
+Sub-question 3 (Parent node: Sub-question 1): "What method is used to combine the fractions of one-bedroom and two-bedroom apartments?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the final combined fraction of one- and two-bedroom apartments?"
+
+
+
+259
+Sub-question 1: "What was the amount of baking powder Kelly had yesterday?"  
+Sub-question 2 (Parent node: Sub-question 1): "What is the current amount of baking powder Kelly has?"  
+Sub-question 3 (Parent node: Sub-question 1): "What is the difference in the amounts of baking powder Kelly had yesterday and what she has now?"  
+Sub-question 4 (Parent node: Sub-question 3): "How can the difference be calculated between the amounts?"  
+Sub-question 5 (Parent node: Sub-question 2): "What does the amount represent in terms of baking powder supply?"  
+
+
+
+260
+Sub-question 1: "What is the amount of corn harvested by Greg in acres?"  
+Sub-question 2 (Parent node: Sub-question 1): "What is the amount of corn harvested by Sharon in acres?"  
+Sub-question 3 (Parent node: Sub-question 1): "What is the difference in corn harvested between Greg and Sharon in acres?"  
+Sub-question 4 (Parent node: Sub-question 3): "Is the difference positive, negative, or zero?"  
+Sub-question 5 (Parent node: Sub-question 3): "What is the numerical value of the difference in acres?"  
+
+
+
+261
+Sub-question 1: "What is the total fraction of nails that are size 2d and size 4d combined?"  
+Sub-question 2 (Parent node: Sub-question 1): "What fraction of the nails are size 2d?"  
+Sub-question 3 (Parent node: Sub-question 1): "What fraction of the nails are size 4d?"  
+Sub-question 4 (Parent node: Sub-question 1): "Is there any overlap between size 2d and size 4d nails?"  
+Sub-question 5 (Parent node: Sub-question 1): "What fraction of the nails are either size 2d or 4d?"  
+
+
+
+262
+Sub-question 1: "What amount of brown sugar did Victor use?"
+Sub-question 2 (Parent node: Sub-question 1): "What amount of white sugar did Victor use?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the difference between the amount of brown sugar and white sugar used?"
+Sub-question 4 (Parent node: Sub-question 3): "How much more brown sugar did Victor use than white sugar?"
+
+
+
+263
+Sub-question 1: "What is the distance Eve ran?"  
+Sub-question 2 (Parent node: Sub-question 1): "What is the distance Eve walked?"  
+Sub-question 3 (Parent node: Sub-question 1): "What is the difference between the distance Eve ran and the distance she walked?"  
+Sub-question 4 (Parent node: Sub-question 3): "Is the distance Eve ran greater than the distance she walked?"  
+Sub-question 5 (Parent node: Sub-question 3): "How much farther did Eve run than she walked?"  
+
+
+
+264
+Sub-question 1: "What is the amount of yellow raisins added by Jonah?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the amount of black raisins added by Jonah?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the method to combine the amounts of yellow and black raisins?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the total amount of raisins added by Jonah in cups?"
+
+
+
+265
+Sub-question 1: "How much food did Jake serve to one cat each day?"  
+Sub-question 2 (Parent node: Sub-question 1): "What is the total amount of food Jake serves to both cats each day?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the difference in food served before and after adopting the second cat?"  
+Sub-question 4 (Parent node: Sub-question 3): "How much extra food is needed for the second cat?"  
+Sub-question 5 (Parent node: Sub-question 4): "Is the extra food needed less than, equal to, or greater than the amount served to one cat?"  
+
+
+
+266
+Sub-question 1: "What was the amount of snowfall in the morning?"
+Sub-question 2 (Parent node: Sub-question 1): "What was the amount of snowfall in the afternoon?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total amount of snowfall from the morning and afternoon?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the final numerical result for the total snowfall?"
+
+
+
+267
+Sub-question 1: "What is the amount of wheat flour used by the bakery in bags?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the amount of white flour used by the bakery in bags?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total amount of flour used by the bakery in bags?"
+Sub-question 4 (Parent node: Sub-question 3): "How do you calculate the total amount of flour used from the amounts of wheat and white flour?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final answer for the total bags of flour used by the bakery?"
+
+
+
+268
+Sub-question 1: "What was the initial amount of water in the bucket?"  
+Sub-question 2 (Parent node: Sub-question 1): "What is the remaining amount of water in the bucket?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the difference between the initial amount of water and the remaining amount?"  
+Sub-question 4 (Parent node: Sub-question 3): "How much water has leaked out of the bucket?"  
+Sub-question 5 (Parent node: Sub-question 4): "Is the amount of water that leaked out positive?"  
+
+
+
+269
+Sub-question 1: "What is the quantity of Golden Delicious apples picked by Charlie?"  
+Sub-question 2 (Parent node: Sub-question 1): "What is the quantity of Macintosh apples picked by Charlie?"  
+Sub-question 3 (Parent node: Sub-question 1): "What is the quantity of Cortland apples picked by Charlie?"  
+Sub-question 4 (Parent node: Sub-question 2): "What is the total quantity of apples picked by Charlie?"  
+Sub-question 5 (Parent node: Sub-question 4): "How many bags of fruit did Charlie pick in total?"  
+
+
+
+270
+Sub-question 1: "What is the amount of mustard at the first table?"  
+Sub-question 2 (Parent node: Sub-question 1): "What is the amount of mustard at the second table?"  
+Sub-question 3 (Parent node: Sub-question 1): "What is the amount of mustard at the third table?"  
+Sub-question 4 (Parent node: Sub-question 2): "What is the total amount of mustard found at all three tables?"  
+Sub-question 5 (Parent node: Sub-question 4): "How many full bottles of mustard does the total amount represent?"  
+
+
+
+271
+Sub-question 1: "What are the quantities of each type of leftover tart in the fridge?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many tarts are filled with cherries?"  
+Sub-question 3 (Parent node: Sub-question 1): "How many tarts are filled with blueberries?"  
+Sub-question 4 (Parent node: Sub-question 1): "How many tarts are filled with peaches?"  
+Sub-question 5 (Parent node: Sub-question 2, 3, and 4): "What is the total quantity of leftover tarts?"  
+
+
+
+272
+Sub-question 1: "How far did Trisha walk from her hotel to the postcard shop?"
+Sub-question 2 (Parent node: Sub-question 1): "How far did Trisha walk from the postcard shop to the T-shirt shop?"
+Sub-question 3 (Parent node: Sub-question 1): "How far did Trisha walk from the T-shirt shop back to the hotel?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the total distance Trisha walked?"
+Sub-question 5 (Parent node: Sub-question 4): "How can the total distance be calculated?"
+
+
+
+273
+Sub-question 1: "What are the weights of each ingredient used in the trail mix?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total weight of ingredients used in the trail mix?"
+Sub-question 3 (Parent node: Sub-question 2): "How much does each type of ingredient contribute to the total weight?"
+Sub-question 4 (Parent node: Sub-question 2): "Is the total weight of the trail mix accurate based on the weights provided?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final weight of the trail mix?"
+
+
+
+274
+Sub-question 1: "What are the amounts of each type of ice cream Allie has left over?"
+Sub-question 2 (Parent node: Sub-question 1): "How many total cartons of ice cream does Allie have after identifying the individual amounts?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the process to add the individual amounts of ice cream together?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the final total after performing the addition?"
+
+
+
+275
+Sub-question 1: "What are the amounts of each type of food item in bins?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total amount of food items represented by the bin fractions?"
+Sub-question 3 (Parent node: Sub-question 1): "How many individual bins are there for each type of food?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the sum of the food items in bins to find the overall total?"
+Sub-question 5 (Parent node: Sub-question 4): "How many complete bins are represented by the total amount of food items?"
+
+
+
+276
+Sub-question 1: "What are the individual weights of the pieces of marble purchased?"
+Sub-question 2 (Parent node: Sub-question 1): "How many pieces of marble did Paco's Countertop Company purchase?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total weight of the pieces of marble purchased?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the final total weight in tons for the pieces of marble purchased?"
+
+
+
+277
+Sub-question 1: "What is the amount of rain recorded on Monday?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the amount of rain recorded on Tuesday?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the amount of rain recorded on Wednesday?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the total amount of rain recorded from Monday, Tuesday, and Wednesday?"
+
+
+
+278
+Sub-question 1: "What are the quantities of each juice and soda used by Kendra in gallons?"
+Sub-question 2 (Parent node: Sub-question 1): "How do you convert the quantities of each juice and soda used into a total sum?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the sum of the quantities of grape juice, cranberry juice, and club soda together?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the final total quantity of punch made by Kendra in gallons?"
+
+
+
+279
+Sub-question 1: "What is the amount of snow recorded on Wednesday?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the amount of snow recorded on Thursday?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the amount of snow recorded on Friday?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the total amount of snow recorded from Wednesday to Friday?"
+
+
+
+280
+Sub-question 1: "What ingredients did Ellen use for the smoothies?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the quantity of each ingredient used?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total quantity of ingredients used in cups?"
+Sub-question 4 (Parent node: Sub-question 3): "Is the total quantity of ingredients more than 1 cup?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the breakdown of each ingredient's contribution to the total quantity?"
+
+
+
+281
+Sub-question 1: "How much lemonade did Jonah serve during the first intermission?"
+Sub-question 2 (Parent node: Sub-question 1): "How much lemonade did Jonah serve during the second intermission?"
+Sub-question 3 (Parent node: Sub-question 1): "How much lemonade did Jonah serve during the third intermission?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the total amount of lemonade served after accounting for all intermissions?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final total of pitchers of lemonade served?"
+
+
+
+282
+Sub-question 1: "What distance did Heather walk from the car to the entrance of the fair?"
+Sub-question 2 (Parent node: Sub-question 1): "What distance did Heather walk from the entrance to the carnival rides?"
+Sub-question 3 (Parent node: Sub-question 1): "What distance did Heather walk from the carnival rides back to the car?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the total distance Heather walked in all?"
+
+
+
+283
+Sub-question 1: "What amount of sand is required for the renovation project?"
+Sub-question 2 (Parent node: Sub-question 1): "What amount of dirt is required for the renovation project?"
+Sub-question 3 (Parent node: Sub-question 1): "What amount of cement is required for the renovation project?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the total sum of all materials required for the renovation project?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final total of truck-loads needed for the renovation project?"
+
+
+
+284
+Sub-question 1: "What are the weights of each individual plastic ring?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the weight of the orange ring?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the weight of the purple ring?"
+Sub-question 4 (Parent node: Sub-question 1): "What is the weight of the white ring?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the total weight of all the plastic rings combined?"
+
+
+
+285
+Sub-question 1: "What is the amount of oil used in cups?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the amount of water used in cups?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total amount of liquid used in cups?"
+Sub-question 4 (Parent node: Sub-question 2): "How do we add the amounts of oil and water together?"
+
+
+
+
+286
+Sub-question 1: "What is the weight of the green peppers bought by Dale's Vegetarian Restaurant?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the weight of the red peppers bought by Dale's Vegetarian Restaurant?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total weight of the peppers bought by Dale's Vegetarian Restaurant?"
+Sub-question 4 (Parent node: Sub-question 3): "How do you calculate the total weight from the weights of green and red peppers?"
+
+
+
+287
+Sub-question 1: "What is the distance Craig rode the bus?"  
+Sub-question 2 (Parent node: Sub-question 1): "What is the distance Craig walked?"  
+Sub-question 3 (Parent node: Sub-question 1): "What is the difference in distance between riding the bus and walking?"  
+Sub-question 4 (Parent node: Sub-question 2): "How do you calculate the difference in distances?"  
+Sub-question 5 (Parent node: Sub-question 3): "What is the final answer of how much farther Craig rode than walked?"  
+
+
+
+288
+Sub-question 1: "What is the weight of the chemistry textbook?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the weight of the geometry textbook?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the difference in weight between the chemistry textbook and the geometry textbook?"
+Sub-question 4 (Parent node: Sub-question 3): "Is the difference calculated correctly in terms of weight units?"
+
+
+
+289
+Sub-question 1: "How much cement was used to pave Lexi's street?"  
+Sub-question 2 (Parent node: Sub-question 1): "How much cement was used to pave Tess's street?"  
+Sub-question 3 (Parent node: Sub-question 1): "What are the total amounts of cement used for both streets?"  
+Sub-question 4 (Parent node: Sub-question 3): "What is the sum of the cement used for Lexi's and Tess's streets?"  
+
+
+
+290
+Sub-question 1: "How many laps did Kyle jog in P.E. class?"
+Sub-question 2 (Parent node: Sub-question 1): "How many laps did Kyle jog during track practice?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of laps Kyle jogged by adding the laps from P.E. class and track practice?"
+
+
+
+291
+Sub-question 1: "What is the initial amount of water in the bucket?"
+Sub-question 2 (Parent node: Sub-question 1): "What amount of water is Derek adding to the bucket?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total amount of water after adding Derek's contribution?"
+Sub-question 4 (Parent node: Sub-question 2): "What operation is needed to combine the initial amount and the amount added?"
+Sub-question 5 (Parent node: Sub-question 3): "Is the total amount of water greater than the initial amount?"
+
+
+
+292
+Sub-question 1: "How much lemon-lime soda did Mason and his friends drink?"
+Sub-question 2 (Parent node: Sub-question 1): "How much cola did Mason and his friends drink?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total amount of soda consumed (lemon-lime soda and cola)?"  
+Sub-question 4 (Parent node: Sub-question 3): "How do you combine the amounts of lemon-lime soda and cola to find the total?"  
+Sub-question 5 (Parent node: Sub-question 4): "What is the final sum of the total amount of soda drunk?"  
+
+
+
+293
+Sub-question 1: "What was the fault line's movement during the past year?"  
+Sub-question 2 (Parent node: Sub-question 1): "What was the fault line's movement during the year before the past year?"  
+Sub-question 3 (Parent node: Sub-question 1): "How do we add the movements from both years together?"  
+Sub-question 4 (Parent node: Sub-question 3): "What is the total movement of the fault line after performing the addition?"  
+Sub-question 5 (Parent node: Sub-question 4): "How does this total movement compare to previous years?"  
+
+
+
+294
+Sub-question 1: "How many pages of the phone book did Rosa call last week?"
+Sub-question 2 (Parent node: Sub-question 1): "How many pages of the phone book did Rosa call this week?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of pages called by Rosa in both weeks?"
+
+
+
+
+295
+Sub-question 1: "What is the height of Janet's sandcastle?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the height of Janet's sister's sandcastle?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the difference in height between Janet's sandcastle and her sister's sandcastle?"
+Sub-question 4 (Parent node: Sub-question 3): "Is the difference in height a positive value?"
+
+
+
+296
+Sub-question 1: "What are the lengths of the green and orange caterpillars?"  
+Sub-question 2 (Parent node: Sub-question 1): "What is the formula to calculate the difference in length between the two caterpillars?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the difference in length between the green caterpillar and the orange caterpillar?"  
+Sub-question 4 (Parent node: Sub-question 3): "What is the final answer to how much longer the green caterpillar is than the orange caterpillar?"
+
+
+
+297
+Sub-question 1: "How many pints of ice cream did Alec and his roommates eat on Friday night?"
+Sub-question 2 (Parent node: Sub-question 1): "How many pints of ice cream did Alec and his roommates eat on Saturday night?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total amount of ice cream eaten by Alec and his roommates over both nights?"
+
+
+
+
+298
+Sub-question 1: "What is the total distance Wendy ran?"  
+Sub-question 2 (Parent node: Sub-question 1): "What is the total distance Wendy walked?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the difference between the distances run and walked?"  
+Sub-question 4 (Parent node: Sub-question 3): "Is the difference a positive value?"  
+Sub-question 5 (Parent node: Sub-question 4): "What does the positive difference indicate about Wendy's running versus walking?"  
+
+
+
+299
+Sub-question 1: "What is the weight of the yellow block?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the weight of the green block?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the difference in weight between the yellow and green blocks?"
+Sub-question 4 (Parent node: Sub-question 3): "How is the difference in weight calculated?"
+Sub-question 5 (Parent node: Sub-question 3): "What does the difference in weight tell us about the comparison of the two blocks?"
+
+
+
+300
+Sub-question 1: "What distance did Terrell hike on Saturday?"
+Sub-question 2 (Parent node: Sub-question 1): "What distance did Terrell hike on Sunday?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total distance hiked by Terrell over the weekend?"
+
+
+
+301
+Sub-question 1: "What is the weight of peanuts Kelly bought?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the weight of raisins Kelly bought?"
+Sub-question 3 (Parent node: Sub-question 1): "What does the total weight of snacks consist of?"
+Sub-question 4 (Parent node: Sub-question 3): "How do you calculate the total weight of snacks?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final total weight of snacks Kelly bought?"
+
+
+
+302
+Sub-question 1: "What is the weight of the first watermelon?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the weight of the second watermelon?"
+Sub-question 3 (Parent node: Sub-question 2): "How do I calculate the total weight of both watermelons?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the final total weight of the watermelons?"
+
+
+
+303
+Sub-question 1: "How much did it rain in March?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the amount of rain that is 0.35 inches less than the amount of rain in March?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total rainfall in April based on the calculation from Sub-question 2?"
+
+
+
+304
+Sub-question 1: "What is the weight of the blue ball?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the weight of the brown ball?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the combined weight of the blue and brown balls?"
+Sub-question 4 (Parent node: Sub-question 3): "What will the scale read when both balls are placed on it?"
+
+
+
+305
+Sub-question 1: "What is the initial amount of honey produced by the bee colony?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the amount of honey eaten by the bears?"
+Sub-question 3 (Parent node: Sub-question 1): "What calculation will determine the remaining amount of honey?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the result of the calculation to find the remaining honey?"
+Sub-question 5 (Parent node: Sub-question 4): "What does the remaining amount of honey indicate about the bee colony's production?"
+
+
+
+306
+Sub-question 1: "How much did it rain on Monday?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the amount of rain that fell on Tuesday in relation to Monday?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total amount of rain that fell over the two days?"
+
+
+
+307
+Sub-question 1: "What was the amount of snow on Monday?"
+Sub-question 2 (Parent node: Sub-question 1): "What was the amount of snow on Tuesday?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the combined total of snow from Monday and Tuesday?"
+Sub-question 4 (Parent node: Sub-question 3): "How do you add the amounts from Monday and Tuesday?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final answer after performing the addition?"
+
+
+
+308
+Sub-question 1: "How much pepper did Brennan initially have?"  
+Sub-question 2 (Parent node: Sub-question 1): "How much pepper did Brennan use for the scrambled eggs?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the result of subtracting the amount of pepper used from the initial amount of pepper?"  
+Sub-question 4 (Parent node: Sub-question 3): "How much pepper does Brennan have left after making the scrambled eggs?"  
+
+
+
+309
+Sub-question 1: "How much did it rain on Saturday?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the amount of rain on Sunday?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total amount of rain for Saturday and Sunday combined?"
+
+
+
+310
+Sub-question 1: "What is the total amount of sugar Pamela bought?"
+Sub-question 2 (Parent node: Sub-question 1): "How much sugar did Pamela spill on the floor?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the calculation to find the remaining amount of sugar?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the result of the calculation?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final amount of sugar left after the spill?"
+
+
+
+311
+Sub-question 1: "What is the total amount of fruit Gordon bought?"
+Sub-question 2 (Parent node: Sub-question 1): "What amount of fruit was eaten by the class?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the remaining amount of fruit after the class ate some?"
+Sub-question 4 (Parent node: Sub-question 2): "How do you calculate the remaining amount of fruit?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the final answer for the amount of fruit left?"
+
+
+
+312
+Sub-question 1: "What is the weight of almonds purchased in kilograms?"  
+Sub-question 2 (Parent node: Sub-question 1): "What is the weight of pecans purchased in kilograms?"  
+Sub-question 3 (Parent node: Sub-question 1): "What is the total weight of almonds and pecans combined in kilograms?"  
+Sub-question 4 (Parent node: Sub-question 3): "How can the total weight be calculated from the weights of almonds and pecans?"  
+Sub-question 5 (Parent node: Sub-question 4): "What is the final result for the total weight of nuts purchased?"  
+
+
+
+313
+Sub-question 1: "What is the weight of the first pumpkin?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the weight of the second pumpkin?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total weight of both pumpkins?"
+Sub-question 4 (Parent node: Sub-question 3): "How do you combine the weights of the two pumpkins to find the total?"
+
+
+
+314
+Sub-question 1: "What is Tori's initial height?"
+Sub-question 2 (Parent node: Sub-question 1): "How much did Tori grow?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the formula to calculate the new height?"
+Sub-question 4 (Parent node: Sub-question 2): "What is Tori's new height after growing?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the final result for Tori's height after applying the formula?"
+
+
+
+315
+Sub-question 1: "What is the original length of the piece of wood?"
+Sub-question 2 (Parent node: Sub-question 1): "What length of wood was sawed off?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the new length of the piece of wood after sawing off the specified length?"
+
+
+
+316
+Sub-question 1: "How many bags of cookies do I have?"
+Sub-question 2 (Parent node: Sub-question 1): "How many cookies are in each bag?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of cookies?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the product of the number of bags and the number of cookies per bag?"
+
+
+
+317
+Sub-question 1: "How many fish are in one fishbowl?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many fish are there in all fishbowls combined?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of fishbowls?"  
+Sub-question 4 (Parent node: Sub-question 2): "What is the total number of fish per fishbowl?"  
+Sub-question 5 (Parent node: Sub-question 3): "What operation do I need to perform to find the total number of fish?"  
+
+
+
+318
+Sub-question 1: "How many pizzas were ordered?"
+Sub-question 2 (Parent node: Sub-question 1): "How many slices does each pizza have?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of slices from the ordered pizzas?"
+Sub-question 4 (Parent node: Sub-question 3): "Is the total number of slices correct?"
+
+
+
+319
+Sub-question 1: "How many eggs are there in one basket?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many total eggs are collected if there is a known number of baskets?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of baskets used?"  
+Sub-question 4 (Parent node: Sub-question 2): "What is the number of eggs per basket?"  
+Sub-question 5 (Parent node: Sub-question 3): "What is the product of the total number of baskets and the number of eggs per basket?"  
+
+
+
+320
+Sub-question 1: "How many books does Bryan have in each bookshelf?"
+Sub-question 2 (Parent node: Sub-question 1): "How many bookshelves does Bryan have?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of books Bryan has?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the calculation involved in finding the total number of books?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final answer for the total number of books Bryan has?"
+
+
+
+321
+Sub-question 1: "How many precious stones did Bryan sell?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the selling price of each precious stone?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total money Bryan received from selling the precious stones?"
+Sub-question 4 (Parent node: Sub-question 2): "How do you calculate the total money received from selling the stones?"
+Sub-question 5 (Parent node: Sub-question 3): "Was there any additional cost or fee associated with the sale?"
+
+
+
+322
+Sub-question 1: "How many sacks are harvested per day?"
+Sub-question 2 (Parent node: Sub-question 1): "How many days are they harvesting?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the formula to calculate total sacks harvested?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the total number of sacks after the given days of harvest?"  
+Sub-question 5 (Parent node: Sub-question 4): "What is the final answer for the total sacks harvested?"
+
+
+
+323
+Sub-question 1: "How many drums of grapes are filled in one day?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total number of drums filled in 9 days?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the multiplication operation needed to find the total number of drums filled?"
+Sub-question 4 (Parent node: Sub-question 3): "What are the final numbers involved in the multiplication?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final answer after performing the multiplication?"
+
+
+
+324
+Sub-question 1: "How many sections are there in the circus tent?"  
+Sub-question 2 (Parent node: Sub-question 1): "What is the capacity of each section?"  
+Sub-question 3 (Parent node: Sub-question 1): "What is the total capacity of all sections combined?"  
+Sub-question 4 (Parent node: Sub-question 2): "How do you calculate the total capacity based on the number of sections and the capacity of each section?"  
+Sub-question 5 (Parent node: Sub-question 3): "What will be the final answer for the total number of people the tent can accommodate?"  
+
+
+
+325
+Sub-question 1: "How many balls does each juggler juggle at a time?"
+Sub-question 2 (Parent node: Sub-question 1): "How many jugglers are there?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of balls needed for all jugglers?"
+
+
+
+326
+Sub-question 1: "How many feathers are used in one crown?"
+Sub-question 2 (Parent node: Sub-question 1): "How many crowns are needed for the final act?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of feathers needed for all the crowns?"
+Sub-question 4 (Parent node: Sub-question 3): "How do you calculate the total number of feathers?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final answer for the number of feathers needed?"
+
+
+
+327
+Sub-question 1: "How many books are in the science fiction section?"
+Sub-question 2 (Parent node: Sub-question 1): "How many pages does each book have?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of pages for all the books?"
+Sub-question 4 (Parent node: Sub-question 1): "What is the total number of pages if the number of books changes?"
+Sub-question 5 (Parent node: Sub-question 3): "How does the total change if the number of pages per book changes?"
+
+
+
+328
+Sub-question 1: "How many classic authors does Jack have in his collection?"
+Sub-question 2 (Parent node: Sub-question 1): "How many books does each classic author have?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the formula to calculate the total number of books in the classics section?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the total number of books based on the number of classic authors and the number of books per author?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the final total of books in the classics section after applying the formula?"
+
+
+
+329
+Sub-question 1: "How many total crayons does she have?"
+Sub-question 2 (Parent node: Sub-question 1): "How many crayons can fit in one box?"
+Sub-question 3 (Parent node: Sub-question 2): "How many boxes are needed to accommodate all the crayons?"
+Sub-question 4 (Parent node: Sub-question 3): "Is there a remainder when dividing the total number of crayons by the number of crayons per box?"
+Sub-question 5 (Parent node: Sub-question 3): "How will the remainder affect the total number of boxes needed?"
+
+
+
+330
+Sub-question 1: "How many total watercolor paintings does Lexie have?"
+Sub-question 2 (Parent node: Sub-question 1): "How many rooms are there to distribute the paintings into?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the formula to calculate the number of paintings per room?"
+Sub-question 4 (Parent node: Sub-question 3): "How many paintings will be placed in each room based on the total number and the number of rooms?"
+Sub-question 5 (Parent node: Sub-question 4): "Is the number of paintings per room a whole number?"
+
+
+
+331
+Sub-question 1: "How many total paper clips did Lexie's brother collect?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many boxes does Lexie's brother want to distribute the paper clips into?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of paper clips?"  
+Sub-question 4 (Parent node: Sub-question 3): "How can the total number of paper clips be divided by the number of boxes?"  
+Sub-question 5 (Parent node: Sub-question 4): "What is the result of the division, representing how many paper clips each box will contain?"  
+
+
+
+332
+Sub-question 1: "What is the total number of seedlings that need to be placed in packets?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many seeds does each packet need to contain?"  
+Sub-question 3 (Parent node: Sub-question 2): "How do you calculate the number of packets needed based on the total number of seedlings and the number of seeds per packet?"  
+Sub-question 4 (Parent node: Sub-question 3): "What is the final answer to the number of packets required?"  
+Sub-question 5 (Parent node: Sub-question 4): "Is there any remainder after distributing the seedlings into packets?"  
+
+
+
+333
+Sub-question 1: "How many glasses of lemonade were served?"
+Sub-question 2 (Parent node: Sub-question 1): "How many glasses does one pitcher serve?"
+Sub-question 3 (Parent node: Sub-question 2): "How many pitchers of lemonade are needed to serve the total number of glasses?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the formula to calculate the number of pitchers based on glasses served and glasses per pitcher?"
+
+
+
+334
+Sub-question 1: "How many pieces of wood did Christian's father and the senior ranger gather?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the capacity of each sack in terms of pieces of wood?"
+Sub-question 3 (Parent node: Sub-question 1): "How many sacks are needed to contain the total number of collected pieces of wood?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the formula to calculate the number of sacks needed based on total wood collected and sack capacity?"
+
+
+
+335
+Sub-question 1: "How many nails did Christian and the junior ranger have initially?"
+Sub-question 2 (Parent node: Sub-question 1): "How many nails were left at each station they visited?"
+Sub-question 3 (Parent node: Sub-question 2): "How many total nails were left after visiting all the stations?"
+Sub-question 4 (Parent node: Sub-question 3): "How many stations did they visit with the given nails left at each station?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final count of the stations visited based on the total nails used?"
+
+
+
+336
+Sub-question 1: "What is the total number of wood carvings displayed?"
+Sub-question 2 (Parent node: Sub-question 1): "How many wood carvings can each shelf hold?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of shelves needed to display all the wood carvings?"
+Sub-question 4 (Parent node: Sub-question 3): "Is there a need for partial shelves if the total number of carvings isn't a perfect multiple of shelf capacity?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final number of shelves filled with carvings?"
+
+
+
+337
+Sub-question 1: "How many total animal drawings did Shiela draw?"
+Sub-question 2 (Parent node: Sub-question 1): "How many neighbors does Shiela have?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of drawings to be distributed among the neighbors?"
+Sub-question 4 (Parent node: Sub-question 3): "How many animal drawings can each neighbor receive?"
+Sub-question 5 (Parent node: Sub-question 4): "Are there any drawings left after distribution?"
+
+
+
+338
+Sub-question 1: "How many total blocks does Allen have?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many blocks are there for each color?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of colors used by Shiela?"  
+Sub-question 4 (Parent node: Sub-question 3): "Is the number of colors a whole number?"
+
+
+
+339
+Sub-question 1: "How many cinnamon balls does Shiela use each day for all family members?"
+Sub-question 2 (Parent node: Sub-question 1): "How many cinnamon balls are there in total?"
+Sub-question 3 (Parent node: Sub-question 2): "How many days can Shiela continue placing cinnamon balls in the socks?"
+Sub-question 4 (Parent node: Sub-question 1): "How many family members are there?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the formula to calculate the number of days based on total cinnamon balls and daily usage?"
+
+
+
+340
+Sub-question 1: "How many stickers does Hayley have?"
+Sub-question 2 (Parent node: Sub-question 1): "How many friends does Hayley want to give stickers to?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of stickers each friend will receive if distributed equally?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the mathematical operation needed to find the number of stickers per friend?"
+
+
+
+341
+Sub-question 1: "How many marbles does Haley have in total?"
+Sub-question 2 (Parent node: Sub-question 1): "How many boys are there in Haley’s class?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of marbles divided by the number of boys?"
+Sub-question 4 (Parent node: Sub-question 3): "How many marbles will each boy receive?"
+Sub-question 5 (Parent node: Sub-question 4): "Is each boy receiving an equal number of marbles?"
+
+
+
+342
+Sub-question 1: "What is the total number of origami papers Haley has?"
+Sub-question 2 (Parent node: Sub-question 1): "How many cousins does Haley have?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of origami papers to be distributed among cousins?"
+Sub-question 4 (Parent node: Sub-question 3): "How many origami papers will each cousin receive if distributed evenly?"
+Sub-question 5 (Parent node: Sub-question 4): "Is there a remainder after distributing the origami papers?"
+
+
+
+343
+Sub-question 1: "How many balls does Haley have?"
+Sub-question 2 (Parent node: Sub-question 1): "How many balls can fit into one bag?"
+Sub-question 3 (Parent node: Sub-question 2): "How many bags are needed to hold all the balls?"
+Sub-question 4 (Parent node: Sub-question 3): "Is there a remainder of balls after filling the bags?"
+
+
+
+344
+Sub-question 1: "How many total pink flower stones did Betty buy?"
+Sub-question 2 (Parent node: Sub-question 1): "How many bracelets does Betty want to make?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the formula to calculate the number of stones per bracelet?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the number of pink flower stones per bracelet if the total stones are divided by the number of bracelets?"
+Sub-question 5 (Parent node: Sub-question 4): "Is the number of stones per bracelet a whole number?"
+
+
+
+345
+Sub-question 1: "How many star-shaped stones did Brenda buy for Betty?"
+Sub-question 2 (Parent node: Sub-question 1): "How many bracelets does Brenda want to make with the star-shaped stones?"
+Sub-question 3 (Parent node: Sub-question 2): "How many star-shaped stones will each bracelet contain?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the total number of star-shaped stones available to distribute among the bracelets?"
+
+
+
+346
+Sub-question 1: "How many heart-shaped stones did Shannon bring?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the number of heart-shaped stones needed for each bracelet?"
+Sub-question 3 (Parent node: Sub-question 2): "How many bracelets can be made with the available heart-shaped stones?"
+Sub-question 4 (Parent node: Sub-question 3): "What are the required calculations to determine the number of bracelets?"
+Sub-question 5 (Parent node: Sub-question 3): "Is there a remainder of stones after making the bracelets?"
+
+
+
+347
+Sub-question 1: "How many cookies did Brenda's mother prepare in total?"
+Sub-question 2 (Parent node: Sub-question 1): "How many people are sharing the cookies?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of cookies each person will receive?"
+Sub-question 4 (Parent node: Sub-question 2): "How do you calculate the number of cookies each person gets based on the total cookies and the number of people?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the final answer to how many cookies does each person get?"
+
+
+
+348
+Sub-question 1: "How many sunflower seeds does Jane have in total?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many cans does Jane have?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of seeds available to be placed in the cans?"  
+Sub-question 4 (Parent node: Sub-question 3): "How many seeds will be placed in each can if distributed equally?"  
+Sub-question 5 (Parent node: Sub-question 4): "Is the quantity of seeds per can an integer?"  
+
+
+
+349
+Sub-question 1: "How many total marble potatoes did Jane's dad bring home?"
+Sub-question 2 (Parent node: Sub-question 1): "How many people are sharing the potato salad?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of potatoes available for each person?"
+Sub-question 4 (Parent node: Sub-question 3): "How many potatoes does each person get?"
+Sub-question 5 (Parent node: Sub-question 4): "Is the distribution of potatoes equal among Jane, her mom, and her dad?"
+
+
+
+350
+Sub-question 1: "How many pieces of cinnamon swirls are there in total?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many people are eating the cinnamon swirls?"  
+Sub-question 3 (Parent node: Sub-question 2): "How can we determine the number of pieces each person gets?"  
+Sub-question 4 (Parent node: Sub-question 3): "What is the result of dividing the total number of pieces by the number of people?"  
+Sub-question 5 (Parent node: Sub-question 4): "How many pieces did Jane eat?"  
+
+
+
+351
+Sub-question 1: "What is the total number of crayons Willy has?"  
+Sub-question 2 (Parent node: Sub-question 1): "What is the total number of crayons Lucy has?"  
+Sub-question 3 (Parent node: Sub-question 1): "What is the difference in the number of crayons between Willy and Lucy?"  
+Sub-question 4 (Parent node: Sub-question 3): "Is the difference a positive number?"  
+Sub-question 5 (Parent node: Sub-question 4): "What is the final answer regarding how many more crayons Willy has than Lucy?"  
+
+
+
+352
+Sub-question 1: "How many stickers are there on one page?"
+Sub-question 2 (Parent node: Sub-question 1): "How many pages of stickers do you have?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of stickers if you multiply the number of stickers on one page by the number of pages?"
+Sub-question 4 (Parent node: Sub-question 3): "Is the calculation of the total stickers correct?"
+
+
+
+353
+Sub-question 1: "How many peanuts does Jose have?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many more peanuts does Kenya have than Jose?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of peanuts Kenya has?"  
+
+
+
+354
+Sub-question 1: "How many stamps does Lizette have?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many more stamps does Lizette have than Minerva?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of stamps Minerva has?"  
+Sub-question 4 (Parent node: Sub-question 3): "Is Minerva's stamp count positive?"  
+Sub-question 5 (Parent node: Sub-question 4): "What is the significance of the comparison between Lizette's and Minerva's stamps?"  
+
+
+
+355
+Sub-question 1: "How many pencils do I have?"
+Sub-question 2 (Parent node: Sub-question 1): "How many pencils are put in each pencil box?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of pencil boxes that can be filled?"
+Sub-question 4 (Parent node: Sub-question 2): "How many full pencil boxes can be created with the available pencils?"
+Sub-question 5 (Parent node: Sub-question 3): "Is there any remaining pencils after filling the boxes?"
+
+
+
+356
+Sub-question 1: "What is the total capacity of the DVD book?"
+Sub-question 2 (Parent node: Sub-question 1): "How many DVDs are currently in the DVD book?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the formula to determine the number of additional DVDs that can fit in the book?"
+Sub-question 4 (Parent node: Sub-question 2): "How do we calculate the number of additional DVDs that can be added based on current DVDs and total capacity?"
+
+
+
+357
+Sub-question 1: "How many cookies did Paco start with?"
+Sub-question 2 (Parent node: Sub-question 1): "How many cookies did Paco eat?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the operation needed to find out how many cookies are left?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the result of subtracting the number of cookies eaten from the number of cookies started with?"
+
+
+
+358
+Sub-question 1: "How many Nintendo games does Kelly currently have?"
+Sub-question 2 (Parent node: Sub-question 1): "How many Nintendo games does Kelly want to have left?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the difference between the current number of games and the desired number of games?"
+Sub-question 4 (Parent node: Sub-question 3): "How many games does Kelly need to give away to reach the desired number?"
+Sub-question 5 (Parent node: Sub-question 4): "Is the calculated number of games to give away a non-negative integer?"
+
+
+
+359
+Sub-question 1: "How many red markers does Connie have?"
+Sub-question 2 (Parent node: Sub-question 1): "How many blue markers does Connie have?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of markers (red + blue) Connie has?"
+Sub-question 4 (Parent node: Sub-question 3): "Is the total number of markers (red + blue) correct?"
+
+
+
+360
+Sub-question 1: "What is the total number of books Iesha has?"
+Sub-question 2 (Parent node: Sub-question 1): "How many books are about school?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the number of books about sports?"
+Sub-question 4 (Parent node: Sub-question 2): "What do I need to subtract to find the number of sports books?"
+Sub-question 5 (Parent node: Sub-question 3): "Is the remaining number of books after subtracting school books the count of sports books?"
+
+
+
+361
+Sub-question 1: "How many whistles does Sean have?"  
+Sub-question 2 (Parent node: Sub-question 1): "What is the difference in the number of whistles between Sean and Charles?"  
+Sub-question 3 (Parent node: Sub-question 2): "How many whistles does Charles have based on Sean's total and the difference?"  
+
+
+
+362
+Sub-question 1: "How many marbles does Connie have?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total number of marbles that Juan has?"
+Sub-question 3 (Parent node: Sub-question 2): "How many more marbles does Juan have than Connie?"
+
+
+
+363
+Sub-question 1: "How many pieces of gum are in one package?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many packages of gum does Robin have?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of pieces of gum if I multiply the number of packages by the number of pieces in each package?"  
+Sub-question 4 (Parent node: Sub-question 3): "Is the calculation for the total pieces of gum correct?"  
+Sub-question 5 (Parent node: Sub-question 4): "What is the final total of pieces of gum that Robin has?"  
+
+
+
+364
+Sub-question 1: "What is the cost of one ball?"
+Sub-question 2 (Parent node: Sub-question 1): "How many balls does Kyoko want to buy?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the formula to calculate the total cost based on the cost per ball and the number of balls?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the total cost for the number of balls Kyoko wants to buy?"
+Sub-question 5 (Parent node: Sub-question 4): "Is the total cost within Kyoko's budget?"
+
+
+
+365
+Sub-question 1: "What is the initial amount of money Tony had?"  
+Sub-question 2 (Parent node: Sub-question 1): "How much money did Tony spend on the baseball ticket?"  
+Sub-question 3 (Parent node: Sub-question 1): "What is the remaining amount of money Tony has after buying the ticket?"  
+Sub-question 4 (Parent node: Sub-question 3): "How much money did Tony spend on the hot dog?"  
+Sub-question 5 (Parent node: Sub-question 4): "What is the final amount of money Tony has after buying the hot dog?"  
+
+
+
+366
+Sub-question 1: "What is the total number of doughnuts Mr. Guzman bought?"
+Sub-question 2 (Parent node: Sub-question 1): "How many boxes are the doughnuts packed into?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the method to divide the total number of doughnuts by the number of boxes?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the final count of doughnuts in each box?"
+
+
+
+
+367
+Sub-question 1: "How many miles did the family drive each day?"
+Sub-question 2 (Parent node: Sub-question 1): "How many days did the family go on vacation?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total mileage driven over the vacation?"
+Sub-question 4 (Parent node: Sub-question 3): "Is the total mileage consistent with the mileage driven each day?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the formula to calculate total miles from daily mileage and number of days?"
+
+
+
+368
+Sub-question 1: "What is the cost of one stamp?"
+Sub-question 2 (Parent node: Sub-question 1): "How do you calculate the total cost of multiple stamps?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the number of stamps being purchased?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the formula to find the total cost given the cost of one stamp and the number of stamps?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final total cost of purchasing 4 stamps?"
+
+
+
+369
+Sub-question 1: "What is the total number of grown-ups in Milburg?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the total number of children in Milburg?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the combined total of grown-ups and children in Milburg?"
+Sub-question 4 (Parent node: Sub-question 3): "What calculation is needed to find the total population in Milburg?"
+
+
+
+370
+Sub-question 1: "What is the total number of pieces of candy in the jar?"
+Sub-question 2 (Parent node: Sub-question 1): "How many pieces of candy are red?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of pieces of candy that are not red?"
+Sub-question 4 (Parent node: Sub-question 3): "How many pieces of candy are blue?"
+
+
+
+371
+Sub-question 1: "How many people visited the zoo on Friday?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the relationship between the number of visitors on Saturday and Friday?"
+Sub-question 3 (Parent node: Sub-question 2): "How can we calculate the number of visitors on Saturday based on the relationship?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the final number of people who visited the zoo on Saturday?"
+
+
+
+372
+Sub-question 1: "How many buses were used for the concert?"
+Sub-question 2 (Parent node: Sub-question 1): "How many students can each bus carry?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of students that attended the concert?"
+
+
+
+373
+Sub-question 1: "How many stars does each student make?"
+Sub-question 2 (Parent node: Sub-question 1): "How many students are making stars?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of stars made by all students?"
+Sub-question 4 (Parent node: Sub-question 3): "How do we calculate the total number of stars made?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final total of stars made for the school wall?"
+
+
+
+374
+Sub-question 1: "What is the total time spent in minutes?"  
+Sub-question 2 (Parent node: Sub-question 1): "What is the conversion factor from minutes to hours?"  
+Sub-question 3 (Parent node: Sub-question 2): "How do you apply the conversion factor to calculate the hours?"  
+Sub-question 4 (Parent node: Sub-question 3): "What is the final result after performing the calculation?"  
+Sub-question 5 (Parent node: Sub-question 4): "Is the final result reasonable and correctly interpreted?"
+
+
+
+375
+Sub-question 1: "What is the total distance flown by the pilot on Tuesday and Thursday in one week?"
+Sub-question 2 (Parent node: Sub-question 1): "How many miles does the pilot fly in one week?"
+Sub-question 3 (Parent node: Sub-question 2): "How many miles does the pilot fly in three weeks?"
+
+
+
+
+376
+Sub-question 1: "How many students are seated at one table?"
+Sub-question 2 (Parent node: Sub-question 1): "How many tables are there in the lunchroom?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of students sitting in the lunchroom?" 
+Sub-question 4 (Parent node: Sub-question 2): "What is the product of the number of students per table and the number of tables?" 
+Sub-question 5 (Parent node: Sub-question 3): "Does the total number of students make sense in the context of the lunchroom?"
+
+
+
+377
+Sub-question 1: "How many dogs does Tyler have?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many puppies does each dog have?"  
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of puppies Tyler has?"  
+Sub-question 4 (Parent node: Sub-question 2): "What is the total number of puppies given the number of dogs and puppies per dog?"  
+
+
+
+378
+Sub-question 1: "How many apples did the farmer start with?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many apples did the farmer give to his neighbor?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the result of subtracting the number of apples given from the number of apples the farmer started with?"  
+Sub-question 4 (Parent node: Sub-question 3): "What is the final count of apples the farmer has now?"  
+
+
+
+379
+Sub-question 1: "How many days does John read in 6 weeks?"
+Sub-question 2 (Parent node: Sub-question 1): "How many books does John read in one day?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of books John reads in 6 weeks?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the total number of books John reads on the days he reads?"
+Sub-question 5 (Parent node: Sub-question 3): "How does the reading schedule impact the total number of books read?"
+
+
+
+380
+Sub-question 1: "How many people did Jill invite to her birthday party?"
+Sub-question 2 (Parent node: Sub-question 1): "How many pieces of pizza did each person eat?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of pieces of pizza consumed by all the guests?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the total amount of pizza eaten by 37 people if each eats 8 pieces?"
+
+
+
+381
+Sub-question 1: "How many players are on the Spurs basketball team?"
+Sub-question 2 (Parent node: Sub-question 1): "How many basketballs does each player have?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of basketballs for the Spurs team?"
+Sub-question 4 (Parent node: Sub-question 3): "How can the total number of basketballs be calculated?"
+
+
+
+382
+Sub-question 1: "How many people attended the first concert?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the attendance count for the second concert?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the number of additional attendees at the second concert?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the total attendance for the second concert when the additional attendees are added to the first concert's attendance?"
+
+
+
+383
+Sub-question 1: "How many total pies did Mrs. Hilt bake?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the number of rows formed when arranging the total pies in groups of 5?"
+Sub-question 3 (Parent node: Sub-question 2): "Is there a remainder when dividing the total pies by 5?"
+Sub-question 4 (Parent node: Sub-question 2): "How many additional pies are needed to form a complete row, if there is a remainder?"
+Sub-question 5 (Parent node: Sub-question 1): "What are the individual counts of each type of pie?"
+
+
+
+384
+Sub-question 1: "What is the total amount of money to be shared?"
+Sub-question 2 (Parent node: Sub-question 1): "How many people are sharing the money?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the formula to calculate the amount each person will receive?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the result when applying the formula with the given total amount and number of people?"
+Sub-question 5 (Parent node: Sub-question 4): "Is the result a reasonable amount for each person?"
+
+
+
+385
+Sub-question 1: "How many books did Mrs. Hilt read?"
+Sub-question 2 (Parent node: Sub-question 1): "How many chapters are in each book?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of chapters read by Mrs. Hilt?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the product of the number of books and chapters per book?"
+
+
+
+386
+Sub-question 1: "How much flour is needed for 2 loaves of bread?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the amount of flour needed for 1 loaf of bread?"
+Sub-question 3 (Parent node: Sub-question 2): "How can the amount of flour for 1 loaf be calculated from the amount for 2 loaves?"
+Sub-question 4 (Parent node: Sub-question 3): "What mathematical operation is needed to determine the flour required for 1 loaf?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final calculated amount of flour needed for 1 loaf of bread?"
+
+
+
+387
+Sub-question 1: "What is the total cost of the notebook in cents?"
+Sub-question 2 (Parent node: Sub-question 1): "How many cents are there in one nickel?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total amount of nickels needed to cover the cost of the notebook in cents?"
+Sub-question 4 (Parent node: Sub-question 3): "How can the total amount of nickels be calculated from the total cost of the notebook in cents?"
+
+
+
+388
+Sub-question 1: "How many 5-minute intervals are there in 15 minutes?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the number of students that ride the rollercoaster in 1 interval?"
+Sub-question 3 (Parent node: Sub-question 1): "How many students rode the rollercoaster in 15 minutes?" 
+Sub-question 4 (Parent node: Sub-question 2): "How do you calculate the total number of students from the number of intervals and students per interval?"
+
+
+
+389
+Sub-question 1: "What is the distance from Mrs. Hilt's desk to the water fountain?"
+Sub-question 2 (Parent node: Sub-question 1): "How many trips does Mrs. Hilt make to the water fountain today?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total distance for a round trip to the water fountain?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the total distance Mrs. Hilt will walk for all her trips to the fountain?"
+
+
+
+390
+Sub-question 1: "How many fish does Lucy currently have in her aquarium?"
+Sub-question 2 (Parent node: Sub-question 1): "How many additional fish does Lucy want to buy?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of fish after Lucy buys the additional fish?"
+Sub-question 4 (Parent node: Sub-question 3): "Is the total number of fish greater than a certain threshold for aquarium capacity?"
+
+
+
+391
+Sub-question 1: "What is the target number of fish Lucy wants to have?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the current number of fish Lucy has?"
+Sub-question 3 (Parent node: Sub-question 1): "How many fish does Lucy need to buy to reach her target?"
+Sub-question 4 (Parent node: Sub-question 2): "What is the difference between the target number of fish and the current number of fish?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the result of the calculation to find out how many fish Lucy needs to buy?"
+
+
+
+392
+Sub-question 1: "How much money did Chris receive from his grandmother, aunt, uncle, and parents combined?"  
+Sub-question 2 (Parent node: Sub-question 1): "What is the total amount of money Chris has after receiving the gifts?"  
+Sub-question 3 (Parent node: Sub-question 2): "What is the difference between the total amount Chris has now and the total amount he has received from gifts?"  
+Sub-question 4 (Parent node: Sub-question 3): "How much money did Chris have before his birthday?"  
+Sub-question 5 (Parent node: Sub-question 4): "What is the significance of knowing how much Chris had before his birthday in relation to his goal of buying soccer cleats and a ball?"  
+
+
+
+393
+Sub-question 1: "How many fleas are in Harry Hound's right ear?"  
+Sub-question 2 (Parent node: Sub-question 1): "How many fleas are in Harry Hound's left ear?"  
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of fleas in both ears?"  
+Sub-question 4 (Parent node: Sub-question 3): "How many fleas were cleaned out from Harry Hound's ears?"  
+Sub-question 5 (Parent node: Sub-question 4): "How many fleas perished after cleaning?"  
+
+
+
+394
+Sub-question 1: "How many bags of dog food are there?"
+Sub-question 2 (Parent node: Sub-question 1): "How many bags of cat food are there?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the difference between the number of dog food bags and cat food bags?"
+Sub-question 4 (Parent node: Sub-question 2): "Is the number of dog food bags greater than the number of cat food bags?"
+
+
+
+395
+Sub-question 1: "How many boxes of stuffed toy dogs does David have?"
+Sub-question 2 (Parent node: Sub-question 1): "How many stuffed toy dogs are in each box?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total number of stuffed toy dogs in all the boxes?"
+
+
+
+396
+Sub-question 1: "What is the total number of seats in the theater?"
+Sub-question 2 (Parent node: Sub-question 1): "How many people are currently watching the movie?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of empty seats in the theater?"
+Sub-question 4 (Parent node: Sub-question 2): "How many seats can be classified as occupied?"
+Sub-question 5 (Parent node: Sub-question 3): "What is the difference between the total number of seats and the number of occupied seats?"
+
+
+
+397
+Sub-question 1: "What is the weight of oranges in one bag?"
+Sub-question 2 (Parent node: Sub-question 1): "How many bags of oranges are there?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the total weight of oranges when multiplying the weight of one bag by the number of bags?"
+
+
+
+398
+Sub-question 1: "How many days are in 3 weeks?"
+Sub-question 2 (Parent node: Sub-question 1): "How many miles does Bert run in one day?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the total number of miles Bert runs in the given days?"
+
+
+
+
+399
+Sub-question 1: "What is the total cost of the long distance phone service including the monthly fee and the cost per minute?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the amount charged for the usage of minutes after subtracting the monthly fee?"
+Sub-question 3 (Parent node: Sub-question 2): "How many minutes corresponds to the amount charged for the usage of minutes?"
+Sub-question 4 (Parent node: Sub-question 1): "What is the monthly fee for the long distance phone service?"
+Sub-question 5 (Parent node: Sub-question 3): "How do you calculate the total cost based on the number of minutes used?"
+
+
+
+400
+Sub-question 1: "What is the current value of the sport utility vehicle?"  
+Sub-question 2 (Parent node: Sub-question 1): "What is the percentage representation of last year's value in relation to this year's value?"  
+Sub-question 3 (Parent node: Sub-question 2): "What equation can be formed to relate this year's value to last year's value?"  
+Sub-question 4 (Parent node: Sub-question 3): "What is the last year's value based on the equation?"  
+Sub-question 5 (Parent node: Sub-question 4): "What is the final answer to the initial question?"
+
+
+
+401
+Sub-question 1: "What is Trenton's base salary for the week?"
+Sub-question 2 (Parent node: Sub-question 1): "How much additional income does Trenton need to earn at least 500 dollars?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the commission rate on sales?"
+Sub-question 4 (Parent node: Sub-question 3): "How can we calculate the required sales amount to meet the additional income needed?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the total sales Trenton must make to reach his earning goal?"
+
+
+
+402
+Sub-question 1: "What is the height of the tallest player in inches?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the height difference between the tallest and the shortest player in inches?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the height of the shortest player in inches?"
+
+
+
+403
+Sub-question 1: "What is the equation that represents the relationship described in the problem?"
+Sub-question 2 (Parent node: Sub-question 1): "How do we isolate the variable in the equation?"
+Sub-question 3 (Parent node: Sub-question 2): "What is the value of the variable after isolating it?"
+Sub-question 4 (Parent node: Sub-question 1): "What steps do we take to verify if the solution found is correct?"
+Sub-question 5 (Parent node: Sub-question 4): "Does the original equation hold true when substituting the value back into it?"
+
+
+
+404
+Sub-question 1: "What is the projected world grain supply in metric tons?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the relationship between world grain supply and world grain demand?"
+Sub-question 3 (Parent node: Sub-question 2): "What formula can be used to express world grain demand in terms of world grain supply?"
+Sub-question 4 (Parent node: Sub-question 3): "What is the value of world grain demand when using the projected supply?"
+Sub-question 5 (Parent node: Sub-question 4): "What is the final calculated value of world grain demand?"
+
+
+
+405
+Sub-question 1: "What is the total amount Manuel wants to have in his savings account after 19 weeks?"
+Sub-question 2 (Parent node: Sub-question 1): "What is the current amount in Manuel's savings account?"
+Sub-question 3 (Parent node: Sub-question 1): "What is the amount Manuel needs to save in addition to his current savings to reach his goal?"
+Sub-question 4 (Parent node: Sub-question 3): "How much must Manuel save each week to reach his savings goal in 19 weeks?"
+
+
+

@@ -1,0 +1,707 @@
+0
+Sub-question 1: "商业银行的当前状况如何？"
+Sub-question 2 (Parent node: Sub-question 1): "与其他金融机构的比较如何？"
+Sub-question 3 (Parent node: Sub-question 1): "市场对商业银行的前景预期是什么？"
+Sub-question 4 (Parent node: Sub-question 1): "投资商业银行的风险有哪些？"
+Sub-question 5 (Parent node: Sub-question 1): "有没有相关的投资机会或推荐？"
+
+
+
+1
+Sub-question 1: "当前整体市场的趋势如何？"
+Sub-question 2 (Parent node: Sub-question 1): "哪些行业板块表现较好？"
+Sub-question 3 (Parent node: Sub-question 2): "哪些行业板块具有增长潜力？"
+Sub-question 4 (Parent node: Sub-question 3): "哪些投资因素会影响这些行业板块的表现？"
+Sub-question 5 (Parent node: Sub-question 4): "在这些行业中有哪些具体的公司或项目值得关注？"
+
+
+
+2
+意图分类: 行业板块问询
+
+决策树结构:
+
+Sub-question 1: "当前哪些行业或赛道受到市场关注？"
+Sub-question 2 (Parent node: Sub-question 1): "这些行业或赛道的市场前景如何？"
+Sub-question 3 (Parent node: Sub-question 1): "这些行业或赛道中有哪些投资机会？"
+Sub-question 4 (Parent node: Sub-question 2): "有哪些因素影响这些行业的市场前景？"
+Sub-question 5 (Parent node: Sub-question 3): "哪些公司在这些行业或赛道中表现突出？"
+
+
+
+3
+Sub-question 1: "基建行业的当前市场趋势是什么？"
+Sub-question 2 (Parent node: Sub-question 1): "基建行业近期是否有利好消息？"
+Sub-question 3 (Parent node: Sub-question 1): "基建行业的主要推动因素有哪些？"
+Sub-question 4 (Parent node: Sub-question 2): "这些利好消息对基建行业的影响有多大？"
+Sub-question 5 (Parent node: Sub-question 3): "当前有哪些政策支持基建行业的发展？"
+
+
+
+4
+Sub-question 1: "明年的医药板块市场趋势如何？"
+Sub-question 2 (Parent node: Sub-question 1): "医药板块的主要驱动因素是什么？"
+Sub-question 3 (Parent node: Sub-question 1): "投资者对医药板块的信心如何？"
+Sub-question 4 (Parent node: Sub-question 2): "是否有新政策影响医药行业？"
+Sub-question 5 (Parent node: Sub-question 3): "近期医药板块的业绩表现如何？"
+
+
+
+5
+Sub-question 1: "新能源汽车市场目前的表现如何？"
+Sub-question 2 (Parent node: Sub-question 1): "新能源汽车的未来发展趋势是什么？"
+Sub-question 3 (Parent node: Sub-question 1): "当前投资新能源汽车的风险有哪些？"
+Sub-question 4 (Parent node: Sub-question 2): "有哪些因素可能影响新能源汽车的发展？"
+Sub-question 5 (Parent node: Sub-question 3): "市场对新能源汽车的接受度如何？"
+
+
+
+6
+Sub-question 1: "当前券商行业的整体表现如何？"
+Sub-question 2 (Parent node: Sub-question 1): "有哪些因素可能导致券商分化？"
+Sub-question 3 (Parent node: Sub-question 2): "市场环境是否有变化？"
+Sub-question 4 (Parent node: Sub-question 2): "政策变化对券商的影响是什么？"
+Sub-question 5 (Parent node: Sub-question 2): "各个券商的业绩表现是否差异明显？"
+
+
+
+7
+意图: 个股问询
+
+Sub-question 1: "光伏行业当前的风险有哪些？"
+Sub-question 2 (Parent node: Sub-question 1): "这些风险在未来可能如何变化？"
+Sub-question 3 (Parent node: Sub-question 1): "在当前市场背景下，是否值得投资光伏相关股票？"
+Sub-question 4 (Parent node: Sub-question 3): "如果继续投资，应该关注哪些具体公司的股价动向？"
+Sub-question 5 (Parent node: Sub-question 3): "是否有其他投资者对光伏板块的看法？"
+
+
+
+8
+Sub-question 1: "当前市场中有哪些板块？"
+Sub-question 2 (Parent node: Sub-question 1): "这些板块的回弹速度如何？"
+Sub-question 3 (Parent node: Sub-question 2): "哪些因素影响这些板块的回弹速度？"
+Sub-question 4 (Parent node: Sub-question 2): "近期哪些事件可能导致板块回弹？"
+Sub-question 5 (Parent node: Sub-question 1): "哪些板块曾在历史上表现出快速回弹的趋势？"
+
+
+
+9
+Sub-question 1: "当前市场中的结构性机会是什么？"  
+Sub-question 2 (Parent node: Sub-question 1): "哪些行业能提供结构性机会？"  
+Sub-question 3 (Parent node: Sub-question 2): "在这些行业中，哪些具体板块表现较好？"  
+Sub-question 4 (Parent node: Sub-question 3): "这些板块的主要驱动因素是什么？"  
+Sub-question 5 (Parent node: Sub-question 4): "未来的市场趋势会如何影响这些板块的表现？"
+
+
+
+10
+Sub-question 1: "康隆达39的当前市场表现如何？"
+Sub-question 2 (Parent node: Sub-question 1): "股价是否处于低位？"
+Sub-question 3 (Parent node: Sub-question 2): "补仓后预期收益是否合理？"
+Sub-question 4 (Parent node: Sub-question 1): "行业发展趋势如何？"
+Sub-question 5 (Parent node: Sub-question 4): "该行业的主要风险是什么？"
+
+
+
+11
+Sub-question 1: "天齐锂业的当前市场表现如何？"
+Sub-question 2 (Parent node: Sub-question 1): "未来天齐锂业的盈利能力如何？"
+Sub-question 3 (Parent node: Sub-question 1): "市场对锂业的整体需求趋势如何？"
+Sub-question 4 (Parent node: Sub-question 2): "天齐锂业的竞争对手情况如何？"
+Sub-question 5 (Parent node: Sub-question 3): "近期政策对锂行业的影响是什么？"
+
+
+
+12
+Sub-question 1: "湘电股份的后期走势会受到哪些因素的影响？"
+Sub-question 2 (Parent node: Sub-question 1): "目前市场的整体状况如何？"
+Sub-question 3 (Parent node: Sub-question 1): "湘电股份的基本面和技术面分析情况如何？"
+Sub-question 4 (Parent node: Sub-question 3): "湘电股份是否存在长期投资的价值？"
+Sub-question 5 (Parent node: Sub-question 3): "湘电股份的主要竞争对手和行业趋势是什么？"
+
+
+
+13
+Sub-question 1: "国瑞科技今天的三金叉形态是否有效？"
+Sub-question 2 (Parent node: Sub-question 1): "该形态的有效性会如何影响股价走势？"
+Sub-question 3 (Parent node: Sub-question 2): "涨幅9.485%是否在正常波动范围内？"
+Sub-question 4 (Parent node: Sub-question 3): "在当前市场情况下，有介入国瑞科技的机会吗？"
+Sub-question 5 (Parent node: Sub-question 4): "介入国瑞科技的风险和收益如何评估？"
+
+
+
+14
+Sub-question 1: "隧道股份的总股本是多少？"
+Sub-question 2 (Parent node: Sub-question 1): "沪股通持股数量是多少？"
+Sub-question 3 (Parent node: Sub-question 2): "沪股通持股占总股本的比例是多少？"
+
+
+
+15
+意图类别: 个股问询
+
+Sub-question 1: "卓朗科技的融资情况是什么？"
+Sub-question 2 (Parent node: Sub-question 1): "卓朗科技的融券情况是什么？"
+Sub-question 3 (Parent node: Sub-question 1): "卓朗科技的融资余额是多少？"
+Sub-question 4 (Parent node: Sub-question 2): "卓朗科技的融券余额是多少？"
+Sub-question 5 (Parent node: Sub-question 1): "卓朗科技的融资融券利率是多少？"
+
+
+
+16
+意图: 个股问询
+
+Sub-question 1: "民生控股的主要投资领域有哪些？"
+Sub-question 2 (Parent node: Sub-question 1): "当前民生控股在这些领域的投资比例是多少？"
+Sub-question 3 (Parent node: Sub-question 1): "民生控股近期有无新的投资项目？"
+Sub-question 4 (Parent node: Sub-question 1): "这些投资项目的预期回报是什么？"
+Sub-question 5 (Parent node: Sub-question 1): "民生控股的投资策略是怎样的？"
+
+
+
+17
+Sub-question 1: "光启技术公司的国内竞争对手有哪些？"
+Sub-question 2 (Parent node: Sub-question 1): "光启技术公司在国内行业的市场地位是什么？"
+Sub-question 3: "光启技术公司国际上可对标的公司有哪些？"
+Sub-question 4 (Parent node: Sub-question 3): "光启技术公司在国际市场的定位如何？"
+
+
+
+18
+Sub-question 1: "大禹节水公司有哪些主要的客户在水利行业？"  
+Sub-question 2 (Parent node: Sub-question 1): "这些客户与大禹节水公司有何合作模式？"  
+Sub-question 3 (Parent node: Sub-question 1): "大禹节水公司与这些客户的合作时间是多久？"  
+Sub-question 4 (Parent node: Sub-question 2): "客户的主要需求是什么？"  
+Sub-question 5 (Parent node: Sub-question 3): "客户对大禹节水公司的满意度如何？"  
+
+
+
+19
+Sub-question 1: "唐源电气在手订单的最新统计数据是什么？"
+Sub-question 2 (Parent node: Sub-question 1): "这个统计数据截至到哪个时间点？"
+Sub-question 3 (Parent node: Sub-question 1): "唐源电气的在手订单是否有增长趋势？"
+Sub-question 4 (Parent node: Sub-question 2): "截至2021年6月30日的在手订单是多少？"
+Sub-question 5 (Parent node: Sub-question 3): "如何与行业平均水平进行比较？"
+
+
+
+20
+意图: 个股问询
+
+Sub-question 1: "昂立教育公司的基本信息是什么？"
+Sub-question 2 (Parent node: Sub-question 1): "昂立教育公司的员工人数是多少？"
+Sub-question 3 (Parent node: Sub-question 1): "昂立教育公司的业务范围和运营模式是什么？"
+Sub-question 4 (Parent node: Sub-question 2): "昂立教育公司员工人数的增长趋势如何？"
+Sub-question 5 (Parent node: Sub-question 1): "昂立教育公司的财务状况如何？"
+
+
+
+21
+Sub-question 1: "高测股份的硅片代工项目的当前进展是什么？"
+Sub-question 2 (Parent node: Sub-question 1): "该项目预计何时开始生产？"
+Sub-question 3 (Parent node: Sub-question 2): "开工前需要满足哪些条件或准备工作？"
+Sub-question 4 (Parent node: Sub-question 2): "是否有相关的项目公告或声明？"
+Sub-question 5 (Parent node: Sub-question 1): "市场对该项目的预期和反应是什么？"
+
+
+
+22
+Sub-question 1: "亚太科技大宗商品采购公司有哪些主要的应付账款类型？"  
+Sub-question 2 (Parent node: Sub-question 1): "这些应付账款类型的具体组成和金额是多少？"  
+Sub-question 3 (Parent node: Sub-question 1): "这些应付账款与哪些供应商相关联？"  
+Sub-question 4 (Parent node: Sub-question 2): "具体的应付账款金额在财务报表中如何体现？"  
+Sub-question 5 (Parent node: Sub-question 3): "各供应商的合同条款和付款条件是什么？"  
+
+
+
+23
+意图选项: 个股问询
+
+Sub-question 1: "润禾材料公司涉及哪些产品?"
+Sub-question 2 (Parent node: Sub-question 1): "这些产品的利润情况如何?"
+Sub-question 3 (Parent node: Sub-question 2): "哪些产品贡献的利润最大?"
+Sub-question 4 (Parent node: Sub-question 2): "各类产品的销售情况如何?"
+Sub-question 5 (Parent node: Sub-question 1): "润禾材料公司的市场定位是什么?"
+
+
+
+24
+Sub-question 1: "倍杰特公司的国有股份占比是多少？"
+Sub-question 2 (Parent node: Sub-question 1): "倍杰特公司的外资股份占比是多少？"
+Sub-question 3 (Parent node: Sub-question 1): "倍杰特公司的股份结构是如何分布的？"
+
+
+
+25
+意图选项: 个股问询
+
+Sub-question 1: "铖昌科技公司近三年财务数据有哪些？"
+Sub-question 2 (Parent node: Sub-question 1): "铖昌科技公司近三年的流动比率的具体数值是什么？"
+Sub-question 3 (Parent node: Sub-question 1): "铖昌科技公司近三年流动比率的变化趋势如何？"
+
+
+
+26
+Sub-question 1: "信隆健康的第二大股东是谁？"  
+Sub-question 2 (Parent node: Sub-question 1): "该股东最近是否进行了减持？"  
+Sub-question 3 (Parent node: Sub-question 2): "该股东减持了多少股份？"  
+Sub-question 4 (Parent node: Sub-question 1): "该股东减持的原因是什么？"  
+Sub-question 5 (Parent node: Sub-question 2): "减持后该股东的持股比例是多少？"  
+
+
+
+27
+Sub-question 1: "潍柴重机公司的大股东有哪些？"
+Sub-question 2 (Parent node: Sub-question 1): "大股东的限售股解禁政策是什么？"
+Sub-question 3 (Parent node: Sub-question 2): "限售股的解禁时间具体是何时？"
+
+
+
+28
+Sub-question 1: "新诺威是否进行增发股本？"
+Sub-question 2 (Parent node: Sub-question 1): "增发股本的定价是否已经确定？"
+Sub-question 3 (Parent node: Sub-question 2): "已经确定的定价具体是多少？"
+Sub-question 4 (Parent node: Sub-question 1): "增发股本的目的是什么？"
+Sub-question 5 (Parent node: Sub-question 1): "增发股本的时间安排是什么？"
+
+
+
+29
+意图类型: 个股问询
+
+Sub-question 1: "紫建电子当前的技术升级现状是什么？"
+Sub-question 2 (Parent node: Sub-question 1): "紫建电子在技术升级方面的主要目标是什么？"
+Sub-question 3 (Parent node: Sub-question 2): "这些目标将如何影响公司的未来发展？"
+Sub-question 4 (Parent node: Sub-question 2): "紫建电子计划采用哪些具体措施来实现这些目标？"
+Sub-question 5 (Parent node: Sub-question 1): "行业内其他公司在技术升级方面的表现如何？"
+
+
+
+30
+Sub-question 1: "海特生物是否有进行定向增发的计划？"  
+Sub-question 2 (Parent node: Sub-question 1): "定向增发的具体进展是什么？"  
+Sub-question 3 (Parent node: Sub-question 2): "增发的时间表是什么？"  
+Sub-question 4 (Parent node: Sub-question 2): "参与增发的投资者有哪些？"  
+Sub-question 5 (Parent node: Sub-question 2): "定向增发对海特生物的财务状况有何影响？"
+
+
+
+31
+意图分类: 个股问询
+
+Sub-question 1: "豪美新材的系统门窗业务是什么？"
+Sub-question 2 (Parent node: Sub-question 1): "系统门窗业务的主要产品有哪些？"
+Sub-question 3 (Parent node: Sub-question 1): "豪美新材在系统门窗行业的市场地位如何？"
+Sub-question 4 (Parent node: Sub-question 3): "豪美新材的市场份额大约是多少？"
+Sub-question 5 (Parent node: Sub-question 3): "豪美新材与竞争对手相比有哪些优势？"
+
+
+
+32
+意图: 个股问询
+
+Sub-question 1: "福晶科技的主要产品是什么？"
+Sub-question 2 (Parent node: Sub-question 1): "这些主要产品中哪些适用于医美行业？"
+Sub-question 3 (Parent node: Sub-question 2): "这些产品在医美中的具体应用有哪些？"
+Sub-question 4 (Parent node: Sub-question 3): "在医美应用中，福晶科技的产品是否有竞争优势？"
+Sub-question 5 (Parent node: Sub-question 3): "这些产品的市场反馈如何？"
+
+
+
+33
+Sub-question 1: "拓斯达的股价为什么持续低迷？"
+Sub-question 2 (Parent node: Sub-question 1): "市场对拓斯达的前景有什么看法？"
+Sub-question 3 (Parent node: Sub-question 1): "拓斯达是否有任何影响股价的负面消息？"
+Sub-question 4 (Parent node: Sub-question 2): "市场对可转债的转股价调整有什么预期？"
+Sub-question 5 (Parent node: Sub-question 4): "如果下调转股价，会对股价有什么影响？"
+
+
+
+34
+Sub-question 1: "金沃股份在报告期内是否存在违反法律法规的记录？"  
+Sub-question 2 (Parent node: Sub-question 1): "是否有相关的处罚或警告记录？"  
+Sub-question 3 (Parent node: Sub-question 1): "是否有相关的内部审计或合规检查结果？"  
+Sub-question 4 (Parent node: Sub-question 2): "处罚或警告的具体内容是什么？"  
+Sub-question 5 (Parent node: Sub-question 3): "审计或检查是否发现问题？"  
+
+
+
+35
+Sub-question 1: "德迈仕公司的大股东是谁？"
+Sub-question 2 (Parent node: Sub-question 1): "大股东最近是否有减持计划？"
+Sub-question 3 (Parent node: Sub-question 2): "这个减持计划的具体时间是什么时候？"
+Sub-question 4 (Parent node: Sub-question 2): "减持的股份数量是多少？"
+Sub-question 5 (Parent node: Sub-question 2): "减持计划是否已经公开？"
+
+
+
+36
+Sub-question 1: "清水源是否有增发股票的计划？"
+Sub-question 2 (Parent node: Sub-question 1): "增发股票计划是否影响投资者的决策？"
+Sub-question 3 (Parent node: Sub-question 1): "增发股票计划是否已公布？"
+Sub-question 4 (Parent node: Sub-question 3): "清水源的管理层对增发股票的态度是什么？"
+Sub-question 5 (Parent node: Sub-question 2): "投资者对增发股票计划的反应如何？"
+
+
+
+37
+意图类型: 行业板块问询
+
+Sub-question 1: "明年经济是否有回暖的迹象？"
+Sub-question 2 (Parent node: Sub-question 1): "哪些行业在经济回暖时会表现较好？"
+Sub-question 3 (Parent node: Sub-question 2): "当前有哪些行业板块值得关注？"
+Sub-question 4 (Parent node: Sub-question 3): "这些行业板块的投资机会具体体现在哪些个股上？"
+Sub-question 5 (Parent node: Sub-question 4): "这些个股当前的市场表现如何？"
+
+
+
+38
+意图选项: 大盘问询
+
+Sub-question 1: "今天股市整体表现如何？"
+Sub-question 2 (Parent node: Sub-question 1): "哪些因素可能影响了今天的股市表现？"
+Sub-question 3 (Parent node: Sub-question 2): "有没有特定的事件导致市场下跌？"
+Sub-question 4 (Parent node: Sub-question 2): "当前的宏观经济环境对股市有何影响？"
+Sub-question 5 (Parent node: Sub-question 2): "与市场相关的其他行业或板块有何表现？"
+
+
+
+39
+Sub-question 1: "什么是REITS基金？"
+Sub-question 2 (Parent node: Sub-question 1): "REITS基金的种类有哪些？"
+Sub-question 3 (Parent node: Sub-question 1): "REITS基金的投资特点是什么？"
+Sub-question 4 (Parent node: Sub-question 2): "每种REITS基金的主要投资领域是什么？"
+Sub-question 5 (Parent node: Sub-question 4): "这些主要投资领域的市场表现如何？"
+
+
+
+40
+Sub-question 1: "当前市场行情如何？"
+Sub-question 2 (Parent node: Sub-question 1): "证券基金的投资者信心如何？"
+Sub-question 3 (Parent node: Sub-question 1): "近期政策变化对证券基金的影响是什么？"
+Sub-question 4 (Parent node: Sub-question 2): "过去一段时间证券基金的表现如何？"
+Sub-question 5 (Parent node: Sub-question 3): "市场对未来经济走势的预期是什么？"
+
+
+
+41
+意图: 基金问询
+
+Sub-question 1: "什么是投资基金？"
+Sub-question 2 (Parent node: Sub-question 1): "选择基金时需要考虑哪些因素？"
+Sub-question 3 (Parent node: Sub-question 2): "风险承受能力是什么？"
+Sub-question 4 (Parent node: Sub-question 2): "投资目标是什么？"
+Sub-question 5 (Parent node: Sub-question 1): "小白适合投资哪种类型的基金？"
+
+
+
+42
+意图：基金问询
+
+Sub-question 1: "什么是半导体行业？"
+Sub-question 2 (Parent node: Sub-question 1): "半导体行业中有哪些主要公司？"
+Sub-question 3 (Parent node: Sub-question 1): "与半导体相关的基金有哪些？"
+Sub-question 4 (Parent node: Sub-question 3): "这些基金的投资策略是什么？"
+Sub-question 5 (Parent node: Sub-question 3): "这些基金的历史表现如何？"
+
+
+
+43
+Sub-question 1: "什么是养老基金？"
+Sub-question 2 (Parent node: Sub-question 1): "养老基金的投资目标和风险承受能力是什么？"
+Sub-question 3 (Parent node: Sub-question 1): "选择养老基金时需要考虑哪些因素？"
+Sub-question 4 (Parent node: Sub-question 3): "市场上有哪些不同类型的养老基金可供选择？"
+Sub-question 5 (Parent node: Sub-question 4): "哪些养老基金的历史表现较好？"
+
+
+
+44
+Sub-question 1: "当前市场上有哪些ETF可供选择？"  
+Sub-question 2 (Parent node: Sub-question 1): "这些ETF的投资方向和行业是什么？"  
+Sub-question 3 (Parent node: Sub-question 1): "这些ETF的历史表现如何？"  
+Sub-question 4 (Parent node: Sub-question 2): "选择哪个行业的ETF比较合适？"  
+Sub-question 5 (Parent node: Sub-question 3): "哪个ETF的费用和流动性更优？"  
+
+
+
+45
+Sub-question 1: "最近市场整体表现如何？"
+Sub-question 2 (Parent node: Sub-question 1): "是否有特定行业影响基金表现？"
+Sub-question 3 (Parent node: Sub-question 2): "该行业近期是否遇到负面消息或事件？"
+Sub-question 4 (Parent node: Sub-question 1): "当前基金的投资组合表现如何？"
+Sub-question 5 (Parent node: Sub-question 4): "是否有基金经理的调整或策略变化？"
+
+
+
+46
+Sub-question 1: "当前市场有哪些投资方向？"  
+Sub-question 2 (Parent node: Sub-question 1): "哪些方向的市场表现较好？"  
+Sub-question 3 (Parent node: Sub-question 2): "其中哪些方向适合投资基金？"  
+Sub-question 4 (Parent node: Sub-question 3): "当前有哪些推荐的基金产品？"  
+Sub-question 5 (Parent node: Sub-question 4): "这些基金的风险和收益特征是什么？"  
+
+
+
+47
+Sub-question 1: "什么是短线操作？"
+Sub-question 2 (Parent node: Sub-question 1): "短线操作通常适合哪些投资策略？"
+Sub-question 3 (Parent node: Sub-question 1): "有哪些基金是专门设计用于短线操作的？"
+Sub-question 4 (Parent node: Sub-question 3): "这些基金的历史表现如何？"
+Sub-question 5 (Parent node: Sub-question 2): "市场当前的状况如何影响短线基金的选择？"
+
+
+
+48
+Sub-question 1: "近期市场表现如何？"
+Sub-question 2 (Parent node: Sub-question 1): "哪些行业或板块表现较好？"
+Sub-question 3 (Parent node: Sub-question 2): "在表现优秀的行业或板块中，有哪些基金表现突出？"
+Sub-question 4 (Parent node: Sub-question 3): "这些基金的投资组合和策略是什么？"
+Sub-question 5 (Parent node: Sub-question 3): "这些基金的历史业绩和风险指标是什么？"
+
+
+
+49
+意图选项: 客服问询
+
+Sub-question 1: "如何找到银行的客服联系方式？"
+Sub-question 2 (Parent node: Sub-question 1): "客服是否提供取消账户绑定的服务？"
+Sub-question 3 (Parent node: Sub-question 2): "取消账户绑定需要哪些身份验证信息？"
+Sub-question 4 (Parent node: Sub-question 3): "如何提交取消账户绑定的请求？"
+Sub-question 5 (Parent node: Sub-question 4): "取消绑定后，需多长时间生效？"
+
+
+
+50
+Sub-question 1: "合盛硅业的中签是什么情况下发生的？"
+Sub-question 2 (Parent node: Sub-question 1): "中签后需要进行哪些确认和操作？"
+Sub-question 3 (Parent node: Sub-question 2): "如何通过交易平台进行操作？"
+Sub-question 4 (Parent node: Sub-question 3): "需要关注哪些费用或时间限制？"
+Sub-question 5 (Parent node: Sub-question 2): "是否有其他方式进行补充操作？"
+
+
+
+51
+Sub-question 1: "昨天是否应该公布龙虎榜？"
+Sub-question 2 (Parent node: Sub-question 1): "若没有公布龙虎榜，原因是什么？"
+Sub-question 3 (Parent node: Sub-question 2): "是否有特殊情况导致龙虎榜未公布？"
+Sub-question 4 (Parent node: Sub-question 2): "龙虎榜的公布是否受市场情况影响？"
+Sub-question 5 (Parent node: Sub-question 1): "有没有历史数据支持这一情况？"
+
+
+
+52
+Sub-question 1: "分时图是什么？"
+Sub-question 2 (Parent node: Sub-question 1): "分时图的曲线代表什么？"
+Sub-question 3 (Parent node: Sub-question 1): "分时图的量柱代表什么？"
+Sub-question 4 (Parent node: Sub-question 2): "分时图的曲线是如何计算的？"
+Sub-question 5 (Parent node: Sub-question 3): "分时图的量柱反映了哪些交易信息？"
+
+
+
+53
+Sub-question 1: "上证指数的定义是什么？"
+Sub-question 2 (Parent node: Sub-question 1): "上证指数的组成成分有哪些？"
+Sub-question 3 (Parent node: Sub-question 1): "黄线在上证指数中的具体含义是什么？"
+Sub-question 4 (Parent node: Sub-question 3): "黄线代表的指标或趋势是什么？"
+Sub-question 5 (Parent node: Sub-question 3): "黄线与其他线条（如蓝线）有什么区别？"
+
+
+
+54
+Sub-question 1: "基金的预估收益是什么时候发布的？"  
+Sub-question 2 (Parent node: Sub-question 1): "预估收益的计算依据是什么？"  
+Sub-question 3 (Parent node: Sub-question 1): "是否有系统故障导致无法查看预估收益？"  
+Sub-question 4 (Parent node: Sub-question 3): "如何确认系统是否正常运行？"  
+Sub-question 5 (Parent node: Sub-question 2): "预估收益的影响因素有哪些？"  
+
+
+
+55
+Sub-question 1: "什么是创业板？"
+Sub-question 2 (Parent node: Sub-question 1): "开通创业板需要满足哪些条件？"
+Sub-question 3 (Parent node: Sub-question 2): "满足条件后，开通创业板的步骤是什么？"
+Sub-question 4 (Parent node: Sub-question 3): "开通创业板的时间通常是多少？"
+Sub-question 5 (Parent node: Sub-question 4): "影响开通时间的因素有哪些？"
+
+
+
+56
+Sub-question 1: "如何访问个人账户？"  
+Sub-question 2 (Parent node: Sub-question 1): "个人账户登录是否需要身份验证？"  
+Sub-question 3 (Parent node: Sub-question 1): "个人账户中是否有资金出入记录？"  
+Sub-question 4 (Parent node: Sub-question 3): "如何查看资金出入记录的详细信息？"  
+Sub-question 5 (Parent node: Sub-question 2): "如果需要身份验证，应该提供哪些信息？"  
+
+
+
+57
+Sub-question 1: "我需要知道新债中签的具体信息吗？"
+Sub-question 2 (Parent node: Sub-question 1): "我是否已经了解缴款的截止日期？"
+Sub-question 3 (Parent node: Sub-question 2): "我需要查看缴款的具体步骤吗？"
+Sub-question 4 (Parent node: Sub-question 3): "我是否需要联系券商以获取帮助？"
+Sub-question 5 (Parent node: Sub-question 1): "我是否需要了解更多关于新债的知识？"
+
+
+
+58
+意图: 客服问询
+
+Sub-question 1: "佣金率的当前标准是什么？"
+Sub-question 2 (Parent node: Sub-question 1): "是否有变更佣金率的政策或规定？"
+Sub-question 3 (Parent node: Sub-question 2): "变更佣金率需要哪些具体文档或材料？"
+Sub-question 4 (Parent node: Sub-question 2): "变更佣金率的审批流程是怎样的？"
+Sub-question 5 (Parent node: Sub-question 1): "变更佣金率的影响是什么？"
+
+
+
+59
+Sub-question 1: "如何进行沪市开户?"
+Sub-question 2 (Parent node: Sub-question 1): "需要准备哪些材料?"
+Sub-question 3 (Parent node: Sub-question 1): "开户流程具体步骤有哪些?"
+Sub-question 4 (Parent node: Sub-question 3): "每一步骤大概需要多长时间?"
+Sub-question 5 (Parent node: Sub-question 2): "是否需要到现场办理?"
+
+
+
+60
+Sub-question 1: "我已经开户了，下一步应该做什么？"
+Sub-question 2 (Parent node: Sub-question 1): "如何进行买入操作？"
+Sub-question 3 (Parent node: Sub-question 2): "需要选择什么样的股票或者基金进行投资？"
+Sub-question 4 (Parent node: Sub-question 3): "买入时需要注意哪些市场规则或手续费？"
+Sub-question 5 (Parent node: Sub-question 1): "哪里可以获取投资建议或相关信息？"
+
+
+
+61
+意图: 客服问询
+
+Sub-question 1: "一个人可以开多少个证券账户？"
+Sub-question 2 (Parent node: Sub-question 1): "是否有不同的规定适用于不同类型的证券账户？"
+Sub-question 3 (Parent node: Sub-question 1): "开设证券账户的具体流程是什么？"
+Sub-question 4 (Parent node: Sub-question 2): "这些规定是否因地区或国家而异？"
+Sub-question 5 (Parent node: Sub-question 3): "开设证券账户需要哪些基本资料？"
+
+
+
+62
+意图选项: 客服问询
+
+Sub-question 1: "如何找回取现密码？"
+Sub-question 2 (Parent node: Sub-question 1): "需要提供哪些验证信息？"
+Sub-question 3 (Parent node: Sub-question 2): "如果验证信息错误怎么办？"
+Sub-question 4 (Parent node: Sub-question 1): "是否有其他方式进行取现？"
+Sub-question 5 (Parent node: Sub-question 4): "其他方式的具体步骤是什么？"
+
+
+
+63
+Sub-question 1: "我需要撤销的股票委托单是哪一只？"
+Sub-question 2 (Parent node: Sub-question 1): "我是否已经了解撤单的具体手续？"
+Sub-question 3 (Parent node: Sub-question 2): "我的撤单操作是否可以在交易平台上完成？"
+Sub-question 4 (Parent node: Sub-question 2): "若无法在平台上撤单，我该联系哪个客服？"
+
+
+
+64
+Sub-question 1: "需要登录账户吗？"
+Sub-question 2 (Parent node: Sub-question 1): "在账户设置中找到联系信息吗？"
+Sub-question 3 (Parent node: Sub-question 2): "可以直接编辑联系号码吗？"
+Sub-question 4 (Parent node: Sub-question 3): "需要确认新的联系号码吗？"
+Sub-question 5 (Parent node: Sub-question 4): "是否需要保存更改？"
+
+
+
+65
+Sub-question 1: "账户是否已经成功开通？"  
+Sub-question 2 (Parent node: Sub-question 1): "如果账户已开通，是否有资格购买ETF？"  
+Sub-question 3 (Parent node: Sub-question 2): "是否存在相关的投资限制或要求？"  
+Sub-question 4 (Parent node: Sub-question 2): "是否有其他因素导致无法购买ETF？"  
+Sub-question 5 (Parent node: Sub-question 1): "是否存在技术问题导致无法进行交易？"
+
+
+
+66
+Sub-question 1: "我是否中签了股票？"
+Sub-question 2 (Parent node: Sub-question 1): "我的账户上是否有足额资金？"
+Sub-question 3 (Parent node: Sub-question 1): "中签后我需要进行什么操作？"
+Sub-question 4 (Parent node: Sub-question 3): "我需要亲自去操作还是可以通过其他方式？"
+Sub-question 5 (Parent node: Sub-question 3): "我需要提供哪些信息或文件？"
+
+
+
+67
+Sub-question 1: "我需要查找功能指南吗？"
+Sub-question 2 (Parent node: Sub-question 1): "功能指南在哪里？"
+Sub-question 3 (Parent node: Sub-question 1): "功能指南是否有在线版本？"
+Sub-question 4 (Parent node: Sub-question 2): "功能指南是否可下载？"  
+Sub-question 5 (Parent node: Sub-question 1): "我需要联系客服来获取功能指南吗？"
+
+
+
+68
+Sub-question 1: "我的证券账户的开户流程是什么？"
+Sub-question 2 (Parent node: Sub-question 1): "开户需要提供哪些资料？"
+Sub-question 3 (Parent node: Sub-question 2): "身份证明文件有哪些要求？"
+Sub-question 4 (Parent node: Sub-question 1): "开户地点可以选择哪些地方？"
+Sub-question 5 (Parent node: Sub-question 4): "不同开户地点对交易有什么影响？"
+
+
+
+69
+意图分析: 客服问询
+
+Sub-question 1: "身份证过期的状态是什么？"
+Sub-question 2 (Parent node: Sub-question 1): "需要哪些材料来续办身份证？"
+Sub-question 3 (Parent node: Sub-question 1): "续办身份证的流程是什么？"
+Sub-question 4 (Parent node: Sub-question 3): "续办身份证需要多长时间？"
+Sub-question 5 (Parent node: Sub-question 3): "在哪里可以办理续办手续？"
+
+
+
+70
+意图选项: [客服问询]
+
+Sub-question 1: "密码锁是什么类型的？"
+Sub-question 2 (Parent node: Sub-question 1): "当前密码锁是否有解锁方式？"
+Sub-question 3 (Parent node: Sub-question 2): "密码锁已经锁定的时间是多少？"
+Sub-question 4 (Parent node: Sub-question 3): "是否需要联系客服以获取帮助？"
+Sub-question 5 (Parent node: Sub-question 4): "联系客服的方式有哪些？"
+
+
+
+71
+意图: 客服问询
+
+Sub-question 1: "新股申购的正常流程是什么？"
+Sub-question 2 (Parent node: Sub-question 1): "当前新股申购是否受到限制？"
+Sub-question 3 (Parent node: Sub-question 2): "如果受到限制，预计什么时候会恢复正常申购？"
+
+
+
+72
+Sub-question 1: "在哪里可以找到风险设定值的选项？"  
+Sub-question 2 (Parent node: Sub-question 1): "需要具备什么权限才能更改风险设定值？"  
+Sub-question 3 (Parent node: Sub-question 1): "更改风险设定值的具体步骤是什么？"  
+Sub-question 4 (Parent node: Sub-question 3): "更改后如何确认新风险设定值生效？"  
+Sub-question 5 (Parent node: Sub-question 2): "如果没有权限，应该联系谁进行处理？"
+
+
+
+73
+Sub-question 1: "需要查找客户基本信息的具体内容吗？"
+Sub-question 2 (Parent node: Sub-question 1): "想了解客户基本信息在哪个系统或平台上查看？"
+Sub-question 3 (Parent node: Sub-question 2): "是否需要相关的访问权限或登录信息？"
+Sub-question 4 (Parent node: Sub-question 1): "需要了解客户基本信息的格式或类型吗？"
+Sub-question 5 (Parent node: Sub-question 4): "是否需要对客户基本信息进行分析或处理？"
+
+
+
+74
+Sub-question 1: "中证1000指数的当前表现如何？"
+Sub-question 2 (Parent node: Sub-question 1): "当前亏损的原因是什么？"
+Sub-question 3 (Parent node: Sub-question 1): "未来市场趋势对中证1000指数的影响如何？"
+Sub-question 4 (Parent node: Sub-question 2): "是否有改善亏损的措施或策略？"
+Sub-question 5 (Parent node: Sub-question 3): "长期持有中证1000指数的风险和收益如何？"
+
+
+
